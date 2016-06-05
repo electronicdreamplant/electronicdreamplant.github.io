@@ -14,11 +14,11 @@ body {
     margin: 0 !important;
 }
 .container  {
-    margin: 60px auto;
+    margin: 0 60px;
     width: 70%;
 }
 .logo {
-    margin-left: 50px;
+    margin-left: 60px;
 }
 header ul, footer ul {
     padding: 0px;
