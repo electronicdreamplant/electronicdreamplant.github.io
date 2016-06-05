@@ -31,10 +31,12 @@ a:hover {
     color: #660066;
 }
 h1 {
+    color: #999;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2  {
+    color: #999;    
     font-size:2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -57,7 +59,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.3em;
+    font-size: 1.2em;
 }
 
 ul.posts li {
