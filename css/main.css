@@ -7,10 +7,6 @@ header  {
   width: 100%;
 }
 
-nav  {
-    border-bottom: solid 1px #990099;
-}
-
 body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #fff;
@@ -18,18 +14,19 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+header ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
     float: right;
 }
-nav ul li, footer ul li {
+header ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-nav h1  {
+header h1  {
     font-size: 3em;
+    color: #fff;
 }
 a {
     text-decoration: none;
