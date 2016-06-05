@@ -1,5 +1,5 @@
 header  {
-    
+    border-bottom: solid 1px #990099;
 }
 
 body {
@@ -20,9 +20,6 @@ nav h1  {
     font-size: 3em;
     color: #000;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    border-bottom: solid;
-    border-bottom-color: purple;
-    border-width: 1px;
 }
 a {
     text-decoration: none;
