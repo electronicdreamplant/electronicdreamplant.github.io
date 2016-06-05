@@ -19,7 +19,7 @@ nav ul li, footer ul li {
 }
 nav h1  {
     font-size: 3em;
-    color: #000;
+    color: #999;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 a {
@@ -40,14 +40,15 @@ h2  {
 }
 p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 1.3em;
+    font-size: 1.2em;
     line-height: 1.0em;
-    color: #333;
+    color: #999;
 }
 li  {
-    font-size: 1.3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.2em;
     line-height: 1.8em;
-    color: #333;
+    color: #999;
 }
 footer {
     border-top: 1px solid #990099;
