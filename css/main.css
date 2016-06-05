@@ -61,7 +61,8 @@ p {
 }
 li  {
     font-size: 1.2em;
-    line-height: 1.8em;
+    line-height: 1.5em;
+    margin-bottom: 0.8em;
 }
 footer {
     border-top: 1px solid #990099;
