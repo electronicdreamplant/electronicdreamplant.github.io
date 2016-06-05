@@ -19,7 +19,7 @@ nav ul li, footer ul li {
 }
 nav h1  {
     font-size: 3em;
-    color: #999;
+    color: #666;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 a {
@@ -31,12 +31,12 @@ a:hover {
     color: #660066;
 }
 h1 {
-    color: #999;
+    color: #666;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2  {
-    color: #999;    
+    color: #666;    
     font-size:2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -44,13 +44,13 @@ p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.2em;
     line-height: 1.0em;
-    color: #999;
+    color: #666;
 }
 li  {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 1.2em;
     line-height: 1.8em;
-    color: #999;
+    color: #666;
 }
 footer {
     border-top: 1px solid #990099;
