@@ -11,9 +11,12 @@ body {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #fff;
     color: #666;
+}
+.container  {
     margin: 60px auto;
     width: 70%;
 }
+
 header ul, footer ul {
     padding: 0px;
     list-style: none;
