@@ -13,6 +13,10 @@ body {
     color: #666;
     margin: 0 !important;
 }
+h2  {
+    font-size:2em;
+    margin-top; 0;
+}
 .container  {
     margin: 0 60px;
     width: 70%;
@@ -50,10 +54,6 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-}
-h2  {
-    font-size:2em;
-    margin-top; 0;
 }
 p {
     font-size: 1.2em;
