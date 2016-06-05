@@ -17,7 +17,9 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-
+.logo {
+    margin: 50px;
+}
 header ul, footer ul {
     padding: 0px;
     list-style: none;
