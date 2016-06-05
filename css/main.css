@@ -12,6 +12,11 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+nav h1  {
+    font-size: 3em;
+    color: #990099;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
 a {
     text-decoration: none;
     color: #990099;
