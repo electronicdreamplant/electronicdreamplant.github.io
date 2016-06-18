@@ -1,3 +1,9 @@
+---
+layout: post
+title: "The Rules of Judging Photography"
+date: 2016-06-18
+---
+
 The concept of this set of rules is to try and be more objective when evaluating photography. I see countless examples of fantastic work by people, but too often the stuff that turns heads can be unworthy of praise.
 The rules take the form of a set of questions to pose when looking at the photo(s) 
 
@@ -13,6 +19,6 @@ A bit of care here; if a set of photos represents a portfolio with an underlying
 
 This one may seem silly, but cropping when done well can have a big impact on the overall presentation of a photo. And using the square format for this can emphasize your artistic point. But I've noticed some photographers seem to use the format as a starting point, as if the photo being square was its raison d'etre.
 
-##Is it good or is it big?
+## Is it good or is it big?
 
 Yes, I'm looking at you Annie Leibovitz. I've never been so disappointed at a photography exhibition as seeing her work in London once. She'd been commissioned to do some landscape work (not her area of strength) so chose to exhibit these as wall-filling shots. They were anything but impressive. The same applies for work you see casually hung in restaurants as a way to fill space. The acid test is if the photo was standard size, would it impress so much?
