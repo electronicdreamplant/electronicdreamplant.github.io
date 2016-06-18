@@ -1,0 +1,91 @@
+/* need to be in specific order, smaller to larger */
+
+/* if larger than 480px = breakpoint for landscape smartphone */
+@media screen and (min-width: 480px)  {
+  
+/***************
+TWO COLUMN LAYOUT
+****************/
+  
+  #primary  {
+    width: 50%;
+    float: left;
+  }
+  
+  #secondary  {
+    width: 40%;
+    float: right;
+  }
+  
+/***************
+3 elements side by side, each item has margin of 2.5% (5% total for each item)
+  so total is 3 x 5% = 15% so far for margins
+  
+  Total space less margins = 100 - 15 = 85%
+  
+  Divided by 3 columns = 28.3333333333% width for each
+****************/
+
+/***************
+Styles for portfolio page
+****************/  
+
+#gallery li {
+    width: 28.3333333%;
+  }
+  
+/*  this will apply only to the 4th list item (1st li on 2nd row) */
+  #gallery li:nth-child(4n) {
+    clear: left;
+  }
+  
+/***************
+About page
+****************/
+  
+.profile-photo  {
+    float: left;
+    margin: 0 5% 80px 0;
+  
+  
+}
+/*large tablets and medium desktops*/
+@media screen and (min-width: 660px)  {
+
+/***************
+Header
+****************/  
+ 
+    /* takes out the darker background for the nav and pushes to the right    */
+    nav {
+      background: none;
+      float: right;
+      font-size: 1.125em;
+      margin-right: 5%;
+      text-align: right;
+      width: 45%;
+    }
+    
+    /* now use logo id for main title and sub title and push to left  */
+   #logo  {
+      float: left;
+      margin-left: 5%;
+      text-align: left;
+      width: 45%
+    }
+    
+    h1  {
+      font-size: 2.5em;
+    }
+    
+    h2  {
+      font-size: 0.825em;
+      margin-bottom: 20px;
+    }
+    
+    header  {
+      border-bottom: 5px solid #599868;
+      margin-bottom:60px;
+}
+
+
