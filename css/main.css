@@ -17,6 +17,10 @@ h2  {
     font-size:2em;
     -webkit-margin-before: 0;
 }
+
+h3  {
+  margin-top: 2.5em;
+}
 .container  {
     margin: 0 10%;
     width: 80%;
