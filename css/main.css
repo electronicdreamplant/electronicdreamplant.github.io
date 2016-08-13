@@ -82,3 +82,10 @@ ul.posts li {
     list-style: none;
     font-size: 1.2em;
 }
+
+.profile-photo {
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 100%;
+}
