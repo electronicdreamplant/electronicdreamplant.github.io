@@ -8,6 +8,7 @@ June 2016 was the first LocalGovCamp I'd attended.
 After the brain-altering shock of UKGovCamp in January I wasn't sure what to expect. Could it match the excitement and scale? Would I walk away as inspired? Would I meet amazing people
 
 The answers are;
+
 * Not quite the same scale, but plenty of excitement to go around
 * Inspiration in buckets (see below) because it felt more relevant to my sector
 * Of course! And because I'd had a chance to speak to a few of them before, it was great to meet in person (particularly BooTheBookworm)
