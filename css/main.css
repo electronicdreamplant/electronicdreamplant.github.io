@@ -40,13 +40,9 @@ header ul li, footer ul li {
 }
 header h1  {
     font-size: 3em;
-    color: #fff;
 }
-header a  {
+header a, header a:hover, header h1  {
     color: #fff;
-}
-header a:hover  {
-    color:#fff;
 }
 a {
     text-decoration: none;
