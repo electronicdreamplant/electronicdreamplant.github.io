@@ -7,13 +7,15 @@ header  {
 }
 
 body {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica Neue', 'Arial', 'Sans-Serif';
+    font-weight: 200;
     background-color: #fff;
     color: #666;
     margin: 0 !important;
 }
 h2  {
     font-size:2em;
+    font-weight: 300;
     -webkit-margin-before: 0;
 }
 
