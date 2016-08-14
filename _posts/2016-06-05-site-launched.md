@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Site Launched"
-date: 2016-06-05
+date: 2016-06-04
 ---
 
 After a number of false starts I've finally put out a website of my own. I've chosen to do it the hard way using hard coding and playing with CSS rather than go for a Wordpress site or other blogging platform.
