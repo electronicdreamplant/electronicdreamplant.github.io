@@ -1,7 +1,6 @@
 header  {
   float: left;
   background-color: #990099;
-  color: #fff;
   margin: 0 0 30px 0;
   padding: 5px 0 0 0;
   width: 100%;
@@ -41,7 +40,7 @@ header ul li, footer ul li {
 header h1  {
     font-size: 3em;
 }
-header a, header a:hover, header h1  {
+header, header a, header a:hover, header h1  {
     color: #fff;
 }
 a {
