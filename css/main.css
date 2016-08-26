@@ -93,8 +93,8 @@ ul.posts li {
 }
 
 #projects li {
-  float: left;
-  width: 25%;
+  display: inline-block;
+  width: 250px;
   margin: 2.5%;
   color: #bdc3c7;
 }
