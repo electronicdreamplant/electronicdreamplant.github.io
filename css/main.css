@@ -133,9 +133,10 @@ a.button {
   background: transparent;
   box-shadow: none;
   text-shadow: none
+  border-radius: 5px;
 }
 
-.button a:hover {
+a:hover.button  {
   background: #990099;
   color: white;
 }
