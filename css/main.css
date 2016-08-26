@@ -111,5 +111,8 @@ ul.posts li {
 
 #projects h3  {
   margin: 0;
-  padding: 5%;
+  text-align: center;
+  color: #fff;
+  font-weight:200;
+  background-color: #990099;
 }
