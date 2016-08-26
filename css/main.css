@@ -121,4 +121,5 @@ ul.posts li {
 #projects a:hover {
   color: #666;
   text-decoration: none;
+  opacity: 0.3;
 }
