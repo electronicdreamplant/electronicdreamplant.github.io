@@ -127,9 +127,8 @@ ul.posts li {
 a.button {
   padding: 3px 11px !important;
   text-align: center;
-  border: 1px solid;
-  border-color: #990099;
-  color: #666;
+  border: 2px solid;
+  color: #990099;
   background: transparent;
   box-shadow: none;
   text-shadow: none;
