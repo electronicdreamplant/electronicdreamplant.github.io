@@ -106,3 +106,7 @@ ul.posts li {
   font-size: 0.75em;
   color: #bdc3c7;
 }
+
+#projects img {
+  max-width:25%;
+}
