@@ -86,6 +86,23 @@ ul.posts li {
   border-radius: 100%;
 }
 
-#projects li {
+#projects {
+  margin: 0;
+  padding: 0;
   list-style: none;
+}
+
+#projects li {
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+  background-color: #f5f5f5;
+  color: #bdc3c7;
+}
+
+#projects li a p {
+  margin: 0;
+  padding: 5%;
+  font-size: 0.75em;
+  color: #bdc3c7;
 }
