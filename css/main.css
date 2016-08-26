@@ -127,8 +127,8 @@ ul.posts li {
 a.button {
   padding: 3px 11px !important;
   text-align: center;
-  border: 1px solid #990099;
-  border-color: rgba(0, 0, 0, .15);
+  border: 1px solid;
+  border-color: #990099;
   color: #666;
   background: transparent;
   box-shadow: none;
@@ -140,4 +140,5 @@ a:hover.button  {
   background: #990099;
   color: white;
   text-decoration:none;
+  box-shadow: 3px 3px 3px #888888;
 }
