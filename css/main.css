@@ -132,8 +132,8 @@ a.button {
   color: #666;
   background: transparent;
   box-shadow: none;
-  text-shadow: none
-  border-radius: 8px;
+  text-shadow: none;
+  border-radius: 5px;
 }
 
 a:hover.button  {
