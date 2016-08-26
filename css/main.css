@@ -96,7 +96,6 @@ ul.posts li {
   float: left;
   width: 25%;
   margin: 2.5%;
-  background-color: #f5f5f5;
   color: #bdc3c7;
 }
 
@@ -104,7 +103,6 @@ ul.posts li {
   margin: 0;
   padding: 5%;
   font-size: 0.75em;
-  color: #bdc3c7;
 }
 
 #projects img {
@@ -113,5 +111,4 @@ ul.posts li {
 
 #projects h3  {
   margin: 0 0 0 10px;
-}
 }
