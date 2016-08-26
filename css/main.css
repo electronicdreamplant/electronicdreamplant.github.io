@@ -118,7 +118,7 @@ ul.posts li {
   background-color: #990099;
 }
 
-#projects a:hover {
+#projects li a:hover {
   color: #fff;
   text-decoration: none;
   background-color: #990099;
