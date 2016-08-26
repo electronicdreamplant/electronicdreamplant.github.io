@@ -133,10 +133,11 @@ a.button {
   background: transparent;
   box-shadow: none;
   text-shadow: none
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 a:hover.button  {
   background: #990099;
   color: white;
+  text-decoration:none;
 }
