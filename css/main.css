@@ -138,6 +138,7 @@ a.button {
 a:hover.button  {
   background: #990099;
   color: white;
+  border-color: #990099;
   text-decoration:none;
   box-shadow: 3px 3px 3px #888888;
 }
