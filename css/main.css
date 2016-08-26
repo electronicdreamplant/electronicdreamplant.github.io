@@ -124,7 +124,7 @@ ul.posts li {
   opacity: 0.3;
 }
 
-.button a {
+a.button {
   padding: 3px 11px !important;
   text-align: center;
   border: 1px solid #990099;
