@@ -110,3 +110,8 @@ ul.posts li {
 #projects img {
   max-width:100%;
 }
+
+#projects h3  {
+  margin: 0 0 0 10px;
+}
+}
