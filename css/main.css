@@ -123,3 +123,19 @@ ul.posts li {
   text-decoration: none;
   opacity: 0.3;
 }
+
+.button a {
+  padding: 3px 11px !important;
+  text-align: center;
+  border: 1px solid #990099;
+  border-color: rgba(0, 0, 0, .15);
+  color: #666;
+  background: transparent;
+  box-shadow: none;
+  text-shadow: none
+}
+
+.button a:hover {
+  background: #990099;
+  color: white;
+}
