@@ -144,6 +144,6 @@ a:hover.button  {
 }
 
 a.button:after  {
-  margin-left:3px;
+  margin-left:5px;
   content:'\25BA';
 }
