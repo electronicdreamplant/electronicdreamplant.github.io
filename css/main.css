@@ -151,7 +151,6 @@ a.button:after  {
 div.img {
     margin: 5px;
     border: 1px solid #990099;
-    float: left;
     width: 450px;
 }
 
@@ -163,5 +162,4 @@ div.img img {
 div.caption {
   padding: 5px;
   text-align: center;
-}
 }
