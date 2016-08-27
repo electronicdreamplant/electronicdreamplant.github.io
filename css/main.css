@@ -151,7 +151,7 @@ a.button:after  {
 div.img {
   margin: 5px;
   width: 450px;
-  box-shadow: 3px 3px 3px #D8D8D8; 
+  box-shadow: 3px 3px 3px #888888; 
 }
 
 div.img img {
