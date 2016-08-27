@@ -147,3 +147,21 @@ a.button:after  {
   margin-left:5px;
   content:'\25BA';
 }
+
+div.img {
+    margin: 5px;
+    border: 1px solid #990099;
+    float: left;
+    width: 450px;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.caption {
+  padding: 5px;
+  text-align: center;
+}
+}
