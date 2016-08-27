@@ -149,9 +149,9 @@ a.button:after  {
 }
 
 div.img {
-    margin: 5px;
-    border: 1px solid #990099;
-    width: 450px;
+  margin: 5px;
+  width: 450px;
+  box-shadow: 3px 3px 3px #D8D8D8; 
 }
 
 div.img img {
