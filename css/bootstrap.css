@@ -20,7 +20,7 @@ footer ul {
 
 footer ul li   {
     display: inline;
-    font-size: 1.3em;
+    font-size: 1em;
 }
 
 footer ul li a  {
@@ -33,6 +33,11 @@ footer ul li a:hover    {
     background-color: #990099;
     border-radius: 5px;
     color: #fff;
+}
+
+li  {
+    line-height: 1.5em;
+    margin-bottom: 0.8em;
 }
 
 article,
