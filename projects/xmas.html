@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+//set the variables
+var today, xmas, until;
+//today is set and converted to milliseconds
+today = Date.parse(Date());
+//as is xmas
+xmas = Date.parse("12/25/2018");
+//until is a calculation between the two values and converted into days
+until = (xmas - today)/86400000;
+
+document.getElementById("demo").innerHTML = "There are " + Math.floor(until) + " days until xmas 2018";
+</script>
+
+</body>
+</html>
