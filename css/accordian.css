@@ -1,0 +1,39 @@
+p, li {
+  font-family: arial;
+  font-size: 1em;
+}
+
+.accordion {
+    background-color: #fff;
+    color:  #b44c03;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 1.5em;
+    transition: 0.4s;
+}
+
+.accordion:after {
+    content: "+";
+    font-size: 1.4em;
+    float: right;
+}
+
+.accordion.active:after {
+    content: "-";
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
