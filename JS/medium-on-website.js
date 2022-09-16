@@ -91,7 +91,6 @@ const getCustomPost = (postData) => {
           <div id="post-date">
             ${formatDate(postData.postDate)}
           </div>
-        </div>
       </div>
       <img id="post-image" src="${postData.postImage}" alt="${postData.postTitle}"/>
 
