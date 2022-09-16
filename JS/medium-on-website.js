@@ -96,8 +96,8 @@ const getCustomPost = (postData) => {
 
       <div id="post-content">
         ${trimContent(postData.postDescription)}...
-        <p id="post-link">
-          <a href="${postData.postLink}"> Continue reading... </a>
+        <p>
+          <a href="${postData.postLink}" class="btn btn-primary"> Continue reading... </a>
         </p>
       </div>
     </div>
