@@ -59,8 +59,8 @@
 }
 
 #post-date{
- /* font-family: 'Roboto', sans-serif; */
-  font-size: 14px;
+ /* font-family: 'Roboto', sans-serif; 
+  font-size: 14px; */
   color: grey;
 }
 
@@ -74,7 +74,7 @@
   /* font-family: 'Palanquin', sans-serif; */
   font-size: 36px;
   /* font-weight: 700; */
-  margin-bottom: 20px
+  margin-bottom: 5px
 }
 
 #post-content{
