@@ -161,8 +161,8 @@ div.img img {
     height: auto;
 }
 
-div.caption {
-  padding: 5px;
+.caption {
+  padding-bottom: 50px;
   text-align: center;
 }
 
