@@ -3,13 +3,10 @@ const API_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedi
 const getClassicPost = (postData) => {
   let template = 
   `
-    <div id="post-container">
-      <div id="post-header">
-        
+    <div id="post-container">  
           <div id="post-date">
             ${formatDate(postData.postDate)}
           </div>
-        </div>
       </div>
       <img id="post-image" src="${postData.postImage}" alt="${postData.postTitle}"/>
       <div id="post-title">
