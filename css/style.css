@@ -20,7 +20,7 @@
 }
 
 #post-container{
-  max-width: 600px;
+/* max-width: 600px; */
   margin: 20px auto;
   padding: 30px;
   border:1px solid;
@@ -71,9 +71,9 @@
 }
 
 #post-title{
-  font-family: 'Palanquin', sans-serif;
-  font-size: 26px;
-  font-weight: 700;
+  /* font-family: 'Palanquin', sans-serif; */
+  font-size: 36px;
+  /* font-weight: 700; */
   margin-bottom: 5px
 }
 
