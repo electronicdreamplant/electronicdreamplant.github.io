@@ -5,13 +5,7 @@ const getClassicPost = (postData) => {
   `
     <div id="post-container">
       <div id="post-header">
-        <div id="post-author-image">
-          <img src="${postData.authorImage}" alt="${postData.authorName}"/>
-        </div>
-        <div id="post-author-info">
-          <div id="post-author">
-            ${postData.authorName}
-          </div>
+        
           <div id="post-date">
             ${formatDate(postData.postDate)}
           </div>
@@ -24,7 +18,7 @@ const getClassicPost = (postData) => {
       <div id="post-content">
         ${trimContent(postData.postDescription)}...
         <p>
-          <a href="${postData.postLink}" class="btn btn primary"> Continue reading... </a>
+          <a href="${postData.postLink}" class="btn"> Continue reading... </a>
         </p>
       </div>
     </div>
