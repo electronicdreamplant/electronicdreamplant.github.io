@@ -82,11 +82,13 @@
   font-size: 14px;
 }
 
+/* 
 #post-link a:link, a:visited{
   font-weight: 300;
   text-decoration: none;
   color:var(--color-link);
 }
+*/
 
 /* TEMPLATES */
 /* MINI */
