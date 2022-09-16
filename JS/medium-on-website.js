@@ -3,10 +3,19 @@ const API_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedi
 const getClassicPost = (postData) => {
   let template = 
   `
-    <div id="post-container">  
+    <div id="post-container">
+      <div id="post-header">
+        <div id="post-author-image">
+          <img src="${postData.authorImage}" alt="${postData.authorName}"/>
+        </div>
+        <div id="post-author-info">
+          <div id="post-author">
+            ${postData.authorName}
+          </div>
           <div id="post-date">
             ${formatDate(postData.postDate)}
           </div>
+        </div>
       </div>
       <img id="post-image" src="${postData.postImage}" alt="${postData.postTitle}"/>
       <div id="post-title">
@@ -14,8 +23,8 @@ const getClassicPost = (postData) => {
       </div>
       <div id="post-content">
         ${trimContent(postData.postDescription)}...
-        <p>
-          <a href="${postData.postLink}" class="btn"> Continue reading... </a>
+        <p id="post-link">
+          <a href="${postData.postLink}"> Continue reading... </a>
         </p>
       </div>
     </div>
