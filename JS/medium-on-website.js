@@ -97,7 +97,7 @@ const getCustomPost = (postData) => {
       <div id="post-content">
         ${trimContent(postData.postDescription)}...
         <p>
-          <a href="${postData.postLink}" class="btn btn-primary"> Continue reading... </a>
+          <a href="${postData.postLink}" class="btn btn-primary">Read full post on Medium</a>
         </p>
       </div>
     </div>
