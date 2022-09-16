@@ -80,6 +80,38 @@ const getMiniPost = (postData) => {
   return template;
 }
 
+const getCustomPost = (postData) => {
+  let template = 
+  `
+    <div id="post-container">
+      <div id="post-header">
+        <div id="post-author-image">
+          <img src="${postData.authorImage}" alt="${postData.authorName}"/>
+        </div>
+        <div id="post-author-info">
+          <div id="post-author">
+            ${postData.authorName}
+          </div>
+          <div id="post-date">
+            ${formatDate(postData.postDate)}
+          </div>
+        </div>
+      </div>
+      <img id="post-image" src="${postData.postImage}" alt="${postData.postTitle}"/>
+      <div id="post-title">
+        ${postData.postTitle}
+      </div>
+      <div id="post-content">
+        ${trimContent(postData.postDescription)}...
+        <p id="post-link">
+          <a href="${postData.postLink}"> Continue reading... </a>
+        </p>
+      </div>
+    </div>
+  `
+  return template;
+}
+
 const formatDate = (date) => {
   // Date formatting options
   var options = {year: 'numeric', month: 'long', day: 'numeric' };
@@ -131,6 +163,9 @@ const displayPosts = (data) => {
       case "mini":
         HTMLPost = getMiniPost(postData)
         break;
+      case "custom":
+        HTMLPost = getCustomPost(postData)
+        break;		    
       default:
         HTMLPost = getClassicPost(postData)
     }
