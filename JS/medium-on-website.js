@@ -5,7 +5,6 @@ const getClassicPost = (postData) => {
   `
     <div id="post-container">
       <div id="post-header">
-/* take out author and photo      
         <div id="post-author-image">
           <img src="${postData.authorImage}" alt="${postData.authorName}"/>
         </div>
@@ -13,7 +12,6 @@ const getClassicPost = (postData) => {
           <div id="post-author">
             ${postData.authorName}
           </div>
-*/	  
           <div id="post-date">
             ${formatDate(postData.postDate)}
           </div>
