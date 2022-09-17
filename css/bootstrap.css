@@ -5057,6 +5057,8 @@ a.thumbnail.active {
   border-color: #337ab7;
 }
 .thumbnail .caption {
+  margin-bottom: 20px;
+  font-size: 10px;
   padding: 9px;
   color: #333;
 }
