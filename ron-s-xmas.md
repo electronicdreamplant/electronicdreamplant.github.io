@@ -1,7 +1,6 @@
 ---
 layout: main
 title: Ron's Xmas
-published: false
 
 ---
 It was a cold, wet day on the weekend before Xmas. As Dorset was going to be the focus for visitors this year, we'd decided to come up to Oxford this weekend to have an early xmas with Dad.
