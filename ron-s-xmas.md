@@ -18,7 +18,11 @@ He's been rubbing his eye today as it's been watering a lot, but i tell him not 
 
 ![](/img/img_4877.jpeg)
 
-I'd bought some Cyclamen for mum's grave which he really liked. Normally we'd spend 20 mins there with him thinking about mum, but today is just too cold and wet so he says "I'm ready" after just a couple of minutes". I don't blame him - it's just horrid weather and we're both getting cold. 
+I'd bought some Cyclamen for mum's grave which he really liked. 
+
+![](/img/img_4875.jpeg)
+
+Normally we'd spend 20 mins there with him thinking about mum, but today is just too cold and wet so he says "I'm ready" after just a couple of minutes". I don't blame him - it's just horrid weather and we're both getting cold. 
 
 ![](/img/img_4879.jpeg)
 
@@ -36,7 +40,11 @@ Dad says "have I been here before?", forgetting the many Xmas meals we've had he
 
 ![](/img/img_4889.jpeg)
 
-Dad tries to remember when he'd been here before. "I remember a fox going past the window" he says, but then isn't sure if that's here. "It didn't really feel like Xmas", he says. "My mind is a bit all over the place". He finds it hard to remember things. Barry asks him about if he's been watching the world cup, but he can't really remember. He then work out the final game is on in just over an hour. He gets quite excited about that. Xmas dinner, like any eating event, is taken seriously, despite the felt hats Rachel has made.
+Dad tries to remember when he'd been here before. "I remember a fox going past the window" he says, but then isn't sure if that's here. "It didn't really feel like Xmas", he says. "My mind is a bit all over the place". He finds it hard to remember things. Barry asks him about if he's been watching the world cup, but he can't really remember. He then work out the final game is on in just over an hour. He gets quite excited about that. 
+
+Xmas dinner, like any eating event, is taken seriously, despite the felt hats Rachel has made.
+
+![](/img/img_4888.jpeg)
 
 He's still having a bit of trouble swallowing but a glass of water sorts him out. He eats smaller portions these days and eats slowly, but his plate is clear when he's done. Does he want Xmas pudding? You better believe he does!
 
@@ -50,6 +58,6 @@ Next we give him ours, and it's like he's been given the crown jewels (a jumper,
 
 ![](/img/img_4894.jpeg)
 
-He's sorry that he hasn't bought is anything but he 'doesn't have money'. I tell him that in looking after it for him, and have placed it all on the favourite on the next horse race. He laughs. Then I suggest Rachel and I go out for a meal and he pays for it, and he loves that, giving me a big hug round the head.
+He's sorry that he hasn't bought is anything but he 'doesn't have money'. I tell him that in looking after it all for him, and have placed it all on the favourite on the next horse race. He laughs. Then I suggest Rachel and I go out for a meal and he pays for it as an xmas present, and he loves that, giving me a big hug around the head.
 
 At half time I ask him what he thinks of the match. "I've not really been taking it in - what's the score?"
