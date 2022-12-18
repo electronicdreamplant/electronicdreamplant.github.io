@@ -62,4 +62,6 @@ He's sorry that he hasn't bought is anything but he 'doesn't have money'. I tell
 
 At half time I ask him what he thinks of the match. "I've not really been taking it in - what's the score?". He's a bit distracted by the xmas tree which he thinks is beautiful.
 
-It's a fabulous match, and although he can't keep track of the score Dad enjoys it, not wanting to leave. 
+It's a fabulous match, and although he can't keep track of the score Dad enjoys it, not wanting to leave. We stay right until the end of extra time, but since it's still a draw (3-3) I decide it's time to head back as it's getting late. By the time we get back to Isis House we've been out 5 and a half hours.
+
+He's a bit confused by the bag of presents we've bought back and I remind him that they are his, but the big box of biscuits are for the staff. In the end - just be be sure he doesn't forget - I take it into their office. 
