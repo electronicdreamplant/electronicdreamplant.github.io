@@ -61,3 +61,5 @@ Next we give him ours, and it's like he's been given the crown jewels (a jumper,
 He's sorry that he hasn't bought is anything but he 'doesn't have money'. I tell him that I'm looking after it all for him, and have placed it all on the favourite on the next horse race. He laughs. Then I suggest Rachel and I go out for a meal and he pays for it as an xmas present, and he loves that, giving me a big hug around the head.
 
 At half time I ask him what he thinks of the match. "I've not really been taking it in - what's the score?". He's a bit distracted by the xmas tree which he thinks is beautiful.
+
+It's a fabulous match, and although he can't keep track of the score Dad enjoys it, not wanting to leave. 
