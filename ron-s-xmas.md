@@ -18,29 +18,29 @@ He's been rubbing his eye today as it's been watering a lot, but i tell him not 
 
 ![](/img/img_4877.jpeg)
 
-I'd bought some Cyclamen for mum's grave which he really liked. 
+I'd bought some Cyclamen for mum's grave which he really liked.
 
 ![](/img/img_4875.jpeg)
 
-Normally we'd spend 20 mins there with him thinking about mum, but today is just too cold and wet so he says "I'm ready" after just a couple of minutes". I don't blame him - it's just horrid weather and we're both getting cold. 
+Normally we'd spend 20 mins there with him thinking about mum, but today is just too cold and wet so he says "I'm ready" after just a couple of minutes". I don't blame him - it's just horrid weather and we're both getting cold.
 
 ![](/img/img_4879.jpeg)
 
 I check my phone and Rachel is saying dinner will be ready in 15 mins. Great timing!
 
-Back in the car the heater goes on full blast at full great and it soon gets toasty. Soon we getting out of the car for (thankfully) the last time. Barry had moved his car so in able to park right outside the house.
+Back in the car the heater goes on full blast at full great and it soon gets toasty. Soon we getting out of the car for (thankfully) the last time. Barry had moved his car so I was able to park right outside the house.
 
-We switch to the walker but the step up into the house feels huge and it takes a bit of time to mount it. Barry and Chloe area very welcoming but haven't cottoned on to how hard of hearing he is. 
+We switch to the walker but the step up into the house feels huge and it takes a bit of time to mount it. Barry and Chloe are very welcoming but haven't cottoned on to how hard of hearing he is. Having said that, he's a lot better hearing than the last time we saw him (thanks to a new batch of hearing aid batteries sent to the home)
 
 ![](/img/img_4886.jpeg)
 
 ![](/img/img_4881.jpeg)
 
-Dad says "have I been here before?", forgetting the many Xmas meals we've had here. Rachel is soon there with a cold Guinness for him. He takes a sip but realty struggles to swallow it. Just to cold for him at the moment, so Barry wraps it in a warm towel to have later.
+Dad says "have I been here before?", forgetting the many Xmas meals we've had here previously. Rachel is soon there with a cold Guinness for him. He takes a sip but realty struggles to swallow it. It's just too cold for him at the moment, so Barry wraps it in a warm towel to have later.
 
 ![](/img/img_4889.jpeg)
 
-Dad tries to remember when he'd been here before. "I remember a fox going past the window" he says, but then isn't sure if that's here. "It didn't really feel like Xmas", he says. "My mind is a bit all over the place". He finds it hard to remember things. Barry asks him about if he's been watching the world cup, but he can't really remember. He then work out the final game is on in just over an hour. He gets quite excited about that. 
+Dad tries to remember when he'd been here before. "I remember a fox going past the window" he says, but then isn't sure if that's here. "It doesn't really feel like Xmas", he says. "My mind is a bit all over the place". He finds it hard to remember things nowadays. Barry asks him about if he's been watching the world cup, but he can't really remember. We then work out the final game is on in just over an hour. He gets quite excited about that.
 
 Xmas dinner, like any eating event, is taken seriously, despite the felt hats Rachel has made.
 
@@ -50,14 +50,14 @@ He's still having a bit of trouble swallowing but a glass of water sorts him out
 
 ![](/img/img_4892.jpeg)
 
-After dinner it's time to give out his presents. They go down well with our hosts. 
+After dinner it's time to give out his presents. They go down well with our hosts.
 
 ![](/img/img_4893.jpeg)
 
-Next we give him ours, and it's like he's been given the crown jewels (a jumper, some biscuits and Turkish delight). 
+Next we give him ours, and it's like he's been given the crown jewels (a jumper, some biscuits and Turkish delight).
 
 ![](/img/img_4894.jpeg)
 
-He's sorry that he hasn't bought is anything but he 'doesn't have money'. I tell him that in looking after it all for him, and have placed it all on the favourite on the next horse race. He laughs. Then I suggest Rachel and I go out for a meal and he pays for it as an xmas present, and he loves that, giving me a big hug around the head.
+He's sorry that he hasn't bought is anything but he 'doesn't have money'. I tell him that I'm looking after it all for him, and have placed it all on the favourite on the next horse race. He laughs. Then I suggest Rachel and I go out for a meal and he pays for it as an xmas present, and he loves that, giving me a big hug around the head.
 
-At half time I ask him what he thinks of the match. "I've not really been taking it in - what's the score?"
+At half time I ask him what he thinks of the match. "I've not really been taking it in - what's the score?". He's a bit distracted by the xmas tree which he thinks is beautiful.
