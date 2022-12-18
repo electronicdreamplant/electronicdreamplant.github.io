@@ -4,15 +4,15 @@ title: Ron's Xmas
 published: false
 
 ---
-It was a cold, wet day on the weekend before Xmas. As Dorset was going to be the focus
+It was a cold, wet day on the weekend before Xmas. As Dorset was going to be the focus for visitors this year, we'd decided to come up to Oxford this weekend to have an early xmas with Dad.
 
-Had been made posh by the care team. One of the staff tells him they love him. Helps me take him down to the car - wheelchair and walker. Next thing to buy and send to him is a new belt. He's getting a bit thin so his trousers are falling down today! Every time he gets up he needs an adjustment
+He had been made 'posh' by the care team. One of the staff tells him they love him. She helps me take him down to the car - wheelchair and walker today. I make a note that the next thing to buy and send to him is a new belt; he's getting a bit thin so his trousers are falling down today! Every time he gets up he needs an adjustment.
 
 Off to the supermarket to get some flowers for Chloe for making the meal today. Also to pick up done biscuits as a present for the staff at the home. We'd already got presents for Barry and Chloe for dad to give - some panettone for Chloe and some beer for Barry.
 
-We'd planned to have a tea and slice of cake as a treat before arriving as Xmas dinner was going to be late, but the cafe had closed down! Weather has turned so still cold but now starting to rain. Dad makes frequent mention of it before uttering the immortal "winter draws on" a bit later.
+We'd planned to have a tea and slice of cake out as a treat before arriving since Xmas dinner was going to be late, but the cafe had closed down! The weather has by now turned so cold but also starting to rain. Dad makes frequent mention of it before uttering the immortal "winter draws on" a bit later.
 
-It's getting harder him getting in and out of the car these days. His carer alluded to this earlier by saying it's good for him to get out 'while he still can'. Despite this he's still full of smiles. We make an attempt to get into another supermarket cafe but it's the last weekend before Xmas so everywhere is packed. "I think it's going to be busy everywhere today - how about we head to the crematorium?" "I'm easy", he says, "I'm along for the ride. You decide".
+It's getting harder him getting in and out of the car these days. His carer alluded to this earlier by saying it's good for him to get out 'while he still can'. Despite this he's still full of smiles. We make an attempt to get into another supermarket cafe but it's the last weekend before Xmas so everywhere is packed. "I think it's going to be busy everywhere today - how about we head to the crematorium?" I suggest. "I'm easy", he says, "I'm along for the ride. You decide".
 
 He's been rubbing his eye today as it's been watering a lot, but i tell him not to otherwise hell make it worse. He's also got a runny nose but has a flamboyant hanky which he keeps using. The weather has turned to be cold and drizzly. Lucky I've got Rachel's raincoat to throw over his winter coat to keep the rain off a bit.
 
