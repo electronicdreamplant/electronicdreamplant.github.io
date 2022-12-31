@@ -8,15 +8,18 @@ title: OX1Digital | Projects
  </div>
 
 <p>I decided to post about this project as I recently came across some old files while clearing my laptop. Also, I'm amazed to see <a href="https://www.oxopendata.uk/">the site is still running</a> with its domain name intact.</p>
+<p></p>
 <h3>Background</h3>
 <p>Back when I was Digital Development Manager at Oxford City Council I had a broad (unfocused?) remit to 'do' digital things, one of which was looking into how we could further aspirations to publish open data.</p>
 <p>Some of the requirements to do this were enshrined in law (mostly environmental data) but the Economic Development team were really keen to do something as it could support business. It actually got built into the <a href="https://digital.oxford.gov.uk/strategy/collaboration.html">Digital Strategy</a> of the time.</p>
 <p>The council was working alongside Oxfordshire County Council to move this along, and some funding had been found to use a platform by <a href="https://dev.socrata.com/">Socrata</a>, which was at a cost of &pound;10k per annum (apparently a significantly reduced premium). But this couldn't be sustained, so a low cost alternative was needed.</p>
+<p></p>
 <h3>Exploring the options</h3>
 <p>With no funding in sight I looked at obvious candidates like <a href="https://www.data.gov.uk/">data.gov.uk</a> for just hosting datasets, but felt this wouldn't encourage non-traditional users to get involved.</p>
 <p><a href="https://ckan.org/">CKAN</a> was the technology running data.gov.uk, and being open source felt like a contender. But the technical know-how required to get it up and running were beyond me.</p>
 <p>There were a few lower-cost platforms, and <a href="https://www.devon.gov.uk/factsandfigures/open-data/">Devon County Council had done some great work just using Wordpress</a> and some Python.</p>
 <p>Then I came across a Jekyll-based CKAN alternative that was designed to work on GitHub Pages</p>
+<p></p>
 <h3>Using JKAN</h3>
 <p><a href="https://jkan.io/">JKAN</a> is a project by <a href="https://twitter.com/timwis">Tim Wisniewski</a>, back then the Chief Data Officer at the City of Philadelphia (but now heading the tech side at Citizen's Advice here in the UK).</p>
 <p>As he puts it on the JKAN site:</p>
@@ -30,6 +33,7 @@ title: OX1Digital | Projects
 <li>Pointing to datasets on data.gov.uk</li>
 <li>Pointing to datasets from other organisations</li>
 </ul>
+<p></p>
 <h3>Using the right tools</h3>
 <p>Having the right platform was only the start. To get data into a reasonable format and make it presentable I used a suite of additional tools. Most of these I learned about through an <a href="https://theodi.org/event_series/open-data-in-a-day/">excellent one-day course at the ODI</a></p>
 <p>These included:</p>
@@ -39,3 +43,18 @@ title: OX1Digital | Projects
 <li><a href="https://comma-chameleon.io/">Comma Chameleon</a> - for cleaning the format of CSVs to make them valid and machine readable</li>
 </ul>
 <p>The most important one, and a great partner for using with JKAN, was <a href="https://octopub.io/">Octopub</a>. This took datasets, checked their quality, created a repo for each one and allowed for metadata to be added.&nbsp;</p>
+<p></p>
+<h3>The end result</h3>
+<p>I was pretty pleased with the overall project, which has been a solo effort (showing how much you can do with the right tools)</p>
+<p>img</p>
+<h3>Update</h3>
+<p>The longer term solution (for <a href="https://openmaps-oxfordshire.opendata.arcgis.com/">Oxfordshire County Council at least</a>) was a bundled open data platform that comes with the hefty price tag for an ArcGIS subscription. These also offer the advantage of displaying map-based datasets really well)</p>
+<p>My reflections on this project are:</p>
+<ul>
+<li>trying to maintain an approach to open data for a council means LOTS of work and isn't sustainable to do by one person. An organisation needs to be serious about its strategy and properly resource it to be successful</li>
+<li>the data cleansing/prep side was really intensive and would have benefitted from automation tools</li>
+<li>the platform didn&rsquo;t lend itself to data harvesting by data.gov.uk so did mean some double-handling of data</li>
+<li>access to the GHitHub account is no longer possible as it was linked to my old Oxford email address so I can&rsquo;t amend/take it down!</li>
+</ul>
+<p></p>
+<a class="btn btn-primary" href="https://www.oxopendata.uk/">View the OxOpenData site</a>
