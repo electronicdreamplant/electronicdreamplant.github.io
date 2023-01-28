@@ -1,4 +1,4 @@
-const API_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40ox1digital&api_key=vvsac5kxtymggqefnjz9hzyhkmk4mhyejj13w4en";
+const API_URL = "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fox1digital.medium.com%2Ffeed&api_key=vvsac5kxtymggqefnjz9hzyhkmk4mhyejj13w4en";
 
 const getClassicPost = (postData) => {
   let template = 
