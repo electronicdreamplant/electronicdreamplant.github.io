@@ -1,0 +1,34 @@
+<div class="page-header">
+  <h1><a href="index.html">Projects</a><small>Building an academic research website</small></h1>
+ </div>
+
+</p>This project was originally only going to take a weekend but expanded to be a lot more interesting that just building a website</p>
+
+<p>I was contacted out of the blue by <a href="https://ihv.org.uk/people/professor-dame-sarah-cowley/">Sarah Cowley</a> who I'd met a while ago at a Euro Cafe. She was looking for advice about a website she'd had built for her by a local agency after being quoted £100+ just to maintain it and wanted to walk away from the deal to get help elsewhere. This led to a dispute with them and her being locked out of her half-finished site.</p>
+
+<p>So I thought building her a new one would be a nice way to keep on top of my WordPress knowledge</p>
+
+<h3>Requirements</h3>
+<p>The website needed to provide a complete record of all Sarah's academic output, and offer as much of this as free to download to users that have registered. Getting hold of academic papers is easier for people at Universities as they often get access to paid online libraries, with most other people having to searching Google Scholar or hunting around on the web for them</p>
+
+<p>The current site had displayed a sample number of documents using a carousel, but with no way to search or filter the content. I've got a long-standing hatred of carousels anyway so wanted the presentation of the papers to better meet what would be expected in academic circles.</p>
+
+<p>It wasn't until later into the start of this I realised that there were over 200 documents to deal with that Sarah has produced during her (amazing) career! After she sent me the Word document with these listed I realised I needed to something more to help her organise a catalogue of her work to better manage and share it.</p>
+
+<h3>Building the site</h3>
+<p>To keep the costs down as low as I could for her I got a hosted Wordpress package through IONOS with a decent 12-month offer. Next time I'll shop around some more as it turns out they don't support the use of Imagick on the server to generate PDF thumbnails </p>
+
+<p>Finding the right WordPress theme was really challenging. Again, to keep the costs as low as possible I didn't want to use a paid theme but adapt a free one. I decided on <a href="https://theme-vision.com/demo/agama-blue/">Agama Blue</a> as being close enough to what I needed.
+
+<p>Looking around for a good plugin to manage and display the documents I found <a href="https://documentlibrary.barn2.com/">Document Library Pro</a> which looked spot on, but was $129 a year to use! Eventually I came across <a href="https://wordpress.org/plugins/teachpress/">teachPress</a>	which offers the ability to import document details using Bibtex citations like this:
+<code>@book{campbell_weights_1995,
+	title = {Weights and {Measures}: {Outcomes} and {Evaluation} in {Health} {Visiting}},
+	isbn = {978-1-872278-30-8},
+	shorttitle = {Weights and {Measures}},
+	language = {English},
+	publisher = {Community Practitioners' \& Health Visitors' Association},
+	author = {Campbell, Fiona and Cowley, Sarah},
+	month = oct,
+	year = {1995},
+}</code>
+
