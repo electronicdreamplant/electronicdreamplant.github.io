@@ -37,14 +37,14 @@ GOV.UK leads the way in terms of its design system; the designs and components i
 
 Digital Place incorporates the GOV.UK Frontend Toolkit, and we have a range of components and styles within the platform to reuse, including;
 
-Within our CMS
+### Within our CMS
 
 - Phase banner (fragment)
 - Accordion (web content)
 - Breadcrumbs (fragment)
 - Confirmation pages pattern (as web content)
 
-Within the content editor
+### Within the content editor
 
 - Notification Banner
 - Tag component 
@@ -55,7 +55,7 @@ Within the content editor
 - Details
 - Table
 
-Within Forms
+### Within Forms
 
 - Summary list/Check answers pattern
 - Error message
