@@ -1,7 +1,7 @@
 ---
 layout: tag_page
 tag: personal 
-permalink: /tags/personal/
+permalink: /tags/{{ page.tag | slugify }}/
 ---
 <h1>Personal</h1>
 <ul>
@@ -9,3 +9,4 @@ permalink: /tags/personal/
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
