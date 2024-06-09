@@ -10,7 +10,7 @@ layout: main
   <span>{{ page.date | date_to_string }}</span>
   <span>
     {% for tag in page.tags %}
-      <a href="/_tags/tags.md#{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}
+      <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}
     {% endfor %}
   </span>
 </div>
