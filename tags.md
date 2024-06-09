@@ -1,10 +1,13 @@
 ---
-layout: tag_page
-title: Tags
+layout: main
+title: "Tags"
 permalink: /tags/
 ---
+
+<h1>All Tags</h1>
 <ul>
-{% for tag in site.tags %}
-  <li><a href="/tags/{{ tag[0] }}/">{{ tag[0] }}</a></li>
-{% endfor %}
+  {% assign tags = site.tags | sort %}
+  {% for tag in tags %}
+    <li><a href="/tags/{{ tag[0] | slugify }}/">{{ tag[0] }} ({{ tag[1].size }})</a></li>
+  {% endfor %}
 </ul>
