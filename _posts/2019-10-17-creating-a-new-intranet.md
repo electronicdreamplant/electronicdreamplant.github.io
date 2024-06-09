@@ -2,7 +2,7 @@
 layout: post
 title: Creating a new intranet
 date: 2019-10-17
-tags: oxford city council
+tags: "Oxford City Council"
 ---
 
 ## Background
