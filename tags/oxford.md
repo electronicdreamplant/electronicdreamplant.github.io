@@ -1,7 +1,7 @@
 ---
 layout: tag_page
-tag: oxford city council
-permalink: /tags/oxford/
+tag: "Oxford City Council"
+permalink: /tags/{{ page.tag | slugify }}/
 ---
 <h1>Oxford City Council</h1>
 <ul>
