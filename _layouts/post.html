@@ -7,8 +7,7 @@ layout: main
 </div>
 
 <div class="meta">
-  <span>{{ page.date | date_to_string }}</span>
-  <span>
+  <h2>{{ page.date | date_to_string }}</h2>
     {% for tag in page.tags %}
     <p>Tags: <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}</p> 
     {% endfor %}
