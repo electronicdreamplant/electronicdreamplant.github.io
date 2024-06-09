@@ -1,6 +1,6 @@
 ---
 layout: tag_page
-tag: "Oxford City Council"
+tag: oxford
 permalink: /tags/{{ page.tag | slugify }}/
 ---
 <h1>Oxford City Council</h1>
