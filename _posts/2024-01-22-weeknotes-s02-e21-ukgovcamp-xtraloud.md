@@ -9,7 +9,7 @@ This week saw a long-awaited return to in-person GovCamp. Although I’d signed 
 This time round I was on the company ticket as Placecube was one of the (many many) sponsors of the event. So that changed the dynamics slightly, but frankly spending a Saturday with interesting and inspiring people you can imagine this wasn’t a hardship (to [quote Oliva Coleman](https://www.independent.co.uk/arts-entertainment/films/news/oscars-2019-olivia-colman-best-actress-speech-full-video-the-favourite-funny-lady-gaga-close-a8795296.html)).
 
 ## Ch..ch..ch..changes
-There were many changes this year. The departure of Amanda from being Event Goddess (replaced by the more than capable Imran), a new venue (the swanky Leonardo Royal London St Paul’s), double the quota of tickets (a huge 500 attendees) and a farewell to the unconference pitch in favour of a 25/10 crowdsourcing technique
+There were many changes this year. The departure of Amanda from being Event Goddess (replaced by the more than capable Imran), a new venue (the swanky Leonardo Royal London St Paul’s), double the quota of tickets (a huge 500 attendees) and a farewell to the unconference pitch in favour of a [25/10 crowdsourcing technique](https://www.liberatingstructures.com/12-2510-crowd-sourcing/)
 
 For me these didn’t land as well as I’d hoped.
 
@@ -22,13 +22,13 @@ And I SO missed the traditional Ministry of Justice venue. It had an intimacy bu
 ## Sessions
 Despite my misgivings the sessions themselves were much as they’ve always been; interested and interesting people offering great incites and enthusiasm, with the occasional miss. And despite the increased attendees none of my sessions felt too crowded.
 
-I loved Chloe and Jaye’s session on Digital ID which was way more than I’d expected. They’ve landed a fascinating contract with the Scottish government and displayed a real passion for this area. The attendees had loads to offer on the subject from lots of different backgrounds. I ended up catching up with them both for a CorridorCamp chat which was one of the best of the day for me.
+I loved Chloe and Jaye’s session on [Digital ID](https://docs.google.com/document/d/10c5i_KBpHcVk74sZKgvf7J_MGq1U2v-1vjg_jxirRKA/edit?usp=drivesdk) which was way more than I’d expected. They’ve landed a fascinating contract with the Scottish government and displayed a real passion for this area. The attendees had loads to offer on the subject from lots of different backgrounds. I ended up catching up with them both for a CorridorCamp chat which was one of the best of the day for me.
 
-A small things/big impact discussion was fun for some one-liners about successes.
+A [small things/big impact discussion](https://docs.google.com/document/d/1XhDg1CbijSooCzUvoBNFAV9iValQy0x7-ru6koSovlE/edit?usp=drivesdk) was fun for some one-liners about successes.
 
-I indulged myself by going to Eleanor’s session on content where I felt I had more to contribute than other sessions having managed a content team, and my good friend L was there to share her recent experiences with a content migration. We shared the dangers of content designers becoming the Word Police/accessibility enforcers rather than solving problems for organisations.
+I indulged myself by going to [Eleanor’s session on content](https://docs.google.com/document/d/1XGYAMSZiqakvkNye15YpaETVowzYp3q_N9eExgxVNP8/edit?usp=drivesdk) where I felt I had more to contribute than other sessions having managed a content team, and my good friend L was there to share her recent experiences with a content migration. We shared the dangers of content designers becoming the Word Police/accessibility enforcers rather than solving problems for organisations.
 
-This year I left far more sessions than I have in previous years. The session on Digital Marketplace was really just another of those procurement discussions with (mostly) suppliers talking about how hard stuff is. Didn’t get much out of that. That also applied to the session on the replacement for GDS Digital Academy which felt more like a verbal organisation chart for people that have worked in GDS. Likewise the session on procuring based on open source and user needs (where the pitcher didn’t turn up) felt more like just the pros and cons of buying off the shelf.
+This year I left far more sessions than I have in previous years. The session on [Digital Marketplace](https://docs.google.com/document/d/15RR2nmi3m2xAhdBLEZQBD2OvELi3HkF6me51-qsRwrE/edit?usp=drivesdk) was really just another of those procurement discussions with (mostly) suppliers talking about how hard stuff is. Didn’t get much out of that. That also applied to the session on the [replacement for GDS Digital Academy](https://docs.google.com/document/d/1WAvflyibs6_1Bsraf8wnGi_2PKvtPMrvTKvLHYKKNM8/edit?usp=drivesdk) which felt more like a verbal organisation chart for people that have worked in GDS. Likewise the session on [procuring based on open source and user needs](https://docs.google.com/document/d/1ZFj1frZVEq9ih2KnHUA38LnZaWgCtfWYM-2KLMcsP-M/edit?usp=drivesdk) (where the pitcher didn’t turn up) felt more like just the pros and cons of buying off the shelf.
 
 I have to admit I was really flagging by 4pm and desperate for the bar/food to be served. Having an open bar wasn’t something I’d encountered outside of a wedding so that end of day beer(s) was truly welcomed!
 
