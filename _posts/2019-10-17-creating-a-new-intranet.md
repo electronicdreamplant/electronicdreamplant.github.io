@@ -36,11 +36,11 @@ As we were moving more towards the use of Office365/SharePoint the initial assum
 Another issue was that it would be yet another CMS for our team to get proficient in using, alongside WordPress, Drupal and JaduCMS
 
 ## Using GovIntranet
-A chance conversation with LocalGovDigital peers about shared technology platforms threw up the existence of GovIntranet - a WordPress theme originally designed for the public sector (DCMS) in 2013 and made open for others to use. Back then, Tom Loosemore had declared it “the exemplar for a government intranet”
+A chance conversation with LocalGovDigital peers about shared technology platforms threw up the existence of [GovIntranet](https://agentodigital.com/wordpress-intranet-cms/) - a WordPress theme originally designed for the public sector (DCMS) in 2013 and made open for others to use. Back then, Tom Loosemore had declared it “[the exemplar for a government intranet](https://gds.blog.gov.uk/2013/03/18/intranets-dcms/)”
 
-Since then it has continued to be developed and enhanced by Luke Otham and has been adopted around the world
+Since then it has continued to be developed and enhanced by Luke Otham and has been [adopted around the world](https://digital.oxford.gov.uk/blog/2019/10/17/creating-a-new-intranet)
 
-Devon County Council have been using it for 2 years, and as they make their intranet public we were able to look it over and see the theme in action. We were impressed.
+Devon County Council have been using it for 2 years, and as [they make their intranet public](https://inside.devon.gov.uk/) we were able to look it over and see the theme in action. We were impressed.
 
 The opportunity to use an open source platform (WordPress) and an open source theme (GovIntranet) with built-in and user tested functionality meant we could resolve the cost and time issue in developing our new intranet and be sure it would be able to deliver what we needed. But how easy would it be to use?
 
