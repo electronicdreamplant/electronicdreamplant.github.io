@@ -1,13 +1,13 @@
 ---
 layout: main
-title: Tags
+title: Blogs
 permalink: /tags/
 ---
+<div class="page-header">
+<h1>Blogs</h1>
+</div>
 
-<h1>All Tags</h1>
-<ul>
-  {% assign tags = site.tags | sort %}
-  {% for tag in tags %}
-    <li><a href="/tags/{{ tag[0] | slugify }}/">{{ tag[0] }} ({{ tag[1].size }})</a></li>
-  {% endfor %}
-</ul>
+<p>These have been pulled into the site from a number of areas:
+<h3><a href="/oxford/">Oxford City Council</a></h3> - text
+<h3><a href-"/placecube/">Placecube</a></h3> - text
+
