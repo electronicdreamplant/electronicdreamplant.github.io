@@ -1,6 +1,6 @@
 ---
 layout: main
-title: "Tags"
+title: Tags
 permalink: /tags/
 ---
 
