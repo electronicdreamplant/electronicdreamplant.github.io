@@ -10,7 +10,7 @@ This week we finished the first stage of a project with our colleagues in Counci
 ## Auditing our content
 We had already decided that a major project for the next two years was to review all our website content, review its performance and rewrite/add/delete where needed to ensure we were meeting user needs.
 
-We also knew from our LocalDigital Chatbot project that we can make a big difference to a user journey by focusing on better web content. It also has the advantage of being quick and free to do!
+We also knew from our [LocalDigital Chatbot project](https://localdigitalchatbots.github.io/2019/04/22/project-completion-looking-at-what-we-ve-done/#user-research) that we can make a big difference to a user journey by focusing on better web content. It also has the advantage of being quick and free to do!
 
 After a few attempts at a full-year site-wide analysis using Analytics data we realised we weren’t making much progress. Our cookie opt-out has seen a 50% drop in recorded web traffic and edits to pages through the year resulted in multiple entries for the same page. Also, with the sheer volume of content to analyse we were in a ‘can’t see the wood for the trees’ scenario.
 
@@ -94,6 +94,6 @@ What we’ll be doing next is:
 - Improving the confirmation messages on our Council Tax forms. While we want to encourage voting, there are other services we want to signpost users to, especially students
 - Removing contact supplements on pages where they are not needed to discourage unnecessary emailing
 - Replacing the single generic email with topic-specific emails to help structure responses that require an attachment. We’d rather get rid of emails altogether, but currently we’re not able to use our online forms to upload/send documents (long story)
-- Developing a simple contact form (for enquiries without attachments) that collects and structures information better to help Council Tax staff process them quickly. We’ll be mindful of the work done by Croydon on this to make sure we design it well
+- Developing a simple contact form (for enquiries without attachments) that collects and structures information better to help Council Tax staff process them quickly. We’ll be mindful of the [work done by Croydon](https://croydon.digital/2019/03/22/making-it-easier-to-contact-the-council/) on this to make sure we design it well
 
 We’ve also hit on the idea of formalising the approach into an improvement toolkit, to help teams we work with in future understand how the process works and the tasks that might be involved.
