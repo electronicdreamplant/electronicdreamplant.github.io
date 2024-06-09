@@ -89,7 +89,7 @@ As well as asking suppliers to collaborate better with them, councils also recog
 
 Improvements needed to internal organisation extended to budgets being in place and available to projects when they start, and having a focus on value and quality over costs. The delivery of  projects needed dedicated projects teams providing customer input at the right time, and being realistic about what suppliers can deliver.
 
-View all the feedback around what councils need to do here
+[View all the feedback around what councils need to do here](https://miro.com/app/board/uXjVMGCjF0o=/?moveToWidget=3458764570757926387&cot=14)
 
 ## Our conclusions
 - getting a wide range of councils and suppliers from across the country together was a great opportunity for both sides to share some of the factors important to them to help improve relationships
