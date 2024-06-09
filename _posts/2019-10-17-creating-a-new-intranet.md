@@ -2,7 +2,7 @@
 layout: posts
 title: Creating a new intranet
 date: 2019-10-17
-tags: oxford
+tags: Oxford
 ---
 
 ## Background
