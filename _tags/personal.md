@@ -1,5 +1,5 @@
 ---
-layout: tag
+layout: main
 tag: personal
 permalink: /tags/personal/
 ---
