@@ -2,7 +2,7 @@
 layout: post
 title: "The Rules of Judging Photography"
 date: 2016-06-18
-tags: Personal
+tags: personal
 ---
 
 The concept of this set of rules is to try and be more objective when evaluating photography. I see countless examples of fantastic work by people, but too often the stuff that turns heads can be unworthy of praise.
