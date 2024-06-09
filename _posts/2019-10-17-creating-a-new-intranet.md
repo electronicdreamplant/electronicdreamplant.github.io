@@ -81,6 +81,7 @@ We’re also representing popular PDF content as HTML. Our two favourite example
 
 - Personal development training courses - a 26 page PDF that had to be downloaded each time it changed. With no way to see when the training way happening, we worked with our internal trainer to present them as events with all necessary information (location maps, Add to Calendar links, booking links) and its own category for ease of finding/presenting
 - Payscales - this 13 sheet Excel document had pay scales dating back to 2012/13. What users want is the current pay scales in an easy to find format. They are now being presented as a table on their own page in our Pay and Benefits category
+
 ### Focus on helping people do their job
 We had previously adopted an ‘anything goes’ approach to intranet content. We know this hasn’t worked for users. The focus of the site is “helping you get your job done by finding what you need quickly and easily”
 
