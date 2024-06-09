@@ -8,19 +8,10 @@ permalink: /tags/
 </div>
 
 <p>These have been pulled into the site from a number of areas:
-<h3>
-  <a href="">Weeknotes</a>
-  <small> - notes about my working week, written for me but shared in the open</small>
-</h3>
-  
-<h3>
-  <a href="/oxford/">Oxford City Council</a>
-<small> - posts as the Digital Development Team</small>
-</h3> 
-  
-<h3>
-  <a href="/placecube/">Placecube</a>
-  <small> - posts written on behalf of the company</small>
-</h3>
+<ul>
+  <li><a href="/tags/weeknotes/">Weeknotes</a> - notes about my working week, written for me but shared in the open</li>
+  <li><a href="/tags/oxford/">Oxford City Council</a> - posts as the Digital Development Team</li>
+  <li><a href="/tags/placecube/">Placecube</a> - posts written on behalf of the company</li>
+
 
 
