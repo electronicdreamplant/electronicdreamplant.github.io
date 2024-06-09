@@ -10,10 +10,17 @@
     <h1>Posts tagged with "{{ page.tag }}"</h1>
   </header>
   <main>
-    {{ content }}
+    <ul>
+      {% for post in site.posts %}
+        {% if post.tags contains page.tag %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
   </main>
   <footer>
     <a href="/">Back to Home</a>
   </footer>
 </body>
 </html>
+
