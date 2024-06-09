@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Points from LocalGovCamp"
 date: 2016-06-05
-tags: Personal
+tags: personal
 ---
 June 2016 was the first LocalGovCamp I'd attended. 
 
