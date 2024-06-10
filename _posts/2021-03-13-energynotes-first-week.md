@@ -2,7 +2,7 @@
 layout: post
 title: "EnergyNotes: first week"
 date: 2021-03-13
-tags: personal
+tags: [personal, energynotes]
 ---
 
 We’re nearing the end of our first full week living with air source heating, so I thought I’d start EnergyNotes to capture what we find out as we go.
