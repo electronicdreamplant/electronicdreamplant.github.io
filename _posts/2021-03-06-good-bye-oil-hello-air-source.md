@@ -5,20 +5,6 @@ date: 2021-03-06
 tags: personal
 ---
 
-## Contents
-
-*   [Introduction](## Introduction)
-*   [Why we changed over](## Why we changed over)
-*   [About the house](## About the house)
-*   [How air source heating works](## How air source heating works)
-*   [Finding out how to do it](## Finding out how to do it)
-*   [Issues we needed to fix](## Issues we needed to fix)
-*   [Green Homes Grant or Renewable Heat Incentive](## Green Homes Grant or Renewable Heat Incentive)
-*   [Getting ready for the install](## Getting ready for the install)
-*   [The installation plan](## The installation plan)
-*   [Installation week](## Installation week)
-*   [A new way of thinking about energy](## A new way of thinking about energy)
-
 ## Introduction
 
 We moved to Dorset from Oxford in December 2020, and realised before we got here that if we wanted to live anywhere rural we would most likely have to say goodbye to gas supplies and get used to electric hobs and oil heating. Data shows that around [9.4% of homes in Dorset rely on oil heating](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/estimatedproportionofdwellingswithanenergyperformancecertificatebymainfueltypeormethodofheatingusedincentralheating), compared to some areas of Wales with over 35%. Something you don’t think about living in a city.
