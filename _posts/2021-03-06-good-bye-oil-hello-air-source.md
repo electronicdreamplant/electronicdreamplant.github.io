@@ -7,17 +7,17 @@ tags: personal
 
 ## Contents
 
-*   [Introduction](#2076)
-*   [Why we changed over](#0790)
-*   [About the house](#286a)
-*   [How air source heating works](#5d03)
-*   [Finding out how to do it](#af8d)
-*   [Issues we needed to fix](#5f5e)
-*   [Green Homes Grant or Renewable Heat Incentive](#e2fc)
-*   [Getting ready for the install](#230f)
-*   [The installation plan](#0340)
-*   [Installation week](#7cf2)
-*   [A new way of thinking about energy](#ac34)
+*   [Introduction](## Introduction)
+*   [Why we changed over](## Why we changed over)
+*   [About the house](## About the house)
+*   [How air source heating works](## How air source heating works)
+*   [Finding out how to do it](## Finding out how to do it)
+*   [Issues we needed to fix](## Issues we needed to fix)
+*   [Green Homes Grant or Renewable Heat Incentive](## Green Homes Grant or Renewable Heat Incentive)
+*   [Getting ready for the install](## Getting ready for the install)
+*   [The installation plan](## The installation plan)
+*   [Installation week](## Installation week)
+*   [A new way of thinking about energy](## A new way of thinking about energy)
 
 ## Introduction
 
