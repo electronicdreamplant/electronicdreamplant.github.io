@@ -100,13 +100,13 @@ The insight we gained was;
 *   Showing the value of the project is important – the business case for spending the money must stack up. Just exploring for the sake of it won’t be robust enough as a reason.
 *   Even if we write the best proposal for a supplier they may still not go for it if;
     
-    o they don’t have the capacity due to other projects
+    * they don’t have the capacity due to other projects
     
-    o they don’t think it’s been scoped properly, or is uncertain what it wants to achieve
+    * they don’t think it’s been scoped properly, or is uncertain what it wants to achieve
     
-    o they don’t have the sort of staff required for it
+    * they don’t have the sort of staff required for it
     
-    o it won’t make them enough money
+    * it won’t make them enough money
     
 *   The biggest challenges will be cultural ones; expectations on what is possible, unfamiliarity with Agile, unfamiliarity with user research, lack of understanding about the value of discovery
 
