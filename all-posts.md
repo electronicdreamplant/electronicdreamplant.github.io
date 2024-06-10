@@ -23,8 +23,9 @@ permalink: /all-posts/
           <span>{{ post.date | date: "%B %-d, %Y" }}</span>
           <span>
             {% for tag in post.tags %}
-              {% assign tag_title = tag | split: ' ' | map: 'capitalize' | join: ' ' %}
-              <a href="/tags/{{ tag | slugify }}/">{{ tag_title }}</a>{% if forloop.last == false %}, {% endif %}
+              {% assign tag_title = tag %}
+              <a href="/tags/{{ tag }}/">{{ tag_title }}</a>
+           {% if forloop.last == false %}, {% endif %}
             {% endfor %}
           </span>
         </li>
