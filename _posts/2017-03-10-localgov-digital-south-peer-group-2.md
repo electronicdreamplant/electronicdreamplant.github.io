@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Points from LocalGovCamp"
+title: "LocalGov Digital South Peer Group - 10 March 2017"
 date: 2017-03-10
 tags: oxford
 ---
