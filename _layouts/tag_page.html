@@ -1,18 +1,26 @@
 ---
 layout: main
 ---
+  
 <div class="page-header">
 <h1>Posts tagged with {{ page.tag }}</h1>
 </div>
+
+  {% assign sorted_posts = site.posts | where: "tags", page.tag | sort: "date" | reverse %}
+    {% assign years = "" %}
     <ul>
-      {% for post in site.posts %}
-        {% if post.tags contains page.tag %}
-          <li>
-              <a href="{{ post.url }}">{{ post.title }}</a> - <span>{{ post.date | date: "%B %-d, %Y" }}</span>
-          </li>
+      {% for post in sorted_posts %}
+        {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+        {% if year != years %}
+          {% unless forloop.first %}</ul>{% endunless %}
+          <h2>{{ year }}</h2>
+          <ul>
+          {% assign years = year %}
         {% endif %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a> - <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+        </li>
       {% endfor %}
     </ul>
 <hr><br/>
 <a href="/tags/">Back to Blogs</a>
-
