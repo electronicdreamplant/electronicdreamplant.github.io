@@ -2,7 +2,7 @@
 layout: post
 title: "LocalGov Digital South Peer Group - 29 June 2017"
 date: 2017-06-29
-tags: personal
+tags: oxford
 ---
 
 The third South Peer Group meeting was hosted by Wycombe District Council on 29 July 2017. [View the agenda](https://docs.google.com/document/d/1vsHVZ9iZfSJZErvo-FXlidHNOMgaZoZJF2DMjD6tI78/edit?usp=sharing)
