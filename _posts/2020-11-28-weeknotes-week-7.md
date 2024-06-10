@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weeknotes: week 7 - A bit overdeveloped"
+title: "Weeknotes: week 7 - A Bit Overdeveloped"
 date: 2020-11-28
 tags: weeknotes
 ---
