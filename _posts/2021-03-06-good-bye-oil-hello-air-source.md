@@ -164,11 +164,7 @@ We were also over the moon at having made it through the coldest part of winter 
 
 Talking of which, that oil tank was a bit of a handful to get out, and the colour of the remaining oil sludge that was pumped out even surprised the removal firm. In all probability this would have damaged the oil boiler if we had used it even for a few more weeks.
 
-Left to right: getting access to the oil tank; remaining oil being pumped out; the empty tank being hauled out by hand
-
 The new equipment was installed pretty quickly, with the heat pump working at the end of day 2 and starting to heat the water in the water tank. We had our first bowl of piping hot washing-up water on the morning of day 3, and our first bath too! Coming home from the office on day 3 we were greeted with the radiator work completed and heat in the house — a day ahead of schedule!
-
-Left to right: fan unit in situ; water tank and heat pump/control unit installed in the garage; old oil boiler dismantled for removal
 
 Some things didn’t go as planned, but in a good way:
 
