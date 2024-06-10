@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weeknotes: Week 4 - Adventures with Cubes"
+title: "Weeknotes: week 4 - Adventures with Cubes"
 date: 2020-11-06
 tags: weeknotes
 ---
