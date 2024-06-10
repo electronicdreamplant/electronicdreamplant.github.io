@@ -7,9 +7,9 @@ tags: placecube
 
 ## How Digital Place can help to get you started with a new website
 
-At Placecube we’ve over 20 years of experience in working with public sector clients, including local authorities and the communities they serve.  We are passionate about what this sector requires and as such we intrinsically understand what councils need from their website Content Management System (CMS).
+> At Placecube we’ve over 20 years of experience in working with public sector clients, including local authorities and the communities they serve.  We are passionate about what this sector requires and as such we intrinsically understand what councils need from their website Content Management System (CMS).
 
-In this blog, Neil Lawrence, Product Owner, Placecube highlights 9 top features of our Digital Place for Local Public Services product for councils to get their website live quickly.  
+> In this blog, Neil Lawrence, Product Owner, Placecube highlights 9 top features of our Digital Place for Local Public Services product for councils to get their website live quickly.  
 
 When you make the jump to a new CMS it can feel pretty daunting, with so many choices to make like content rewrites, reviewing information architecture, working out hosting, designing customer journeys - the last thing you need is another set of problems to deal with.
 
