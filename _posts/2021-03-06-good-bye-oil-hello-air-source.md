@@ -50,7 +50,6 @@ Its EPC rating was nothing to write home about, with most features of the housin
 The deal with air source heating is that all the calculations are based on heat loss, so the better your home is at minimising this, the more efficient an air source solution will be.
 
 ## How air source heating works
-----------------------------
 
 The science on this stuff still amazes me, but here goes…
 
