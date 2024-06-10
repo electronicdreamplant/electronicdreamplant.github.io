@@ -2,7 +2,7 @@
 layout: post
 title: "Good bye oil, hello air source"
 date: 2021-03-06
-tags: [personal, energynotes]
+tags: personal
 ---
 
 ## Introduction
