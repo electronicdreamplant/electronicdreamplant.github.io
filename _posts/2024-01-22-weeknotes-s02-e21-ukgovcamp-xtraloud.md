@@ -35,8 +35,6 @@ I have to admit I was really flagging by 4pm and desperate for the bar/food to b
 ## People
 I thought it would be harder spotting people I knew to reunite but actually it wasn’t hard at all, and it was great to see old faces. Due to the lag since the last GovCamp I have to explain a move to Dorset AND one to the private sector.
 
-
-Amanda’s fashion chic is as sparkling as her personality
 I didn’t think we’d get so many conversations at our suppliers stand, but some of these were the most in-depth, interested and interesting I’ve had. I learned all about personal data in the NHS and steps to combine with care data, one I hope we manage to follow up on. I even gave Julia from Oxford Insights a 3 min briefing on the structure of local government!
 
 The ‘tribe’ thing is often spoken in relation to this meetup and I really believe that. Navigating a friend attending for the first time through the myriad of faces to chat to a few brilliant people paid dividends for her I think, and it was great to see her making her own connections. This is the life blood of the digital community.
