@@ -12,6 +12,7 @@ These have been pulled into the site from a number of sources:
 - [Oxford City Council](/tags/oxford/) - posts as the Digital Development Team
 - [Placecube](/tags/placecube/) - posts written on behalf of the company
 - [Personal](/tags/personal/) - anything else I've written
+- [Chatbots](https://localdigitalchatbots.github.io/archive/) - posts on the Local Digital Chatbots project
 
 
 You can [view all posts by year](/all-posts/)
