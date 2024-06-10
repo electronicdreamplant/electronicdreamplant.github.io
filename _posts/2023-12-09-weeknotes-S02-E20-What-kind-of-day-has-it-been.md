@@ -11,7 +11,6 @@ I’ve been wrestling with my lack of writing for a bit. We’ve had some family
 
 That hasn’t stopped me writing for work; LocalGovCamp this year has given me two opportunities to write up workshops we’ve run, both with a commitment to share what we learned more widely. The second one is having the beauty treatment by our marketing folk currently, but the first on [our session around citizen accounts](https://blog.placecube.com/blog/building-networked-communities-0-1) is out to read. It suffers from a lack of West Wing references though….
 
-Blog post banner for The Good, The Bad and the Hard to Solve
 So to rectify, and shamelessly stealing [the title of numerous Aaron Sorkin TV episodes](https://www.vulture.com/2014/12/newsroom-aaron-sorkin-what-kind-of-day-has-it-been-west-wing-sports-night-studio-60.html), let’s explore what kind of week it’s been….
 
 ## Developing my Core
