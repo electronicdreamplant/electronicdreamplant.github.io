@@ -1,0 +1,110 @@
+---
+layout: post
+title: "Changing our Contact Us page"
+date: 2018-11-08
+tags: oxford
+---
+
+Our Contact Us page has had a chequered past and has received a good deal of attention. This post sets out some of the changes we made and the issues we encountered.
+
+## Where we started
+
+When we were developing our website in 2015, we took the opportunity to change our approach to content at the same time.
+
+We’d benefitted from a content audit from our developers, [Jadu](www.jadu.net), along with some guidance on content strategy. One element of this was using our site to help reduce avoidable contact.
+
+Our Contact Us page presented to users as [a long list of phone numbers and email addresses](https://digital.oxford.gov.uk/downloads/Old%20Homepage_small.jpg); we were essentially encouraging users to abandon our site and contact us by other channels, avoiding our Contact Centre staff.
+
+## Our first changes
+
+Our initial changes to the Contact Us page were guided more by not repeating the past than by any focus on user needs; the long list of phone numbers and email addresses was replaced by a minimalist set of entries in a contact hierarchy of online, phone and in person.
+
+At the same time we were aware that there had been a call for a single email address for the council. Our Customer Service team resisted this approach, as a previous attempt to use one had resulted in a deluge of general enquiries that needed significant staff time to categorise and forward to the most appropriate service.
+
+The new Contact Us page was launched as part of the new site in January 2016 with a generic Contact Us form, using service categories to help speed up the processing of the responses. Without a corporate customer service email address, all submissions were forwarded to the webmaster address looked after by our team.
+
+After 8 days we’d received 107 form submissions, which outstripped our ability to handle them and reflected users were defaulting to email rather than using the rest of the site. Things had to change, and we took down the form link.
+
+So we needed to rethink. Meanwhile the Contact Us page stayed in its new minimalist form.
+
+## What feedback told us
+
+As part of our ongoing set of [performance metrics for our website](https://digital.oxford.gov.uk/performance/webtraffic.html) we keep a close eye on satisfaction, using GovMetric as our main page-level feedback tool.
+
+When we reviewed the Contact Us page in March 2017 it accounted for 320 feedback submissions (the 2nd highest ranked pages with feedback) and was the single highest area of dissatisfaction with the website
+
+Its percentage of overall website dissatisfaction for the previous four months was;
+
+*   February 2017 - 17%
+*   January 2017 - 16%
+*   December 2016 - 9%
+*   November 2016 - 10%
+
+58 submissions had commented on their reasons for dissatisfaction, which were;
+
+*   Lack of contact information/hard to find (39%)
+*   General enquiry/miscellaneous comment (26%)
+*   Mentions need for general email address/enquiry form (21%)
+*   Problem with website generally (14%)
+
+Exit rates for the Contact Us page were as high as 52%, suggesting users were being driven to the telephone.
+
+## Options we considered
+
+We explored the Contact pages used by 14 different organisations to get a range of options to consider. These fell broadly into four categories;
+
+1.  Using A-Z pages to supplement navigation and provide contact information, such as [Birmingham’s](https://www.birmingham.gov.uk/a_to_z)
+2.  Developing a better generic contact form, such as [Hounslow’s](https://eforms.hounslow.gov.uk/ufs/ufsmain?formid=ENQUIRIES_FORM&ebz=1_1541709239564&ebd=0&ebz=1_1541709239564)
+3.  Using an interactive query form to provide drill-down functionality to better match a user’s requirements, such as [Worcestershire’s](https://capublic.worcestershire.gov.uk/CSAPortalPublic/)
+4.  Returning to a full contact list, albeit better presented, such as [Bristol’s](https://www.bristol.gov.uk/contact)
+
+However, none quite met what we were looking for.
+
+## Introducing webchat
+
+In late 2016 our Customer Contact team were developing an approach called Digital Assist to use their staff to respond to digital contact channels like Twitter and Facebook Messenger. As part of this they wanted to deploy webchat for a select set of service areas via the Contact Us page.
+
+We spoke to three councils (Redcar & Cleveland, Leeds, Kings Lynn & West Norfolk) about their experiences with webchat as part of research into implementing a solution, which is when we came across [Kings Lynn & West Norfolk’s Contact Us page](https://www.west-norfolk.gov.uk/contact).
+
+As there was capital funding set aside or implementing webchat, we saw an opportunity to bring two sets of business needs together to create a new Contact Us page that;
+
+*   Offered an interactive approach to drill down to a users specific contact requirements
+*   Helped retain website visitors on the site rather than exiting
+*   Allowed promotion of specific online forms or web pages as a first option, relevant telephone and email addresses as a second, and webchat for those services trialling it.
+
+Kings Lynn & West Norfolk’s experience with their page was it had been “well received by most of those using it” which to us meant the necessary evidence was there that it would work for Oxford too.
+
+## Collaborative development
+
+Having had a quote from our CMS provider for the necessary development we realised we wouldn’t have sufficient budget to cover the work.
+
+We decided to approach the web team at Kings Lynn & West Norfolk, as they had developed the functionality themselves and used the same CMS as us. We quickly decided that collaboration between the two authorities would deliver an outcome closer to our requirements, and as it turned out at only 10% of the quoted cost from our provider. They agreed to develop it for us, so we put together a specification and contract.
+
+Using a free webchat option from [Tawk.to](https://www.tawk.to) helped reduce costs still further.
+
+## The verdict from users
+
+We launched the Contact Us page in January 2018, and felt we had ticked all the boxes delivered something under budget that looked and worked great.
+
+Unfortunately our customers didn’t agree with us.
+
+Instead of seeing the rise in satisfaction we had predicted, we actually saw an increase in dissatisfaction for the new page. Initially we put this down to the ‘shock of the new’, but it became apparent after a couple of months that this new level of dissatisfaction wasn’t abating.
+
+We used [Hotjar](https://www.hotjar.com) to track user behaviour in using the page. Through this we could see that the expected behaviour of swiftly navigating to the intended service wasn’t the reality; users went back and forth, reloading the page and looking for a different outcome. We were making life harder for them, not easier.
+
+## Abandoning the new page
+
+The decision to abandon the new page came about as a result of a number of events:
+
+*   The success of using webchat on a limited basis meant our Customer Contact team now wanted a site-wide rollout, meaning the launch functionality in the Contact Us page was no longer needed
+*   The new functionality stopped working after a CMS update, and we needed to replace it with a working page. We defaulted back to our previous Contact Us page
+*   We took the opportunity to press the case that the new page wasn’t working with our Customer Contact colleagues, and that we should retain the old version. The upturn in satisfaction was, regrettably, evidence enough to convince them.
+
+Although we haven’t resolved the issue with satisfaction for this one page, overall satisfaction for our website continues to be strong, and we regularly feature in the top 5 for benchmarking amongst GovMetric users.
+
+## What we learned
+
+*   We didn’t do enough to research what our users really wanted; we thought we knew enough from the information we had. Clearly we didn’t
+*   There is no-off-the-shelf solution that works for everyone
+*   User needs in one part of the country do not seem to translate automatically to other areas.
+*   It’s OK to admit something hasn’t worked and try something else
