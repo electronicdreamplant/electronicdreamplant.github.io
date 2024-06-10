@@ -13,5 +13,6 @@ permalink: /tags/
   <li><a href="/tags/oxford/">Oxford City Council</a> - posts as the Digital Development Team</li>
   <li><a href="/tags/placecube/">Placecube</a> - posts written on behalf of the company</li>
 
+Or [view all posts by year](/all-posts/)
 
 
