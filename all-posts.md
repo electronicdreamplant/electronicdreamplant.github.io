@@ -6,7 +6,7 @@ permalink: /all-posts/
 <div class="page-header">
 <h1>All blog posts</h1>
 </div>
-
+<div>
  {% assign sorted_posts = site.posts | sort: "date" | reverse %}
     {% assign years = "" %}
     <ul>
@@ -30,3 +30,4 @@ permalink: /all-posts/
         </li>
       {% endfor %}
     </ul>
+    </div>
