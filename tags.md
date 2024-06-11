@@ -1,13 +1,13 @@
 ---
 layout: main
 title: Blogs
-permalink: /tags/
+permalink: /blog/
 ---
 <div class="page-header">
-<h1>Blogs</h1>
+<h1>Blog</h1>
 </div>
 
-These have been pulled into the site from a number of sources:
+These posts have been pulled into the site from a number of sources:
 - [Weeknotes](/tags/weeknotes/) - notes about my working week, written for me but shared in the open
 - [Oxford City Council](/tags/oxford/) - posts as the Digital Development Team
 - [Placecube](/tags/placecube/) - posts written on behalf of the company
