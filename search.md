@@ -1,7 +1,11 @@
 ---
 layout: main
+title: Search
 permalink: /search/
 ---
+<div class="page-header">
+<h1>Search</h1>
+</div>
 
 <!-- Html Elements for Search -->
 <div id="search-container">
