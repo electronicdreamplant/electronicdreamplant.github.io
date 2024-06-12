@@ -1,5 +1,6 @@
 ---
 layout: main
+permalink: /search/
 ---
 
 <!-- Html Elements for Search -->
