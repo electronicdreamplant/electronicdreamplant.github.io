@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weeknotes S02 E20 — What kind of day has it been?"
+title: "Weeknotes: S02 E20 - What kind of day has it been?"
 date: 2023-12-09
 tags: weeknotes
 ---
