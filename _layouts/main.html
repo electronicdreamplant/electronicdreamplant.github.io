@@ -8,14 +8,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
- 
-    {% if page.tipue_search_active or layout.tipue_search_active -%}
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
-  <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
-  <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
-  <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
-  {% endif -%}
+
+    <!-- Search plugin -->
+    <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
     <title>{{ page.title }}</title>
 
@@ -81,6 +78,28 @@
         <!-- Footer -->
         <div class="container">
             <footer>
+
+                <div>
+                    <label for="search-input">Search</label><input type="search" id="search-input" placeholder="search...">
+
+                    <hr />
+
+                    <ul id="results-container"></ul>
+                </div>
+
+                <script>
+                    window.simpleJekyllSearch = new SimpleJekyllSearch({
+                        searchInput: document.getElementById('search-input'),
+                        resultsContainer: document.getElementById('results-container'),
+                        json: '{{ site.baseurl }}/search.json',
+                        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+                        noResultsText: 'No results found',
+                        limit: 10,
+                        fuzzy: false,
+                        exclude: ['Welcome']
+                    })
+                </script>
+
                 <ul>
                     <li><a href="mailto:neil@ox1digital.co.uk"><i class="fa fa-envelope fa-lg"></i></a></li>
                     <li><a href="https://bsky.app/profile/ox1digital.bsky.social"><i class="fa-brands fa-bluesky fa-lg"></i></a></li>
