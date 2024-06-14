@@ -23,7 +23,7 @@ No clever scripting here; this was a weekend of copy and paste (still one of my 
 
 Although it wasn't an in-depth reading process I have picked up on some things I'd forgotten, like how I'd [had a meeting with my soon-to-be manager](https://www.ox1digital.co.uk/blog/2021/03/28/weeknotes-week-22) before he'd left Placecube about product things. So maybe that's where the seeds were sown.
 
-I also picked up on the [ease at which weeknoting was embraced at Dorset Council](https://www.ox1digital.co.uk/blog/2020/11/28/weeknotes-week-7#the-league-of-awesome-dorset-women-weeknoting) but how I became uncomfortable with weeknoting at Placecube, finding it difficult to separate the personal from the private or confidential. I don't know how [Matt Jukes](https://digitalbydefault.com/] does it.
+I also picked up on the [ease at which weeknoting was embraced at Dorset Council](https://www.ox1digital.co.uk/blog/2020/11/28/weeknotes-week-7#the-league-of-awesome-dorset-women-weeknoting) but how I became uncomfortable with weeknoting at Placecube, finding it difficult to separate the personal from the private or confidential. I don't know how [Matt Jukes](https://digitalbydefault.com/) does it.
 
 Also, with the exception of one significant project, there was perhaps too much day-to-day to work with in terms of material to write about. But, the purpose of weeknotes isn't to entertain other people; it's to create a personal record of you and your reflections on work to learn from, that others may benefit from learning too. I continue to be guided by [Steve Messer](https://visitmy.website/2020/11/01/why-i-write-weeknotes/) on this. 
 
