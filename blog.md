@@ -30,7 +30,7 @@ You can [view all posts by year](/all-posts/)
                         searchInput: document.getElementById('search-input'),
                         resultsContainer: document.getElementById('results-container'),
                         json: '{{ site.baseurl }}/search.json',
-                        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title} [{tags}]</a></li>',
+                        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title} [{tags}]</a><div>{date}</div> <p>{excerpt}</p></li>',
                         noResultsText: 'No results found',
                         limit: 15,
                         fuzzy: false,
