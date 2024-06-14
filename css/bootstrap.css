@@ -31,7 +31,7 @@ footer ul li a  {
 
 footer ul li a:hover    {
     padding: 10px;
-    background-color: #660066;
+    background-color: #800080;
     border-radius: 5px;
     color: #fff;
 }
@@ -1127,7 +1127,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #660066;
+  color: #800080;
   text-decoration: none;
 }
 a:hover,
@@ -1304,7 +1304,7 @@ h2,
 h3,
 .h3 {
   font-size: 24px;
-  color: #660066;
+  color: #800080;
   padding-top:20px;
 }
 h4,
@@ -3090,9 +3090,9 @@ fieldset[disabled] a.btn {
   pointer-events: none;
 }
 .btn-default {
-  color: #660066;
+  color: #800080;
   background-color: #fff;
-  border-color: #660066;
+  border-color: #800080;
 }
 .btn-default:focus,
 .btn-default.focus {
@@ -3102,8 +3102,8 @@ fieldset[disabled] a.btn {
 }
 .btn-default:hover {
   color: #fff;
-  background-color: #660066;
-  border-color: #660066;
+  background-color: #800080;
+  border-color: #800080;
 }
 .btn-default:active,
 .btn-default.active,
@@ -3148,8 +3148,8 @@ fieldset[disabled] .btn-default.focus {
 }
 .btn-primary {
   color: #fff;
-  background-color: #660066;
-  border-color: #660066;
+  background-color: #800080;
+  border-color: #800080;
 }
 .btn-primary:focus,
 .btn-primary.focus {
@@ -3158,9 +3158,9 @@ fieldset[disabled] .btn-default.focus {
   border-color: #122b40;
 }
 .btn-primary:hover {
-  color: #660066;
+  color: #800080;
   background-color: #fff;
-  border-color: #660066;
+  border-color: #800080;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -4625,15 +4625,15 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #ccc;
 }
 .navbar-inverse {
-  background-color: #660066;
-  border-color: #660066;
+  background-color: #800080;
+  border-color: #800080;
 }
 .navbar-inverse .navbar-brand {
   color: #9d9d9d;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
-  color: #660066;
+  color: #800080;
   background-color: #fff;
   border-radius: 5px;
 }
@@ -4645,7 +4645,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-  color: #660066;
+  color: #800080;
   background-color: #fff;
   border-radius: 5px;
 }
@@ -5034,7 +5034,7 @@ a.badge:focus {
   .jumbotron h1,
   .jumbotron .h1 {
     font-size: 63px;
-    color: #660066;
+    color: #800080;
   }
 }
 .thumbnail {
@@ -5043,7 +5043,7 @@ a.badge:focus {
   margin-bottom: 20px;
   line-height: 1.42857143;
   background-color: #fff;
-  border: 1px solid #660066;
+  border: 1px solid #800080;
   border-radius: 4px;
   -webkit-transition: border .2s ease-in-out;
        -o-transition: border .2s ease-in-out;
