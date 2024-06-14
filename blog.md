@@ -34,7 +34,7 @@ You can [view all posts by year](/all-posts/)
                         noResultsText: 'No results found',
                         limit: 15,
                         fuzzy: false,
-                        exclude: ['Welcome']
+                        exclude: ['Welcome'],
                         searchFields: ['title', 'content']
                     })
                 </script>
