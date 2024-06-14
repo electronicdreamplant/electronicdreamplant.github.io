@@ -17,4 +17,26 @@ These posts have been pulled into the site from a number of sources:
 
 You can [view all posts by year](/all-posts/)
 
+<ul>
+                <div>
+                    <label for="search-input">Search for posts</label><input type="search" id="search-input" placeholder="search...">
 
+                    <hr />
+
+                    <ul id="results-container"></ul>
+                </div>
+
+                <script>
+                    window.simpleJekyllSearch = new SimpleJekyllSearch({
+                        searchInput: document.getElementById('search-input'),
+                        resultsContainer: document.getElementById('results-container'),
+                        json: '{{ site.baseurl }}/search.json',
+                        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+                        noResultsText: 'No results found',
+                        limit: 10,
+                        fuzzy: false,
+                        exclude: ['Welcome']
+                    })
+                </script>
+      
+    </ul>
