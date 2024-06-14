@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weeknotes S02 E21 — UKGovCamp XtraLoud"
+title: "Weeknotes: S02 E21 - UKGovCamp XtraLoud"
 date: 2024-01-22
 tags: weeknotes
 ---
