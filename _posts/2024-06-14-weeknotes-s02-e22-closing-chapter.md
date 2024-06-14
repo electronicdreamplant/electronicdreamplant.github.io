@@ -13,7 +13,7 @@ This was by no means planned, and in a way I've almost fallen into seeing, apply
 
 Looking back on [my first weeknote at Placecube](https://www.ox1digital.co.uk/blog/2022/12/22/weeknotes-s02-e01) it's a not dissimilar tale; thoughts had been forming about maybe stepping up this Product stuff and trying to be more strategic and less day-to-day/hands on. Well, it's happened now, and I'm more than a bit excited.
 
-So what better time to take a look back and put down some thoughts? Having spent some time as part of the handover process doing a mini-retro for myself on what works/doesn't work, any learning and actions to take next it's probably time to turn that on myself.
+So what better time to take a look back and put down some thoughts? Having spent some time as part of the handover process doing a mini-retro for my role on what works/doesn't work, any learning and actions to take next it's probably time to turn that on myself.
 
 ## Weeknoting
 
