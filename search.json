@@ -10,7 +10,6 @@ layout: none
 "url"      : "{{ site.baseurl }}{{ post.url }}",
 "date"     : "{{ post.date }}",
 "content": "{{ post.content | strip_html | strip_newlines | remove_chars | escape }}",
-"excerpt": "{{ post.content | strip_html | strip_newlines | truncatewords: 30 | replace: '"', '\\"' | replace: "'", "\\'" | jsonify }}"
 } {% unless forloop.last %},{% endunless %}
 {% endfor %}
 ]
