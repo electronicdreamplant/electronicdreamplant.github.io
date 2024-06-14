@@ -2631,7 +2631,12 @@ textarea.form-control {
   height: auto;
 }
 input[type="search"] {
+  border-width: 1px;
+  border-radius: 5px;
+  width: 30%;
   -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   input[type="date"].form-control,
