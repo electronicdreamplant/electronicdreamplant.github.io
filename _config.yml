@@ -3,3 +3,10 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 plugins: ['jekyll-twitter-plugin']
+
+# Search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [index.md, search.html]
