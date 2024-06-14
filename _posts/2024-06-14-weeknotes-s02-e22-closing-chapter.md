@@ -5,7 +5,7 @@ date: 2024-06-14
 tags: weeknotes
 ---
 
-As it ends, so it begins
+As it ends, so it begins.
 
 Today is my last day at [Placecube](https://www.placecube.com) which, when I started, I'd figured would be my last job. But in the end I've not quite made it to 2 years.
 
