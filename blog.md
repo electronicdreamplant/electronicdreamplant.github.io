@@ -22,8 +22,7 @@ You can [view all posts by year](/all-posts/)
                     <h3><label for="search-input">Search for posts</label></h3>
                     <input type="search" id="search-input" placeholder=" ">
 
-                 <!--   <hr /> -->
-
+<br/>
                     <ul id="results-container"></ul>
                 </div>
 
@@ -32,7 +31,7 @@ You can [view all posts by year](/all-posts/)
                         searchInput: document.getElementById('search-input'),
                         resultsContainer: document.getElementById('results-container'),
                         json: '{{ site.baseurl }}/search.json',
-                        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title} [tags: {tags}]</a></li>',
+                        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title} [in {tags}]</a></li>',
                         noResultsText: 'No results found',
                         limit: 10,
                         fuzzy: false,
