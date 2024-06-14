@@ -35,6 +35,7 @@ You can [view all posts by year](/all-posts/)
                         limit: 15,
                         fuzzy: false,
                         exclude: ['Welcome']
+                        searchFields: ['title', 'content']
                     })
                 </script>
     </div>  
