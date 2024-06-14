@@ -19,7 +19,7 @@ You can [view all posts by year](/all-posts/)
 
 <div>
                 <div>
-                    <h3 label for="search-input">Search for posts</label><input type="search" id="search-input" placeholder="search...">
+                    <h3 label for="search-input">Search for posts</h3 label><input type="search" id="search-input" placeholder="search...">
 
                     <hr />
 
