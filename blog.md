@@ -22,6 +22,7 @@ You can [view all posts by year](/all-posts/)
          <input type="search" id="search-input" placeholder=" ">
 
 <br/><br/>
+         <h3 id="search-results-title" style="display:none;">Search Results</h3>
          <ul id="results-container"></ul>
     </div>
 
@@ -37,5 +38,19 @@ You can [view all posts by year](/all-posts/)
                         exclude: ['Welcome'],
                         searchFields: ['title', 'content']
                     })
+    // Monitor changes in the results container
+    const resultsContainer = document.getElementById('results-container');
+    const resultsTitle = document.getElementById('search-results-title');
+
+    const observer = new MutationObserver(() => {
+        if (resultsContainer.children.length > 0) {
+            resultsTitle.style.display = 'block';
+        } else {
+            resultsTitle.style.display = 'none';
+        }
+    });
+
+    observer.observe(resultsContainer, { childList: true });
+    
                 </script>
     </div>  
