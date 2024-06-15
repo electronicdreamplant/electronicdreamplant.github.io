@@ -8,11 +8,11 @@ permalink: /blog/
 </div>
 
 These posts have been pulled into the site from a number of sources:
-- [Weeknotes](/tags/weeknotes/) - notes about my working week, written for me but shared in the open
+- [Weeknotes](/tags/weeknotes/) - posts about my working week, written for me but shared in the open
 - [Oxford City Council](/tags/oxford/) - posts as the Digital Development Team
 - [Placecube](/tags/placecube/) - posts written on behalf of the company
-- [Personal](/tags/personal/) - anything else I've written
 - [Chatbots](/tags/chatbots/) - posts on the Local Digital Chatbots project
+- [Personal](/tags/personal/) - anything else I've written
  
  
 You can [view all posts by year](/all-posts/)
