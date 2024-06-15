@@ -10,7 +10,7 @@ This week we completed Sprint #2 of the project, looking at waste and recycling 
 ## Show and Tell
 
 The complete event is recorded here
-<iframe width="680" height="382" src="https://www.youtube.com/embed/8126PhwnDxg?start=13" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="680" height="382" src="https://www.youtube.com/embed/VQKgdY6l3_g?start=31" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Slides from the session are here
 
