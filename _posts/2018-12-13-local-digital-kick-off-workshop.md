@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning Points from LocalGovCamp"
+title: "Local Digital Kick-Off Workshop"
 date: 2018-12-13
 tags: chatbots
 ---
