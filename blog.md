@@ -18,7 +18,7 @@ These posts have been pulled into the site from a number of sources:
 You can [view all posts by year](/all-posts/)
 <div>
     <div>
-         <label for="search-input">Or search for posts</label>
+         <label for="search-input">Or search for posts by keyword</label>
          <input type="search" id="search-input" placeholder=" ">
 
 <br/><br/>
