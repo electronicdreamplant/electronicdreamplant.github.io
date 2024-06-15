@@ -11,9 +11,9 @@ We got there at just before lunchtime and sneaked in to start setting things up.
 
 We'd brought some decorations with us, purchased via Amazon, and tried to make the room a little more festive
 
-![](../img/IMG_4962.jpg)
+![](/img/IMG_4962.jpg)
 
-![](../img/IMG_4963.png)
+![](/img/IMG_4963.png)
 
 Next, we had to order the food from the chinese restaurant. The one we used to all go to together in Summertown wasn't open for lunchtime orders due to staff shortages, so we picked on Zheng instead (a bit pricier and more awkward to get to). The food was almost ready to pick up by the time we got there.
 
@@ -25,7 +25,7 @@ When I wished him happy birthday he knew it was his birthday, but wasn't sure wh
 
 Back in the quiet room, he was delighted to see the chinese meal and the decorations (also the nice cold Guiness donated by Rachel's dad. We swapped out the chair for one with arms so he could be more comfortable.
 
-![](../img/IMG_4965.jpg)
+![](/img/IMG_4965.jpg)
 
 He's having some trouble swallowing - not sure why - so the Guiness didn't go down as smoothly as we'd hoped. The same thing happened at Xmas. Rachel cut his food up for him so it would go down more easily.
 
@@ -33,9 +33,9 @@ Then it was time for our next surprise - calling the rest of the family on a zoo
 
 As if it had been arranged just for the zoom callers, the care team arrived with a big cake for him to cut, and to sing him 'happy birthday'. Most of them worked until 2pm so wanted to do this before they left for the day. The affection they have for him is really touching - I'm so pleased he's here with such lovely people looking after him
 
-![](../img/IMG_4966.jpg)
+![](/img/IMG_4966.jpg)
 
-![](../img/IMG_4968.jpg)
+![](/img/IMG_4968.jpg)
 
 Once the cake was finished we took him back to his room and brought back some of the decorations. Still not convinced about being 101 we pointed to his 100th birthday card on the wall as proof.
 
