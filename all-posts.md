@@ -20,7 +20,7 @@ permalink: /all-posts/
         {% endif %}
         <li>
           <a href="{{ post.url }}">{{ post.title }}</a> - 
-          <span>{{ post.date | date: "%B %-d, %Y" }}</span>
+          <span>{{ post.date | date: "%B %-d" }}</span>
           <span>
            [tags:
             {% for tag in post.tags %}
