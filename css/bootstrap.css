@@ -1510,7 +1510,7 @@ abbr[data-original-title] {
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
-  border-left: 5px solid #eee;
+  border-left: 5px solid #ffccff;
   font-style: italic;
 }
 blockquote p:last-child,
