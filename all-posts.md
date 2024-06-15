@@ -22,7 +22,7 @@ permalink: /all-posts/
           <a href="{{ post.url }}">{{ post.title }}</a> - 
           <span>{{ post.date | date: "%-d %B" }}</span>
           <span>
-           [tags:
+           [
             {% for tag in post.tags %}
               {% assign tag_title = tag %}
               <a href="/tags/{{ tag }}/">{{ tag_title }}</a>]
