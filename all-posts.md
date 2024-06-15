@@ -23,7 +23,7 @@ permalink: /all-posts/
           <span>{{ post.date | date: "%-d %B" }}</span>
           <span>
            [
-            {% for tag in post.tags %}
+           {% for tag in post.tags %}
               {% assign tag_title = tag %}
               <a href="/tags/{{ tag }}/">{{ tag_title }}</a>]
            {% if forloop.last == false %}, {% endif %}
