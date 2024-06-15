@@ -2,7 +2,7 @@
 layout: post
 title: "Announcing our delivery partner - Torchbox"
 date: 2019-02-01
-tags: weeknotes
+tags: chatbots
 ---
 
 We’re more than a little excited to announce our delivery partner for the project!
