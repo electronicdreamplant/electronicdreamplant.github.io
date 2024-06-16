@@ -54,3 +54,5 @@ You can [view all posts by year](/all-posts/)
     
                 </script>
     </div>  
+
+    {% include latest_post.html %}
