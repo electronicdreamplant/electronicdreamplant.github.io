@@ -26,7 +26,7 @@ You can [view all posts by year](/all-posts/)
          <ul id="results-container"></ul>
 
     {% include latest_post.html %}
----
+
     {% include search_results.html %}
     
 
