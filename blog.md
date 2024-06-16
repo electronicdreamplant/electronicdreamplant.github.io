@@ -24,6 +24,9 @@ You can [view all posts by year](/all-posts/)
 <br/><br/>
          <h3 id="search-results-title" style="display:none;">Search Results</h3>
          <ul id="results-container"></ul>
+
+    {% include latest_post.html %}
+         
     </div>
 
                 <script>
@@ -55,4 +58,4 @@ You can [view all posts by year](/all-posts/)
                 </script>
     </div>  
 
-    {% include latest_post.html %}
+
