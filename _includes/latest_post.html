@@ -1,7 +1,11 @@
-<div class="latest-post">
-    <h2>Latest Post</h2>
-    {% assign latest_post = site.posts | first %}
-    <h3><a href="{{ latest_post.url }}">{{ latest_post.title }}</a></h3>
-    <p>{{ latest_post.content | markdownify | strip_html | truncatewords: 50 }}</p>
-    <a href="{{ latest_post.url }}" class="read-more-btn">Read more</a>
+<<div class="recent-posts">
+    <h2>Recent Posts</h2>
+    {% for post in site.posts limit:3 %}
+        <div class="post">
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <p>{{ post.date }}</p>
+            <p>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
+            <a href="{{ post.url }}" class="read-more-btn">Read more</a>
+        </div>
+    {% endfor %}
 </div>
