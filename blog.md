@@ -26,36 +26,7 @@ You can [view all posts by year](/all-posts/)
          <ul id="results-container"></ul>
 
     {% include latest_post.html %}
-    <hr>     
-    </div>
-
-                <script>
-                    window.simpleJekyllSearch = new SimpleJekyllSearch({
-                        searchInput: document.getElementById('search-input'),
-                        resultsContainer: document.getElementById('results-container'),
-                        json: '{{ site.baseurl }}/search.json',
-                        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title} [{tags}]</a> - {date}</li>',
-                        noResultsText: 'No results found',
-                        limit: 15,
-                        fuzzy: false,
-                        exclude: ['Welcome'],
-                        searchFields: ['title', 'content']
-                    })
-    // Monitor changes in the results container
-    const resultsContainer = document.getElementById('results-container');
-    const resultsTitle = document.getElementById('search-results-title');
-
-    const observer = new MutationObserver(() => {
-        if (resultsContainer.children.length > 0) {
-            resultsTitle.style.display = 'block';
-        } else {
-            resultsTitle.style.display = 'none';
-        }
-    });
-
-    observer.observe(resultsContainer, { childList: true });
+---
+    {% include search_results.html %}
     
-                </script>
-    </div>  
-
 
