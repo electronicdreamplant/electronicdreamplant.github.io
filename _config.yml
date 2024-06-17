@@ -1,6 +1,5 @@
 title: "OX1Digital"
-author: 
-  name: Neil Lawrence
+author: "Neil Lawrence"
 url: "https://www.ox1digital.co.uk"
 description: "My personal site and blog"
 
@@ -16,5 +15,5 @@ plugins:
 feed:
   path: feed.xml
   title: "OX1Digital"
-  description: "Posts and Pages"
+  description: "My personal blog and information about me"
 
