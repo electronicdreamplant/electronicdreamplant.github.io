@@ -30,6 +30,8 @@ New layout pages were created for:
 
 A final polish was to create an _includes file to fetch the latest 3 posts and add them at the foot of the new Blogs page.
 
+I had thought adding Open Graph metadata would be really difficult, but in reality it took a few minutes. Although I couldn't make the LinkedIn 'published date' requirement happy (although it turns out this isn't an OG tag anyway)
+
 ## Adding search 
 As I hadn't included a description or excerpt for each post , I wanted a way to be able to find a particular post. I'd tried to use [Tipue search](https://github.com/jekylltools/jekyll-tipue-search) but this had been archived 7 years ago and I couldn't get it to work due to clashing Jquery versions. With a bit of help from someone clever, I switched to [Simple Search](https://github.com/christian-fei/Simple-Jekyll-Search) (which is also archived!).
 
@@ -43,6 +45,9 @@ The original idea of the site was to try out bit of coding, or capture the odd p
 The presentation stuck out like a sore thumb too compared to the new presentation of blogs, so I decided to mirror this by creating a new posts collection called 'projects',creating similar layout pages for projects, and moving them across to markdown.
 
 For this (much smaller) set of content I've added description in the frontmatter to give a bit more info on each one in the listing as well as the post presentation. 
+
+## Updating RSS
+An age ago I created an Atom feed for the posts, which had completely stopped working, but a quick addition of 'jekyll-feed' to the plugins in _config.yml, along with the feed metatdata, meant it was up and running in minutes
 
 ## Using ChatGPT
 I have to say ChatGPT was pretty much indispensable for practical help. No question was too stupid, each answer was backed with a full explanation of why certain code was suggested, and this helped me to get more confident about what to do next and try out some of it solo. 
