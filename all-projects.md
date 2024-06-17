@@ -30,4 +30,3 @@ permalink: /projects-new/
       </li>
     {% endfor %}
   </ul>
-</div>
