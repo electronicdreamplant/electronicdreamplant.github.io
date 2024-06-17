@@ -4,9 +4,9 @@ title: Website restructure
 date: 2024-06-17
 description: Updating the website to insource blog posts and improve presentation
 ---
-It's been spring clean time for the website after deciding I needed to improve the presentation and get rid of some of the uglier HTML hacks I'd used when first put together.
+It's been spring cleaning time for the website after deciding I needed to improve its presentation and get rid of some of the uglier HTML hacks I'd used when first putting it together.
 
-Changing jobs made me realise that new colleagues may be looking at who this new guy coming in was and what he's been up to. Key things I wanted to do were:
+Changing jobs made me consider that new colleagues may be looking at just who this new guy coming in was and what he's been up to. Key things I wanted to do were:
 * in-source all my blog posts from the various locations they were posted in to have a single resource of the things I've written
 * drop the clunky presentation of the index and projects page to create a more cohesive approach
 * utilise what Jekyll can do in terms of posts and tagging
