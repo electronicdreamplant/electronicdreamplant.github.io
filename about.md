@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="page-header">
-  <h1>About Me </a></h1>
+  <h1>About Me</h1>
  </div>
 
 ![](/img/about.jpg)
