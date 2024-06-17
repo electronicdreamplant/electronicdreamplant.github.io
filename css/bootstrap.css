@@ -1308,6 +1308,11 @@ h3,
   color: #800080;
   padding-top:20px;
 }
+
+h3.description {
+  margin-top: -25px;
+}
+
 h4,
 .h4 {
   font-size: 18px;
