@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Projects
-permalink: /projects-new/
+permalink: /projects/
 ---
 <div class="page-header">
   <h1>Projects</h1>
