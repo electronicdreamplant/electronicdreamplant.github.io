@@ -1,7 +1,6 @@
 ---
 layout: main
 title: OX1Digital | About
-permalink: /about/
 ---
 
 <div class="page-header">
