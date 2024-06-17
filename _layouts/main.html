@@ -17,6 +17,9 @@
     <meta property="og:image" content="{{ site.url }}{{ page.image | default: site.image }}">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta property="og:locale" content="en_US">
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    <meta property="article:author" content="{{ site.author.name }}">
+    <meta property="article:tag" content="{{ page.tags | join: ', ' }}">
 
     
     <!-- Search plugin -->
