@@ -7,7 +7,6 @@ permalink: /blog/
 <h1>Blog</h1>
 </div>
 
-These posts have been pulled into the site from a number of sources:
 - [Weeknotes](/tags/weeknotes/) - posts about my working week, written for me but shared in the open
 - [Oxford City Council](/tags/oxford/) - posts as the Digital Development Team
 - [Placecube](/tags/placecube/) - posts written on behalf of the company
