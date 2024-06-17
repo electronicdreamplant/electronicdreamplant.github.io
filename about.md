@@ -12,9 +12,9 @@ permalink: /about/
 
 ## Current role
 
-I'm a Product Manager for [Unilink](https://www.unilink.com/), helping to develop communications products for offenders that allow them to stay in touch with family and friends
+I'm a Product Manager for [Unilink](https://www.unilink.com/), helping to develop communications products for offenders that allow them to stay in touch with family and friends.
 
-I'm a Product Owner for <a href="https://www.placecube.com/about-placecube/">Placecube</a> helping to develop products for governments, businesses and the communities they serve. Prior to that I worked for a variety of local authorities at every structural level (parish council through to unitary council) </p>
+Prior to that I was a Product Owner for Placecube, and held a variety of digital, improvement and project roles in local government.
 
 * [Read my LinkedIn profile](https://www.linkedin.com/in/neil-lawrence-digital/)
 * [View my CV](https://standardresume.co/r/neil-lawrence)
