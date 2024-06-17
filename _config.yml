@@ -10,5 +10,11 @@ image: "/img/site_image.jpg"
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-plugins: []
+plugins:
+ - jekyll-feed
+
+feed:
+  path: feed.xml
+  title: "OX1Digital"
+  description: "Posts and Pages"
 
