@@ -1,7 +1,12 @@
-title: OX1Digital
+title: "OX1Digital"
 author: 
   name: Neil Lawrence
-url: https://www.ox1digital.co.uk
+url: "https://www.ox1digital.co.uk"
+description: "My personal site and blog"
+
+# Default Open Graph image
+image: "/img/about.png"
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
