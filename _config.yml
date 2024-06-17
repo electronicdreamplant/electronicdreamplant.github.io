@@ -6,6 +6,11 @@ description: "My personal site and blog"
 # Default Open Graph image
 image: "/img/site_image.jpg"
 
+collections:
+ projects:
+    output: true  # Whether to output files in this collection
+    permalink: /projects/:title/  # Permalink structure for project pages
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
