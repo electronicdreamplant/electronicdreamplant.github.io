@@ -2,7 +2,7 @@
 layout: projects
 title: Website restructure 
 date: 2024-06-17
-description: Updating the website to insource blog posts and its improve presentation
+description: Updating the website to insource blog posts and improve presentation
 ---
 It's been spring clean time for the website after deciding I needed to improve the presentation and get rid of some of the uglier HTML hacks I'd used when first put together.
 
