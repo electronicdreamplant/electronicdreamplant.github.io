@@ -5,7 +5,7 @@ url: "https://www.ox1digital.co.uk"
 description: "My personal site and blog"
 
 # Default Open Graph image
-image: "/img/about.jpg"
+image: "/img/site_image.jpg"
 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
