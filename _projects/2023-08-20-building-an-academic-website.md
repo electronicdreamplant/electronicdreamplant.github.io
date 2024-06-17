@@ -11,7 +11,7 @@ I was contacted out of the blue by [Sarah Cowley](https://ihv.org.uk/people/prof
 
 So I thought building her a new one would be a nice way to keep on top of my WordPress knowledge
 
-### Requirements
+## Requirements
 
 The website needed to provide a complete record of all Sarah's academic output, and offer as much of this as free to download to users that have registered. Getting hold of academic papers is easier for people at Universities as they often get access to paid online libraries, with most other people having to searching [Google Scholar](https://scholar.google.com/) or hunting around on the web for them.
 
@@ -19,7 +19,7 @@ The current site had displayed a sample number of documents using a carousel, bu
 
 It wasn't until later into the start of this I realised that there were over 200 documents to deal with that Sarah has produced during her (amazing) career! After she sent me the Word document with these listed I realised I needed to something more to help her organise a catalogue of her work to better manage and share it.
 
-### Building the site
+## Building the site
 
 To keep the costs down as low as I could for her I got a hosted Wordpress package through Ionos with a decent 12-month offer. Next time I'll shop around some more as it turns out they don't support the use of Imagick on the server to generate PDF thumbnails.
 
@@ -40,7 +40,7 @@ Looking around for a good plugin to manage and display the documents I found [Do
 
 I started adding these manually one document at a time using [Researchgate as a source](https://www.researchgate.net/profile/Sarah-Cowley) but it soon became clear that I needed a better tool than Wordpress to manage this.
 
-### Moving up a gear
+## Moving up a gear
 
 I got [some great advice from digital folk](https://mastodon.me.uk/@ldodds/110892628730373955) on what I could use, and decided on [Zotero](https://www.zotero.org/) as the tool to use. With its accompanying Chrome extension to magically grab BibTex from documents, and download any associated PDFs, I was soon steaming along and making headway into the 200+ number
 
@@ -48,7 +48,7 @@ I got [some great advice from digital folk](https://mastodon.me.uk/@ldodds/11089
 
 Zotero also provided an [online library](https://www.zotero.org/electronicdreamplant/library) to share progress, which meant I could hand this over as a tool at the end of the project for maintaining this catalogue too
 
-### Issues
+## Issues
 
 While teachPress has been brilliant for taking the legwork out of providing the front end, there's a number of drawbacks:
 
