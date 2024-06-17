@@ -1,4 +1,7 @@
-name: Neil Lawrence
+title: OX1Digital
+author: 
+  name: Neil Lawrence
+url: https://www.ox1digital.co.uk
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
