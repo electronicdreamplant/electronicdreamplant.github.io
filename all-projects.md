@@ -22,10 +22,11 @@ permalink: /projects-new/
         <p>
           <a href="{{ project.url }}">{{ project.title }}</a> - 
           <span>{{ project.date | date: "%-d %B" }}</span>
-        </p>
+        <br/>
         {% if project.description %}
-          <p>{{ project.description }}</p>
+- {{ project.description }}
         {% endif %}
+        </p>
       </li>
     {% endfor %}
   </ul>
