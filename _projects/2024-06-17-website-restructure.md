@@ -19,72 +19,11 @@ Meantime, while at Oxford City Council I decided I wanted to use GitHub Pages fo
 The shift was an entirely manual process, copying and pasting HTML. I used the [HTML to Markdown converter on CodeBeautify](https://codebeautify.org/html-to-markdown) to strip out all the unnecessary markup and do some of the conversion to markdown for me, but it still needed some manual work too. 
 
 ## Organising the content
-While bringing the different sources together I wanted to keep them in distinct collections, so used tags. 
+While bringing the different sources together I wanted to keep them in distinct collections, so used tags for this as part of the Frontmatter. Each post had to have this manually added to ensure consistency.
 
-A new layout page for posts was created
-'---
-layout: main
----
-
-<div class="page-header">
-  <h1>{{ page.title }}</h1>
-</div>
-
-<div class="meta">
-  <h3>{{ page.date | date_to_string }}</h3>
-    {% for tag in page.tags %}
-    <p>[tags:  <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}]</p> 
-    {% endfor %}
-  </span>
-</div>
-
-<body>
-  <div class="posts">
-    {{ content }}
-  </div>
-</body>'
-
-A simple tag page was created for each tag:
-
-'---
-layout: tag_page
-tag: chatbots
-permalink: /tags/chatbots/
----
-<h1>Oxford City Council</h1>
-<ul>
-{% for post in site.tags.chatbots %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>'
-
-And a layout page for tag pages to organise the content by year
-
-'---
-layout: main
----  
-
-<div class="page-header">
-<h1>Posts tagged with {{ page.tag }}</h1>
-</div>
-
-  {% assign sorted_posts = site.posts | where: "tags", page.tag | sort: "date" | reverse %}
-    {% assign years = "" %}
-    <ul>
-      {% for post in sorted_posts %}
-        {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
-        {% if year != years %}
-          {% unless forloop.first %}</ul>{% endunless %}
-          <h2>{{ year }}</h2>
-          <ul>
-          {% assign years = year %}
-        {% endif %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a> - <span>{{ post.date | date: "%-d %B" }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-<hr><br/>
-<a href="/blog/">Back to Blog</a>'
+New layout pages were created for: 
+* individual posts, to display the frontmatter data and the content
+* tag pages, grouped by year and create an ordered list for each of the sources
+* an 'all tags' page, creating a single list of all blog posts (for the first time ever) grouped by year
 
 
