@@ -16,6 +16,7 @@ permalink: /blog/:year/:month/:day/:title
 
 plugins:
  - jekyll-feed
+ - jekyll-redirect-from
 
 feed:
   path: feed.xml
