@@ -20,7 +20,7 @@ permalink: /projects/
       {% endif %}
       <li>
         <p>
-          <a href="{{ project.url }}">{{ project.title }}</a> - 
+          <a href="{{ project.url }}">{{ project.title }}</a> 
         <br/>
         {% if project.description %}
 - {{ project.description }}
