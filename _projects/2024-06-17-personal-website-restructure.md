@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Website restructure 
+title: Personal website restructure 
 date: 2024-06-17
 description: Updating the website to insource blog posts and improve presentation
 ---
