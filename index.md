@@ -4,7 +4,7 @@ title: OX1Digital | About
 ---
 
 <div class="page-header">
-  <h1>About Me</h1>
+  <h1>About</h1>
  </div>
 
 ![](/img/about.jpg)
