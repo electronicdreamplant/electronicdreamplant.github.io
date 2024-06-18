@@ -21,7 +21,6 @@ permalink: /projects/
       <li>
         <p>
           <a href="{{ project.url }}">{{ project.title }}</a> - 
-          <span>{{ project.date | date: "%-d %B" }}</span>
         <br/>
         {% if project.description %}
 - {{ project.description }}
