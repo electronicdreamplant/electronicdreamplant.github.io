@@ -70,7 +70,7 @@ What we found was:
 - The majority of the backlog was due to email. It was established that 70% of this contact could be completed as an online form.
 - Of 70 emails to the generic council tax email address the majority were from landlords/agents to notify us of a tenancy change. This was in preference to using the (highly used) online form - most likely because this had always been accepted by our council tax team and not challenged.
 - Only 7% of emails and calls related to users chasing progress, contrary to the initial hypothesis about the potential causes
-- Around 23% of calls were promoted by receiving a letter or court summons
+- Around 23% of calls were prompted by receiving a letter or court summons
 
 So we managed to disprove immediately at least one of our assumptions - that most of customer contact was due to delays in processing.
 
