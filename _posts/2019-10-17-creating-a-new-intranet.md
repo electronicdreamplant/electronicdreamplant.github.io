@@ -3,6 +3,7 @@ layout: post
 title: Creating a new intranet
 date: 2019-10-17
 tags: oxford
+redirect_from: /projects/creating-a-new-intranet
 ---
 
 ## Background
