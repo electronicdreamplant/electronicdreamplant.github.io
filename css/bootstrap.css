@@ -1310,7 +1310,8 @@ h3,
 }
 
 h3.description {
-  margin-top: -25px;
+  margin-top: -2rem;
+  margin-bottom: 3rem;
 }
 
 h4,
