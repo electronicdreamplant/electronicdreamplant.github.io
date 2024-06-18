@@ -4,7 +4,7 @@ title: Website restructure
 date: 2024-06-17
 description: Updating the website to insource blog posts and improve presentation
 ---
-It's been spring cleaning time for the website after I decidwd I needed to improve its presentation and get rid of some of the uglier HTML hacks I'd used when first putting it together.Changing jobs made me think about new colleagues trying to find out just who this new guy coming in is and what he's been up to. 
+It's been spring cleaning time for the website after I decided I needed to improve its presentation and get rid of some of the uglier HTML hacks I'd used when first putting it together.Changing jobs made me think about new colleagues trying to find out just who this new guy coming in is and what he's been up to. 
 
 Key things I wanted to do were:
 * in-source all my blog posts from the various locations they were posted in to have a single resource of everything I've written
