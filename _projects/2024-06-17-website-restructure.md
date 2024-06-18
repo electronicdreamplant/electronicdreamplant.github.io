@@ -14,7 +14,7 @@ Key things I wanted to do were:
 ## In-sourcing the blog posts
 Back in 2016 when I put the site together, I'd thought about writing blogs directly on it, but it was a little ahead of having anything to write, so that idea stalled.
 
-While at Oxford City Council I decided I wanted to use GitHub Pages for a local blog site for my team's work. Separate to that were personal blog posts hosted on Medium, which later became where I started work-related weeknotes. To top it all, I had a completely separate GitHub Pages site for a project where I posted too. In all they were in five different locations used.
+While at Oxford City Council I decided I wanted to use GitHub Pages for a local blog site for my team's work. Separate to that I'd started writing personal blog posts hosted on Medium, which later became where I started work-related weeknotes too. To top it all, I had a completely separate GitHub Pages site for a project where I posted too. In all they were in five different locations used.
 
 The shift to insource was an entirely manual process, just copying and pasting HTML. I used the [HTML to Markdown converter on CodeBeautify](https://codebeautify.org/html-to-markdown) to strip out all the unnecessary markup and do some of the conversion to markdown for me, but it still needed manual work too. 
 
