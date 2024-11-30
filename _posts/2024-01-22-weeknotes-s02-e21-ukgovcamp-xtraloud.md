@@ -4,6 +4,8 @@ title: "Weeknotes: S02 E21 - UKGovCamp XtraLoud"
 date: 2024-01-22
 tags: weeknotes
 ---
+![Audience shot of the event](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*caCjAQ7Cxp8qeAnjTSYEkg.png)
+
 This week saw a long-awaited return to in-person GovCamp. Although I’d signed up for the online events during the COVID years I’d found it difficult to immerse myself in them and get the same level of engagement. They also lacked the vital #HugCamp opportunities.
 
 This time round I was on the company ticket as Placecube was one of the (many many) sponsors of the event. So that changed the dynamics slightly, but frankly spending a Saturday with interesting and inspiring people you can imagine this wasn’t a hardship (to [quote Oliva Coleman](https://www.independent.co.uk/arts-entertainment/films/news/oscars-2019-olivia-colman-best-actress-speech-full-video-the-favourite-funny-lady-gaga-close-a8795296.html)).
@@ -34,6 +36,8 @@ I have to admit I was really flagging by 4pm and desperate for the bar/food to b
 
 ## People
 I thought it would be harder spotting people I knew to reunite but actually it wasn’t hard at all, and it was great to see old faces. Due to the lag since the last GovCamp I have to explain a move to Dorset AND one to the private sector.
+
+![A sparkly pair of trousers and an iridescent pair of boots](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*I3w-2pnezwrA-qPRW-jD5w.png)
 
 I didn’t think we’d get so many conversations at our suppliers stand, but some of these were the most in-depth, interested and interesting I’ve had. I learned all about personal data in the NHS and steps to combine with care data, one I hope we manage to follow up on. I even gave Julia from Oxford Insights a 3 min briefing on the structure of local government!
 
