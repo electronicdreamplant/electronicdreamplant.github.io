@@ -21,7 +21,7 @@
     <meta name="author" content="Neil Lawrence">
     <meta property="article:tag" content="{{ page.tags | join: ', ' }}">
 
-    
+
     <!-- Search plugin -->
     <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
 
@@ -30,14 +30,14 @@
     <title>{{ page.title }}</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="/css/heroic-features.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/heroic-features.css" rel="stylesheet">
 
     <!--link to font awesome stylesheet -->
     <script src="https://kit.fontawesome.com/1910a691c1.js" crossorigin="anonymous"></script>
-    
+
     <!--adding favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
 
@@ -71,7 +71,7 @@
                         <a href="/projects/">Projects</a>
                     </li>
                     <li>
-                        <a href="/blog/">Blog</a> 
+                        <a href="/blog/">Blog</a>
                     </li>
                 </ul>
             </div>
@@ -127,10 +127,10 @@
         <!-- /.container -->
 
         <!-- jQuery -->
-        <script src="../css/js/jquery.js"></script>
+        <script src="{{ site.baseurl }}/css/js/jquery.js"></script>
 
         <!-- Bootstrap Core JavaScript -->
-        <script src="../css/js/bootstrap.min.js"></script>
+        <script src="{{ site.baseurl }}/css/js/bootstrap.min.js"></script>
 
         </body>
 

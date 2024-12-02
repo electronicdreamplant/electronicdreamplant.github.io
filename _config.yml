@@ -1,6 +1,7 @@
 title: "OX1Digital"
 author: "Neil Lawrence"
 url: "https://www.ox1digital.co.uk"
+baseurl: ""
 description: "My personal site and blog"
 
 # Default Open Graph image
@@ -22,4 +23,3 @@ feed:
   path: feed.xml
   title: "OX1Digital"
   description: "My personal blog and information about me"
-
