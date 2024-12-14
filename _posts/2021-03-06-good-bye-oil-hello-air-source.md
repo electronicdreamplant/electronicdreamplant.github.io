@@ -90,9 +90,8 @@ These were the things that came out from our detailed survey:
 *   there was also an issue with the towel rail radiators in the bathrooms, which are more decorative than energy efficient, although they still push out some heat. We’re treating the bathrooms as ‘unheated spaces’ for the purposes of the calculations so we held on to them rather than change them for conventional radiators.
 *   the genius that built the house insulated the loft roof and not the loft floor, which means that our upstairs radiators spent a lot of energy heating the loft space, which was what our new system would need to do as well unless we changed things. How could anyone imagine it was a good idea going that way in the first place? Who needs a nice, warm loft?
 
-![Our badly insulated loft (not a NASA space capsule) with its haphazard boarding. Spotlight cones are just visible between the rafters](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*U6Q_g0GJkvcTdEJCfHve6Q.jpeg)
-
-Our badly insulated loft (not a NASA space capsule) with its haphazard boarding. Spotlight cones are just visible between the rafters
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*U6Q_g0GJkvcTdEJCfHve6Q.jpeg)
+*Our badly insulated loft (not a NASA space capsule) with its haphazard boarding. Spotlight cones are just visible between the rafters*
 
 *   In addition, our house condition survey report wasn’t exactly glowing with praise about the loft insulation:
 
