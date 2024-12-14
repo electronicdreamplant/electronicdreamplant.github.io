@@ -17,6 +17,7 @@ We’ve not exactly been renewable-focused until now, although we’d [signed up
 Around [14% of UK greenhouse gas emissions come from gas boilers](https://www.theecoexperts.co.uk/boilers/uk-gas-boiler-ban), and they will be banned in new build properties from 2023. The move to more sustainable heating methods is one that many people will be turning to, so we thought this story might be helpful to others looking to make the move.
 
 ## Why we changed over
+
 ![Mr Smelly](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iAQIStRLwuvoWTexlO0aUg.jpeg)
 
 This is was our oil combi boiler. It smelled as bad as it looks. Situated in our garage it acted as an oil potpourri, ensuring every time we walked in to the garage we were reminded about being on oil heating with just one sniff.
@@ -24,6 +25,7 @@ This is was our oil combi boiler. It smelled as bad as it looks. Situated in our
 The window with blinds you can see closest to the garage window is my study, which means if I had the window even slightly open I would get oil exhaust fumes to inhale while I worked. Nice.
 
 We could probably have stood the smell if it actually did its job. But no, it couldn’t actually deliver suitably hot water. The result being we’d not had a bath in our new house since moving in , and washing up was always in lukewarm water.
+
 ![Mr Ugly](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7VnE3IbyS4uFf1tvyY0Q9Q.jpeg)
 
 Did I mention the huge plastic oil tank in the garden? It had its own fence to shield us all from looking at it, which works so long as you were not in the garden.
