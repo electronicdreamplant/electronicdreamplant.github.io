@@ -4,6 +4,7 @@ title: "Good bye oil, hello air source"
 date: 2021-03-06
 tags: personal
 ---
+![(image courtesy of https://peninsulaheatingandcooling.com/)](https://miro.medium.com/v2/resize:fit:2880/format:webp/1*48K3GBDOa_Ggdq-5r89VmA.jpeg)
 
 ## Introduction
 
@@ -16,12 +17,14 @@ We’ve not exactly been renewable-focused until now, although we’d [signed up
 Around [14% of UK greenhouse gas emissions come from gas boilers](https://www.theecoexperts.co.uk/boilers/uk-gas-boiler-ban), and they will be banned in new build properties from 2023. The move to more sustainable heating methods is one that many people will be turning to, so we thought this story might be helpful to others looking to make the move.
 
 ## Why we changed over
+![Mr Smelly](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iAQIStRLwuvoWTexlO0aUg.jpeg)
 
 This is was our oil combi boiler. It smelled as bad as it looks. Situated in our garage it acted as an oil potpourri, ensuring every time we walked in to the garage we were reminded about being on oil heating with just one sniff.
 
 The window with blinds you can see closest to the garage window is my study, which means if I had the window even slightly open I would get oil exhaust fumes to inhale while I worked. Nice.
 
 We could probably have stood the smell if it actually did its job. But no, it couldn’t actually deliver suitably hot water. The result being we’d not had a bath in our new house since moving in , and washing up was always in lukewarm water.
+![Mr Ugly](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7VnE3IbyS4uFf1tvyY0Q9Q.jpeg)
 
 Did I mention the huge plastic oil tank in the garden? It had its own fence to shield us all from looking at it, which works so long as you were not in the garden.
 
@@ -30,6 +33,8 @@ We were told that this needed filling twice a year (so that’s 2,000 litres), a
 ## About the house
 
 It’s fair to say we had a head start with our house as a base for air source heating as it was only built in 2006 and so has benefited to a degree from improved building standards over older properties. So double glazing, cavity wall insulation etc are all standard. However, the house hadn’t really had any attention since it was built, so we were playing catch-up on stuff needing replacement/fixing.
+
+![Image of an EPC Rating of D with a potential to achieve C](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rz0_9NQhP9J4gE6BOBdgTA.png)
 
 Its EPC rating was nothing to write home about, with most features of the housing getting a ‘Good’ rating. The worst aspects (getting an ‘Average’ rating) were the main heating and hot water, both of which were highlighted as areas to improve the overall rating to a C.
 
@@ -51,6 +56,8 @@ The key elements of an air source system are:
 *   **the heat pump**; this bit can be in the same unit as the fan (makes them bigger tho) or wall-mounted just inside (like ours, as we had the space). Essentially it takes the gas refrigerant and uses electricity to compress it which heats it up ([check out the Gas Laws](https://en.wikipedia.org/wiki/Gas_laws) if you want to know the science). A heat exchanger then says “ooh nice, gimme some of that heat, you handsome refrigerant” and heats up water for the radiators and water tank. And back out goes the refrigerant to start the cycle again
 *   **the water tank**; I’m guessing you know what one of these is, but it’s the key to us having a bath, so it’s my favourite! Ours was to go in our garage rather than retrofit a load of piping to store it in our loft
 *   **the bits that heat your home**; so for us this was traditional radiators, but air source systems can also feed underfloor heating and air-to-air systems. Those are great for new build (air-to-air can also cool down houses in the summer) but too expensive for retrofitting to a house with an existing radiator system
+
+![Stolen from http://www.duchyecoheating.co.uk/air-source-heat-pumps-explained/](https://miro.medium.com/v2/resize:fit:1202/format:webp/1*VlxGuIqEErqxmb4WV6zOSg.jpeg)
 
 There’s a [nice overview from the Energy Saving Trust](https://energysavingtrust.org.uk/advice/air-source-heat-pumps/) of how it all works, including costs and savings, which is worth a read if you’re thinking of going down this route
 
@@ -80,6 +87,8 @@ These were the things that came out from our detailed survey:
 *   three of our radiators were too small to heat the space they are in. You can actually see this when comparing the radiator in our sitting room to its smaller cousin directly above in the main bedroom. So those needed to be changed out as part of the work.
 *   there was also an issue with the towel rail radiators in the bathrooms, which are more decorative than energy efficient, although they still push out some heat. We’re treating the bathrooms as ‘unheated spaces’ for the purposes of the calculations so we held on to them rather than change them for conventional radiators.
 *   the genius that built the house insulated the loft roof and not the loft floor, which means that our upstairs radiators spent a lot of energy heating the loft space, which was what our new system would need to do as well unless we changed things. How could anyone imagine it was a good idea going that way in the first place? Who needs a nice, warm loft?
+
+![Our badly insulated loft (not a NASA space capsule) with its haphazard boarding. Spotlight cones are just visible between the rafters](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*U6Q_g0GJkvcTdEJCfHve6Q.jpeg)
 
 Our badly insulated loft (not a NASA space capsule) with its haphazard boarding. Spotlight cones are just visible between the rafters
 
@@ -158,6 +167,9 @@ Commission and hand over to customer
 
 Things kicked off on Monday with a call from Dan to ask if the parts could be dropped off ahead of Tuesday’s start date. Looking at this all sat in our garage waiting to be installed suddenly made everything feel a bit more real.
 
+![](https://miro.medium.com/v2/resize:fit:1156/format:webp/1*l_kKTto2By1kRNaqO23WkQ.jpeg)
+![](https://miro.medium.com/v2/resize:fit:846/format:webp/1*oH_H5uVMoiR00rjIeQSK_Q.jpeg)
+
 The outside fan unit (bigger than we’d thought) and the water tank (a perfect fit) sat in the garage ready to be installed
 
 We were also over the moon at having made it through the coldest part of winter without having to refill the oil tank before the switch — that saved us some cash and also meant there was less oil to remove from the tank.
@@ -189,4 +201,3 @@ Secondly there’s the relationship with outside temperatures. Air source heat p
 One issue we’d raised with Dan was that our hot water was _really_ hot, to the point we couldn’t get in the bath without loads of cold going in. We were shown how to set the heating profile for this too. Instead of mixing hot and cold water at the taps we’re able to set a lower average temperature for how water is heated and stored in the tank so we don’t heat it up beyond what is needed, saving us energy but still giving us those lovely, hot baths we’d been waiting for.
 
 There are a batch of different sensors we can use to monitor the system, and [an app to help us keep an eye on things](https://apps.apple.com/be/app/daikin-residential-controller/id1474811586), so it feels like we have lots more learning to do. But like checking food miles, or artificial additives, taking the time to think about how we use energy in a more responsible way feels like something everyone should be doing in a climate emergency.
-
