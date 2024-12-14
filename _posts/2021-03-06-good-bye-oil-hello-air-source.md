@@ -168,6 +168,7 @@ Commission and hand over to customer
 Things kicked off on Monday with a call from Dan to ask if the parts could be dropped off ahead of Tuesday’s start date. Looking at this all sat in our garage waiting to be installed suddenly made everything feel a bit more real.
 
 ![](https://miro.medium.com/v2/resize:fit:1156/format:webp/1*l_kKTto2By1kRNaqO23WkQ.jpeg)
+
 ![](https://miro.medium.com/v2/resize:fit:846/format:webp/1*oH_H5uVMoiR00rjIeQSK_Q.jpeg)
 
 The outside fan unit (bigger than we’d thought) and the water tank (a perfect fit) sat in the garage ready to be installed
@@ -176,7 +177,13 @@ We were also over the moon at having made it through the coldest part of winter 
 
 Talking of which, that oil tank was a bit of a handful to get out, and the colour of the remaining oil sludge that was pumped out even surprised the removal firm. In all probability this would have damaged the oil boiler if we had used it even for a few more weeks.
 
+![remaining oil being pumped out](https://miro.medium.com/v2/resize:fit:782/format:webp/1*X2C0mlAaJNSUzLd8BPVCEA.jpeg)
+
 The new equipment was installed pretty quickly, with the heat pump working at the end of day 2 and starting to heat the water in the water tank. We had our first bowl of piping hot washing-up water on the morning of day 3, and our first bath too! Coming home from the office on day 3 we were greeted with the radiator work completed and heat in the house — a day ahead of schedule!
+
+![](https://miro.medium.com/v2/resize:fit:942/format:webp/1*T-PARxg6_XNPKu7GfQ7D_w.jpeg)
+
+![](https://miro.medium.com/v2/resize:fit:530/format:webp/1*NIVTMD73AyG7lcBhh_V0-A.jpeg)
 
 Some things didn’t go as planned, but in a good way:
 
