@@ -11,6 +11,9 @@ collections:
  projects:
     output: true  # Whether to output files in this collection
     permalink: /projects/:year/:title  # Permalink structure for project pages
+ portugal:
+    output: true
+    permalink: /portugal/:year/:month/:day/:title
 
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
