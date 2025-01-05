@@ -29,4 +29,3 @@ permalink: /portugal/
       </li>
     {% endfor %}
   </ul>
-</div>
