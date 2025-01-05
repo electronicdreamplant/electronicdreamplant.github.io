@@ -7,10 +7,8 @@ layout: main
 </div>
 
 <div class="meta">
-       {% if page.description %}
-        <h3 class="description">{{ page.description }}</h3>
-        {% endif %}
-  </span>
+<h2>{{ page.description }}</h2>
+  <h3>{{ page.date | date_to_string }}</h3>
 </div>
 
 <body>
