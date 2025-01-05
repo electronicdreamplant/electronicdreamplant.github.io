@@ -3,10 +3,11 @@ layout: main
 title: Portugal
 permalink: /portugal/
 ---
-<span style="display: block; width: 100vw; margin-left: calc(50% - 50vw); margin-right: calc(50% - 50vw);">
+<span style="display: block; width: 100vw; margin-left: calc(50% - 50vw); margin-right: calc(50% - 50vw); margin-top: 25px;">
 ![](/img/portugal_header.jpg)
-<div class="page-header">
 </span>
+
+<div class="page-header">
   <h1>Portugal Posts</h1>
 </div>
 <div>
