@@ -3,6 +3,7 @@ layout: main
 title: Portugal
 permalink: /portugal/
 ---
+![](/img/portugal_header.jpg)
 <div class="page-header">
   <h1>Portugal Posts</h1>
 </div>
@@ -20,7 +21,8 @@ permalink: /portugal/
       {% endif %}
       <li>
         <p>
-          <a href="{{ post.url }}">{{ post.title }}</a>
+          <a href="{{ post.url }}">{{ post.title }}</a> -
+          <span>{{ post.date | date: "%-d %B" }}</span>
         <br/>
         {% if post.description %}
           {{ post.description }}
