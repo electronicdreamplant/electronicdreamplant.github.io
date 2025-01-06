@@ -100,19 +100,28 @@ ul.posts li {
   color: #555;
 }
 
+.post-navigation .previous {
+  text-align: left; /* Align "Previous" to the left */
+  flex: 1; /* Ensures it takes up its space */
+}
+
+.post-navigation .next {
+  text-align: right; /* Align "Next" to the right */
+  flex: 1; /* Ensures it takes up its space */
+}
+
 /* Target the h3 in the post-navigation */
 .post-navigation h3 {
   color: #333; /* Set h3 text to black */
-  margin: 0; /* Optional: adjust spacing as needed */
+  margin: 0; /* Adjust spacing as needed */
 }
 
 /* Style the links inside post-navigation */
 .post-navigation h3 a {
-  color: inherit; /* Inherit the h3 color if you want it black too */
+  color: inherit; /* Inherit the h3 color */
   text-decoration: none; /* Remove underline */
 }
 
-/* Ensure links outside h3 are styled normally */
 .post-navigation h3 a:hover {
   text-decoration: underline; /* Optional: Add hover underline */
 }
