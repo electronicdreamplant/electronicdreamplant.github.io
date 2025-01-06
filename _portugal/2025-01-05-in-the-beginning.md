@@ -53,4 +53,4 @@ We'd never been to Portugal before, but quickly found we loved it. We'd been ent
 
 Also seeing a country through friends' eyes gives you better vision. The year-long impact of the local climate and how they adapt to it was important. Where you are in the country is important. How close you are to the sea is important. How close you are to main travel routes is important. There was so much we picked up in a short time.
 
-More than that, just seeing how my friend was living day-to-day made me hugely jealous. On our journey home, and in the days that followed, all we could talk about was finally making our long-held ambitions into reality.
+More than that, just seeing how my friend was living day-to-day made me hugely jealous. On our journey home, and in the days that followed, all we could talk about was finally making our long-held ambitions into reality. It is no exaggeration to say that every day since returning in September has involved us either discussing or planning the move. This one isn't another well-intentioned plan that will fade away in time; this time it will happen.
