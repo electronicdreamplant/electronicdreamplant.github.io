@@ -19,6 +19,10 @@ That itch to switch also infected me a few decades ago. With family overseas I h
 
 ## Project Windmill
 
-The itch didn't go away, and in 2014 after a couple of holidays in the Netherlands we hit upon the plan to move there. This extended at one point to learning Dutch (well, for one of us). The barrier that kept coming up was how we'd make it pay - we could only do that by both finding jobs there.
+The itch didn't go away, and in 2014 after a couple of holidays in the Netherlands we hit upon the plan to move there. This one felt more real as it was more a choice of destination based on a place that reflected our values and lifestyle rather than just being somewhere where there was family.
 
-  
+It was given a name: Project Windmill, and began to get discussed with friends, and we got advice about renting out our house. We had a costed budget for the house improvements that were needed to rent out, and a timetable.
+
+But the barrier that kept coming up was how we'd make it pay - we could only do that by both finding jobs there. Somehow that just felt like a step too much for us. So it began to get scaled back. Firstly to a 12 month leave of absence, but then we weren't sure we could swing that with our jobs, and then to 6 months with the project funded by savings. There were five costed options on which way to make it work.
+
+But there it remained, as a set of spreadsheets, and after a time we stopped talking about it.
