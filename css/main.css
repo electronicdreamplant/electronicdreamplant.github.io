@@ -100,6 +100,10 @@ ul.posts li {
   color: #555;
 }
 
+.post-navigation h3 {
+  color: #333;
+}
+
 .post-navigation a {
   color: #007acc;
   text-decoration: none;
