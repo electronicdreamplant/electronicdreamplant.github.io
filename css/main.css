@@ -76,8 +76,8 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.2em;
 }
 
@@ -90,6 +90,23 @@ ul.posts li {
   max-width: 150px;
   margin: 0 auto 30px;
   border-radius: 100%;
+}
+
+.post-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.post-navigation a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+.post-navigation a:hover {
+  text-decoration: underline;
 }
 
 #projects {
@@ -158,7 +175,7 @@ a.button:after  {
 div.img {
   margin: 5px;
   width: 450px;
-  box-shadow: 3px 3px 3px #888888; 
+  box-shadow: 3px 3px 3px #888888;
 }
 
 div.img img {
@@ -170,4 +187,3 @@ div.img img {
   padding-bottom: 50px;
   text-align: center;
 }
-
