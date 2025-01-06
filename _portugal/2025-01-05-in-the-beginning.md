@@ -1,8 +1,8 @@
 ---
 layout: portugal
-title: New Year, New Challenge
+title: In the beginning...
 date: 2025-01-05
-description: How we decided to move to Portugal
+description: The roots of how we decided to move to Portugal
 ---
 
 I decided that the New Year was a good time to start charting our move to Portugal. Although we've already talked about it with friends and family, it's still not completely public. Indeed, until it is these posts won't be going live. Just in case.
