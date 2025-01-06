@@ -92,38 +92,43 @@ ul.posts li {
   border-radius: 100%;
 }
 
+/* Post navigation container */
 .post-navigation {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-between; /* Align links to edges */
+  align-items: center; /* Vertically center links */
   margin-top: 40px;
   font-size: 0.9em;
-  color: #555;
 }
 
+/* Previous link styles */
 .post-navigation .previous {
-  text-align: left; /* Align "Previous" to the left */
-  flex: 1; /* Ensures it takes up its space */
+  text-align: left; /* Align to the left */
+  flex: 1; /* Take equal space */
 }
 
+/* Next link styles */
 .post-navigation .next {
-  text-align: right; /* Align "Next" to the right */
-  flex: 1; /* Ensures it takes up its space */
+  text-align: right; /* Align to the right */
+  flex: 1; /* Take equal space */
 }
 
-/* Target the h3 in the post-navigation */
+/* Style the h3 in post-navigation */
 .post-navigation h3 {
-  color: #333; /* Set h3 text to black */
-  margin: 0; /* Adjust spacing as needed */
+  color: #000; /* Force black color */
+  margin: 0; /* Remove extra spacing */
+  font-size: 1em; /* Adjust as needed */
 }
 
-/* Style the links inside post-navigation */
+/* Style the links inside the h3 */
 .post-navigation h3 a {
   color: inherit; /* Inherit the h3 color */
   text-decoration: none; /* Remove underline */
 }
 
+/* Add hover effect for links */
 .post-navigation h3 a:hover {
-  text-decoration: underline; /* Optional: Add hover underline */
+  text-decoration: underline; /* Optional hover underline */
 }
 
 
