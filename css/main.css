@@ -100,18 +100,23 @@ ul.posts li {
   color: #555;
 }
 
+/* Target the h3 in the post-navigation */
 .post-navigation h3 {
-  color: #333;
+  color: #333; /* Set h3 text to black */
+  margin: 0; /* Optional: adjust spacing as needed */
 }
 
-.post-navigation a {
-  color: #007acc;
-  text-decoration: none;
+/* Style the links inside post-navigation */
+.post-navigation h3 a {
+  color: inherit; /* Inherit the h3 color if you want it black too */
+  text-decoration: none; /* Remove underline */
 }
 
-.post-navigation a:hover {
-  text-decoration: underline;
+/* Ensure links outside h3 are styled normally */
+.post-navigation h3 a:hover {
+  text-decoration: underline; /* Optional: Add hover underline */
 }
+
 
 #projects {
   margin: 0;
