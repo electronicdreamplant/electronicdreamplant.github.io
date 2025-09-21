@@ -7,7 +7,7 @@ description: Using ChatGPT to create a web app from scratch
 
 After a recent visit to France I decided it was time to actually start learning the language. After all, we had been going there for over 20 years, and my schoolboy english was showing the strain.
 
-I took an excellent Open University intro course called [Get ready for beginners’ French](https://www.open.edu/openlearn/languages/get-ready-beginners-french/content-section-overview?active-tab=description-tab) which helped me think about my objectives and learning styles, and it had some excellent tips from existing students. One of these was using flashcards to help with vocabularly.That felt like a good tool to get started with.
+I took an excellent Open University intro course called [Get ready for beginners’ French](https://www.open.edu/openlearn/languages/get-ready-beginners-french/content-section-overview?active-tab=description-tab) which helped me think about my objectives and learning styles, and it had some excellent tips from existing students. One of these was using flashcards to help with vocabularly. That felt like a good tool to get set up before I dive into my full course.
 
 ## What is on the market aready
 As you might expect, there are dozens of apps already out there that can do this job. Some I explored were:
@@ -20,10 +20,10 @@ As you might expect, there are dozens of apps already out there that can do this
 
 [Reverso](https://www.reverso.net/vocabulary) started off much more promisingly, as you could search for words, add the answers to Favourites and organise the Favourites into Lists to represent different subject topics.Its flashcards were nicely laid out with pronunciation options and the word used in context. 
 
-I thought I was home and dry, but actually using it felt less easy, there were constant prompts to take out a paid subscription, and it was scarily easy to delete your favourites! Also, I couldn't switch from French > English to English > French easily mid-learning.So, it felt like I should maybe have a try myself. 
+I thought I was home and dry, but actually using it felt less easy. There were constant prompts to take out a paid subscription, and it was scarily easy to delete your Favourites! Also, I couldn't switch from French > English to English > French easily mid-learning. So this got me thinking about trying to build something myself. 
 
 ## Getting ChatGPT on the case
-The organisation I work for is really keen for everyone to make use of AI as part of daily working practice, so I'm used to falling back on ChatGPT for potential solutions and time saving approaches in my work. I've never mastered coding beyond buying books and leaving them on a shelf unread, and because my work colleagues were finding AI tools a really valuable way to accelerate development, I thought I'd try a quick prompt in my personal OpenAI account to see what it produced;
+The organisation I work for is really keen for everyone to make use of AI as part of daily working practice, so I'm used to falling back on ChatGPT for potential solutions and time saving approaches in my work. I've never mastered coding beyond buying books and leaving them on a shelf unread, and because my work colleagues were finding AI tools a really valuable way to accelerate development, I thought I'd try a quick prompt in my personal ChatGPT account to see what it produced;
 
 >I'm still not sure I've found the vocab learning solution I completely like, that can adapt to how I want to record and present flashcards. I'm now wondering about a Google Sheets recording method and using you to help me create an application to present flashcards (since you're good at this coding thing) via some kind of GitHub pages setup. What do you say?
 
@@ -33,8 +33,10 @@ Off the bat it recommended:
 * using a lightweight Leitner review approach (Again/Good/Easy) to mark up cards and control how often they are shown
 * using themed decks and lesson filters
 
+This was to be the start of many more interactions.....
+
 ## Working with Google Sheets
-This was a good way to work out what kind of data I needed to capture to have the information I wanted to see in the flashcards. 
+I found this a good way to work out what kind of data I needed to capture to have the right information in the flashcards and be able to organise them around my needs. 
 
 After a bit of experimentation I came up with:
 * deck - to organise my flashcards into groups that made sense to me (Food, Family, House etc)
