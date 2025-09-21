@@ -16,14 +16,14 @@ As you might expect, there are dozens of apps already out there that can do this
 * Memrise
 * Reverso
 
-Anki felt like it wanted to live on Linux, and had all kinds of scripts you could download to force it to do what you want. Too complicated for me (and the scripts didn't work). 
+[Anki](https://docs.ankiweb.net/background.html) felt like it wanted to live on Linux, and claimed it had all kinds of scripts you could download to force it to do what you want. Too complicated for me (and the scripts didn't work). 
 
-Reverso started off much more promisingly, as you could search for words, add the answers to Favourites and organise the Favourites into Lists to represent different subject topics.Its flashcards were nicely laid out with pronunciation options and the word used in context. I thought I was home and dry, but actually using it felt less easy, there were constant prompts to take out a paid subscription, and it was scarily easy to delete your favourites! Also, I couldn't switch from French > English to English > French easily.
+[Reverso](https://www.reverso.net/vocabulary) started off much more promisingly, as you could search for words, add the answers to Favourites and organise the Favourites into Lists to represent different subject topics.Its flashcards were nicely laid out with pronunciation options and the word used in context. 
 
-So, it felt like I should maybe have a try myself. 
+I thought I was home and dry, but actually using it felt less easy, there were constant prompts to take out a paid subscription, and it was scarily easy to delete your favourites! Also, I couldn't switch from French > English to English > French easily mid-learning.So, it felt like I should maybe have a try myself. 
 
 ## Getting ChatGPT on the case
-The organisation I work for is really keen for everyone to make using AI part of daily working practice, so I'm used to falling back on ChatGPT for potential solutions and time saving approaches. As I've never mastered coding beyond buying books and leaving them on a shelf unread, and because my work colleagues were finding AI tools a really valuable way to accelerate development, I thought I'd try a quick prompt in my personal OpenAI account:
+The organisation I work for is really keen for everyone to make use of AI as part of daily working practice, so I'm used to falling back on ChatGPT for potential solutions and time saving approaches in my work. I've never mastered coding beyond buying books and leaving them on a shelf unread, and because my work colleagues were finding AI tools a really valuable way to accelerate development, I thought I'd try a quick prompt in my personal OpenAI account to see what it produced;
 
 >I'm still not sure I've found the vocab learning solution I completely like, that can adapt to how I want to record and present flashcards. I'm now wondering about a Google Sheets recording method and using you to help me create an application to present flashcards (since you're good at this coding thing) via some kind of GitHub pages setup. What do you say?
 
@@ -34,7 +34,9 @@ Off the bat it recommended:
 * using themed decks and lesson filters
 
 ## Working with Google Sheets
-This was a good way to work out what kind of data I needed. After a bit of experimentation I came up with:
+This was a good way to work out what kind of data I needed to capture to have the information I wanted to see in the flashcards. 
+
+After a bit of experimentation I came up with:
 * deck - to organise my flashcards into groups that made sense to me (Food, Family, House etc)
 * lesson - as I had been using a text book, using its chapter numbers was a good way to categorise
 * article - as French is preedominently gender-based, knowing if words were masculine or feminine was important
@@ -44,7 +46,7 @@ This was a good way to work out what kind of data I needed. After a bit of exper
 * labels - an additional categorisation method for organising presentation
 * tags - to sweep up any additional contextual sorting or prompts
 
-Then it was a case of using File → Share → Publish to web to make it available as a data source
+Then it was a case of using File → Share → Publish to web to make it available as a data source for the web app.
 
 ## First app iteration
 As I've been using GitHub to host my blog and other test apps I just needed a new repo within my existing account that could be served under the same domain name.
@@ -77,7 +79,10 @@ I did a bit of experimentation with the built-in speech APIs on my MacBook but t
 As the format of Forvo pages was consistent (e.g. https://forvo.com/word/pomme/#fr) I got ChatGPT to create a helper to take data from the sheet, combine the article + word, strip out any other unnecessary data and then automatically generate a URL to add to the flashcard icon. Job done!
 
 ## The final version
-I'm pretty pleased with how it looks and works
+I'm pretty pleased with how the latest iteration looks and works
+
 ![desktop view of French Vocab Flashcards web app](/img/flashcards_app.png)
 
-As we use it, my wife and I are already finding extra things we want it to do, like including verbs, idioms and phrases, so we're seeing how well it holds up to some robust user testing. But for now I'm really happy I was able to utlise tools to get exacty what I wanted very quickly.
+As we use it, my wife and I are already finding extra things we want it to do, like including verbs, idioms and phrases, so we're seeing how well it holds up to some robust user testing while we learn. But for now I'm just happy I was able to utlise tools to develop exacty what I wanted very quickly.
+
+You can [view the code and the README on my GitHub repo](https://github.com/electronicdreamplant/french-flashcards)
