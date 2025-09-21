@@ -87,4 +87,4 @@ I'm pretty pleased with how the latest iteration looks and works
 
 As we use it, my wife and I are already finding extra things we want it to do, like including verbs, idioms and phrases, so we're seeing how well it holds up to some robust user testing while we learn. But for now I'm just happy I was able to utlise tools to develop exacty what I wanted very quickly.
 
-You can [view the code and the README on my GitHub repo](https://github.com/electronicdreamplant/french-flashcards)
+You can [view the code and the README on my GitHub repo](https://github.com/electronicdreamplant/french-flashcards/)
