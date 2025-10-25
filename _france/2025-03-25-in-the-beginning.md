@@ -1,7 +1,7 @@
 ---
 layout: france
 title: In the beginning...
-date: 2025-10-25
+date: 2025-03-25
 description: The roots of how we decided to move to France
 ---
 
