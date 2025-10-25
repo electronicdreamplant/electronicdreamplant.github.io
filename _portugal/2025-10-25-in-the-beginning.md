@@ -1,11 +1,11 @@
 ---
-layout: portugal
+layout: france
 title: In the beginning...
-date: 2025-01-05
-description: The roots of how we decided to move to Portugal
+date: 2025-10-25
+description: The roots of how we decided to move to France
 ---
 
-I decided that the New Year was a good time to start charting our move to Portugal. Although we've already talked about it with friends and family, it's still not completely public. Indeed, until it is these posts won't be going live. Just in case.
+I decided that the New Year was a good time to start charting our move to France. Although we've already talked about it with friends and family, it's still not completely public. Indeed, until it is these posts won't be going live. Just in case.
 
 So come with me now while we take a quick flit back to the origins of a move overseas.
 
@@ -13,7 +13,7 @@ So come with me now while we take a quick flit back to the origins of a move ove
 
 It's fair to say my family has a bit of a tradition in not staying put in the UK. My oldest sister emigrated to Australia when she was 18 (without ever having visited there). My other sister had a spell working in Canada as an au-pair before meeting her future husband and deciding to make it her home. And my parents, well into their retirement, decided to make Canada their home too (although that only lasted 2 years).
 
-If that wasn't enough, my wife took European Studies at university, which entailed spending a year living in Germany, my in-laws bought a house in Brittany, my brother-in-law is from Venezuela and my (future) son-in-law is from Jordan.
+If that wasn't enough, my wife took European Studies at university, which entailed spending a year living in Germany, my in-laws bought a house in Brittany, my brother-in-law is from Venezuela and my son-in-law is from Jordan.
 
 That itch to switch also infected me a few decades ago. With family overseas I had ambitions to move to Canada or Australia, but beyond writing the odd letter these were unformed plans that never developed into anything solid.
 
@@ -43,7 +43,7 @@ Importantly, we were no longer tied to going to an office every day. In our new 
 
 Looking back now we wish we'd taken this opportunity to make a shift to Europe to work as all the pieces were in place to do so. But in reality, the stability of the job wasn't that great and in the end I took another change that gave me better job security.
 
-## Reunification
+## Portugal - almost
 
 Something happened in 2024 that had a huge impact on my life and finally set us on our course to live in Portugal.
 
@@ -53,4 +53,4 @@ We'd never been to Portugal before, but quickly found we loved it. We'd been ent
 
 Also seeing a country through friends' eyes gives you better vision. The year-long impact of the local climate and how they adapt to it was important. Where you are in the country is important. How close you are to the sea is important. How close you are to main travel routes is important. There was so much we picked up in a short time.
 
-More than that, just seeing how my friend was living day-to-day made me hugely jealous. On our journey home, and in the days that followed, all we could talk about was finally making our long-held ambitions into reality. It is no exaggeration to say that every day since returning in September has involved us either discussing or planning the move. This one isn't another well-intentioned plan that will fade away in time; this time it will happen.
+More than that, just seeing how my friend was living day-to-day made me hugely jealous. On our journey home, and in the days that followed, all we could talk about was finally making our long-held ambitions into reality. It is no exaggeration to say that every day since returning that September involved us either discussing or planning the move. This one isn't another well-intentioned plan that would fade away in time; this time it would happen.
