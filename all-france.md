@@ -1,17 +1,17 @@
 ---
 layout: main
-title: Portugal
-permalink: /portugal/
+title: France
+permalink: /france/
 ---
 
 <div class="page-header">
-  <h1>Portugal Posts</h1>
+  <h1>France Posts</h1>
 </div>
 <div>
-  {% assign sorted_portugal = site.portugal | sort: "date" | reverse %}
+  {% assign sorted_france = site.france | sort: "date" | reverse %}
   {% assign years = "" %}
   <ul>
-    {% for post in sorted_portugal %}
+    {% for post in sorted_france %}
       {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
       {% if year != years %}
         {% if forloop.index > 1 %}</ul>{% endif %}
