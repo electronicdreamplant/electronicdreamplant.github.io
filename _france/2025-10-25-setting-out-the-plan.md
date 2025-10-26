@@ -52,3 +52,8 @@ By the time we retire we will have built up a good capital base that will cover 
 We will leave the bulk of our savings in UK ISAs as these provide a far better return than we can get on French investments. We will only draw down from these whe we need to, as they cannot be replenished once we are French tax residents.
 
 We wil invest the capital from our house sale to help offset rental costs until we are ready to purchase.
+
+## 'Plan B'
+We will be realistic about the possibility that life in France may not suit us, so we will have a back-up plan should we choose to return to the UK.
+
+As we would have sold the house, we would look to relocate to Norwich
