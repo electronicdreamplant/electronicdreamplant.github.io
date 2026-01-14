@@ -33,6 +33,6 @@ Prior to that I was a Product Owner for Placecube, and held a variety of digital
 ## Other info
 I first cut my teeth on web projects in the early 90's when I decided I'd set up a website for the motor racing club that I was involved with. All frames and static html pages with a bit of javascript borrowed from other sites
 
-I'm a keen member of [LocalGov Digital](https://localgov.digital), a community of local government digital practitioners, and was on its Steering Group for a number of years
+I was a keen member of [LocalGov Digital](https://localgov.digital), a community of local government digital practitioners when in the sector, and was on its Steering Group for a number of years
 
 You can view my [Flickr site](https://www.flickr.com/photos/neillawrencephotography) if you're interested in seeing the kind of photographs I like to take
