@@ -19,11 +19,11 @@ There were other paid options out there:
 * [Pixpa](https://www.pixpa.com) - with the number of photos on Flickr I'd need the unlimited plan at around £60 per year, so no real incentive to move
 
 ## Finishing with Flickr
-Following the 'burn your boats' approach to committing to a solution of some sort that **wasn't** Flickr I decided to clear out those 1,762 photos I had hosted
+Following the 'burn your boats' approach to committing to a solution of some sort that wasn't Flickr I decided to clear out those 1,762 photos I had hosted
 
-I started with an attempt to get a refund and cancel the subscription altogether. The Flickr support info suggests that once you've paid then that's it for the year, even if you cancel the renewal for next year. But I gave it a shot under UK consumer law (quoted in the email), and to their credit I received the refund within 2 hours.
+I started with an attempt to get a refund and cancel the subscription altogether. The Flickr support info suggests that once you've paid then that's it for the year, even if you cancel the renewal for next year. But I gave it a shot under UK consumer law (quoted in the email), and to their credit (and mine) I received the refund within 2 hours.
 
-Oh, and if you DO cancel they instantly offer you a 20% discount on signing up again. So why not make your service cost that much in the first place?
+Oh, and if you do cancel they instantly offer you a 20% discount on signing up again. So why not make your service cost that much in the first place?
 
 ### Downloading the photos
 
@@ -153,20 +153,20 @@ The original plan had been to use Google Drive to host the photos, as I have a g
 It was all a bit depressing.
 
 ### Google Photos and Google sites
-I REALLY resisted this approach as long as I could, but Gemini (at various points) kept flagging that I already really had the resources I needed to set up more or less what I wanted.
+I really resisted this approach as long as I could, but Gemini (at various points) kept flagging that I already really had the resources I needed to set up more or less what I wanted.
 
 I don't like the limited nature and amateur presentation of Google Sites, and Google Photos is more geared towards storage and organisation than it is sharing.
 
-But...the reality is it is very easy to manage photos, create shared albums and include photos on a Google Site with its native capabilities. As with most things in life, a compromise is sometimes the best you get. So I went for the compromise.
+But the reality is it is very easy to manage photos, create shared albums and include photos on a Google Site with its native capabilities. As with most things in life, a compromise is sometimes the best you get. So I went for the compromise.
 
 ## Setting up the Google-based option
 
 ### Google Photos repository
 I was already using Google Photos as a lower-cost back-up for my photos automatically from my iPhone/Macbook. Many moons ago I used an external hard drive that failed and I nearly lost everything.
 
-But this really was a 'bucket' of ALL my photos rather than just selecting the photos I wanted to show. Solution was to set up a new Google account, share my One account storage with it as part of the famiily plan, and then uploaded all 1,762 images that I'd downloaded from Flickr.
+But this really was a 'bucket' of all my photos rather than just the photos I wanted to show. The solution was to set up a new Google account, share my One account storage with it as part of the famiily plan, and then uploaded all 1,762 images that I'd downloaded from Flickr.
 
-Unfortunately it did mean setting up the albums from scratch, but given many were event or occasion-based it wasn't that hard. I also had the chance to case a more discerning eye over what went into each album.
+Unfortunately it did mean setting up the albums from scratch, but given many were event or occasion-based it wasn't that hard. I also had the chance to cast a more discerning eye over what went into each album.
 
 An unexpected benefit of this was the ability to include a photo in multiple albums, since Google Photo albums are really just tags on the photo metadata. This lead my to re-think my approach from being event-based and move toward being theme-based. So albums for themes were created too.
 
@@ -177,7 +177,7 @@ I stuck with the Simple theme for the site, and used a side navigation for the t
 
 ![](/img/google-sites-photos.png)
 
-Pulling in images for each page was pretty simple. Although none of the 'albums' are visible to select from you can search for the album title. Selecting images to import is limited to 20 at a time, so sometimes a bit of reorganisation was needed afterwards.
+Pulling in images for each page was pretty simple. Although none of the 'albums' are visible to select from, you can search for the album title. Selecting images to import is limited to 20 at a time, so sometimes a bit of reorganisation was needed afterwards.
 
 ![Google Sites interface showing the images selection modal](/img/select-images-google.jpg)
 
@@ -196,7 +196,7 @@ Google Sites made this really easy by adding the custom domain in Settings, then
 
 Setting up the DNS record in Ionos was a different story as it assumes that you want to use its webhosting, and it adds Mail settings too. Once the Google Sites TXT record was added then it became possible to delete the unnecessary A and AAAA records for <code>photos</code> with no errors. Once verified, Google Sites then supplied the CNAME data to add in.
 
-To be honest, I HATE dabbling in DNS records and was glad to have some Gemini support to guide me through it as they don't make it easy.
+To be honest, I hate dabbling in DNS records and was glad to have some Gemini support to guide me through it as they don't make it easy.
 
 ## Conclusions
 * "You can't always have what you want, but if you try sometimes you get what you need" - Rolling Stones
