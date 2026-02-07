@@ -1581,8 +1581,8 @@ samp {
 }
 code {
   padding: 2px 4px;
-  font-size: 90%;
-  color: #c7254e;
+  font-size: 80%;
+  color: #800080;
   background-color: #f9f2f4;
   border-radius: 4px;
 }
@@ -1606,7 +1606,7 @@ pre {
   display: block;
   padding: 9.5px;
   margin: 0 0 10px;
-  font-size: 13px;
+  font-size: 15px;
   line-height: 1.42857143;
   color: #333;
   word-break: break-all;
@@ -6813,4 +6813,3 @@ button.close {
     display: none !important;
   }
 }
-
