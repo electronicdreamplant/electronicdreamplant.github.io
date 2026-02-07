@@ -35,4 +35,4 @@ I first cut my teeth on web projects in the early 90's when I decided I'd set up
 
 I was a keen member of [LocalGov Digital](https://localgov.digital), a community of local government digital practitioners when in the sector, and was on its Steering Group for a number of years
 
-You can view my [Flickr site](https://www.flickr.com/photos/neillawrencephotography) if you're interested in seeing the kind of photographs I like to take
+You can view my [portfolio site](https://photos.ox1digital.co.uk) if you're interested in seeing the kind of photographs I like to take
