@@ -65,7 +65,7 @@ How the player should operate evolved over time. The rules we arrived at were:
 ### File load optimisation
 I noticed that the sound waves for each track were taking up to 20 seconds to load. This was tracked down to the mp3 files I'd converted from my original wav files. The browser was trying to download every single MP3 file simultaneously to "read" the peaks and valleys for the waveforms.
 
-As I converted these in a hurry I didn't give much thought to their size, and it turned out my file quality was higher than SoundCloud, Spotify or Bandcamp! I ran the through Audacity to reduce them to 128Kbps, which led to a 60% improvement in load time.
+As I converted these in a hurry I didn't give much thought to their size, and it turned out my file quality was higher than SoundCloud, Spotify or Bandcamp! I ran them through Audacity to reduce them to 128Kbps, which led to a 60% improvement in load time.
 
 This was helped by a 'lazy load' fix that only loaded the tracks and their sound waves when they were visible in the browser. We did look at a 'skeleton' wave shape being loaded initially, but it didn't work out.
 
@@ -82,3 +82,5 @@ For half a day's work I was delighted with how it turned out.
 ![Music app showing two tracks, one being played, and header with volume control](/img/player-final.jpg)
 
 I no longer have to rely on mainstream platforms and can adjust it as I like. The only limitations I have are the maximum size of the repo, and (currently) too little music of my own to actually upload!
+
+Go and check it out: [Electronic Dream Plant music player](https://www.ox1digital.co.uk/music/)
