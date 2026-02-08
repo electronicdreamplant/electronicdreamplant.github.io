@@ -83,4 +83,4 @@ For half a day's work I was delighted with how it turned out.
 
 I no longer have to rely on mainstream platforms and can adjust it as I like. The only limitations I have are the maximum size of the repo, and (currently) too little music of my own to actually upload!
 
-Go and check it out: [Electronic Dream Plant music player](https://www.ox1digital.co.uk/music/)
+Go and check it out: [Electronic Dream Plant music player](https://www.ox1digital.co.uk/music/) 
