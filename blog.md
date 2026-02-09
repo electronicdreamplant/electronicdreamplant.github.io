@@ -17,5 +17,3 @@ Pick a topic or [view all posts by year](/all-posts/)
 
 
     {% include latest_post.html %}
-
-    {% include search_results.html %}
