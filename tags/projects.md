@@ -1,10 +1,12 @@
 ---
 layout: tag_page
-title: Projects
+tag: projects
 permalink: /tags/projects/
 ---
+<div class="page-header">
+  <h1>Projects</h1>
+</div>
 
-<h1>Projects</h1>
 <ul>
 {% for post in site.tags.projects %}
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
