@@ -2,14 +2,12 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <!-- Open Graph Meta Tags -->
     <meta property="og:title" content="{{ page.title | escape }}">
     <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:type" content="website">
@@ -21,34 +19,19 @@
     <meta name="author" content="Neil Lawrence">
     <meta property="article:tag" content="{{ page.tags | join: ', ' }}">
 
-
-    <!-- Search plugin -->
-    <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-
     <title>{{ page.title }}</title>
 
-    <!-- Bootstrap Core CSS -->
     <link href="{{ site.baseurl }}/css/bootstrap.css" rel="stylesheet">
 
-    <!-- Custom CSS -->
     <link href="{{ site.baseurl }}/css/heroic-features.css" rel="stylesheet">
 
-    <!--adding favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-
 </head>
 
 <body>
 
-    <!-- Navigation -->
     <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
@@ -58,57 +41,59 @@
                 </button>
                 <a class="navbar-brand" href="/">OX1<span style="font-weight:100">Digital</span></a>
             </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li>
-                        <a href="/">About</a>
-                    </li>
-                    <li>
-                        <a href="/blog/">Blog</a>
-                    </li>
-                    <li>
-                        <a href="https://photos.ox1digital.co.uk">Photos</a>
-                    </li>
+                    <li><a href="/">About</a></li>
+                    <li><a href="/blog/">Blog</a></li>
+                    <li><a href="https://photos.ox1digital.co.uk">Photos</a></li>
                 </ul>
             </div>
-            <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
     </nav>
 
-    <!-- Page Content -->
     <div class="container">
-
         {{ content }}
-
     </div>
-        <hr>
 
-        <!-- Footer -->
-        <div class="container">
-            <footer>
-                <ul>
-                    <li><a href="mailto:neil@ox1digital.co.uk"><i class="fa fa-envelope fa-lg"></i></a></li>
-                    <li><a href="https://bsky.app/profile/ox1digital.co.uk"><i class="fa-brands fa-bluesky fa-lg"></i></a></li>
-                    <li><a href="https://www.linkedin.com/in/neil-lawrence-digital/"><i class="fa fa-linkedin fa-lg"></i></a></li>
-                    <li><a href="https://github.com/electronicdreamplant"><i class="fa fa-github fa-lg"></i></a></li>
-                    <li><a href="https://photos.ox1digital.co.uk/"><i class="fa fa-camera fa-lg"></i></a></li>
-                    <li><a href="https://www.ox1digital.co.uk/music"><i class="fa fa-music fa-lg"></i></a></li>
-                    <li><a href="/feed.xml"><i class="fa fa-rss fa-lg"></i></a></li>
-                </ul>
-            </footer>
+    <hr>
 
-        </div>
-        <!-- /.container -->
+    <div class="container">
+        <footer>
+            <div style="margin-bottom: 20px;">
+                <label for="search-input">Search posts by keyword </label>
+                <input type="search" id="search-input" placeholder="search..." style="width: 100%; max-width: 400px; padding: 5px;">
+                <ul id="results-container" style="list-style: none; padding-left: 0; margin-top: 10px;"></ul>
+            </div>
 
-        <!-- jQuery -->
-        <script src="{{ site.baseurl }}/css/js/jquery.js"></script>
+            <ul>
+                <li><a href="mailto:neil@ox1digital.co.uk"><i class="fa fa-envelope fa-lg"></i></a></li>
+                <li><a href="https://bsky.app/profile/ox1digital.co.uk"><i class="fa-brands fa-bluesky fa-lg"></i></a></li>
+                <li><a href="https://www.linkedin.com/in/neil-lawrence-digital/"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                <li><a href="https://github.com/electronicdreamplant"><i class="fa fa-github fa-lg"></i></a></li>
+                <li><a href="https://photos.ox1digital.co.uk/"><i class="fa fa-camera fa-lg"></i></a></li>
+                <li><a href="https://www.ox1digital.co.uk/music"><i class="fa fa-music fa-lg"></i></a></li>
+                <li><a href="/feed.xml"><i class="fa fa-rss fa-lg"></i></a></li>
+            </ul>
+        </footer>
+    </div>
 
-        <!-- Bootstrap Core JavaScript -->
-        <script src="{{ site.baseurl }}/css/js/bootstrap.min.js"></script>
-        <!--link to font awesome stylesheet -->
-        <script src="https://kit.fontawesome.com/1910a691c1.js" crossorigin="anonymous"></script>
-        </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/css/js/bootstrap.min.js"></script>
+    <script src="https://kit.fontawesome.com/1910a691c1.js" crossorigin="anonymous"></script>
 
-        </html>
+    <script src="https://unpkg.com/simple-jekyll-search@latest/dest/simple-jekyll-search.min.js"></script>
+    <script>
+      // Initialize search after scripts are loaded
+      var sjs = SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '{{ site.baseurl }}/search.json',
+        searchResultTemplate: '<li><a href="{url}">{title}</a> - {date}</li>',
+        noResultsText: 'No results found',
+        limit: 10,
+        fuzzy: false
+      });
+    </script>
+
+</body>
+</html>
