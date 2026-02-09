@@ -6,7 +6,7 @@ description: Self hosting my own music
 tags: projects
 ---
 
-Flushed with the success of [building a Flickr alternative](./2026-02-07-photo-portfolio-v2.md) my thoughts turned to what I could do self-host my own music (easy) and sharing it (less easy).
+Flushed with the success of [building a Flickr alternative](/2026-02-07-photo-portfolio-v2.md) my thoughts turned to what I could do self-host my own music (easy) and sharing it (less easy).
 
 [Soundcloud](https://soundcloud.com/discover) looks great but has a cap on how many tracks you can upload before being charged, and [Bandcamp](https://panchiko.bandcamp.com/track/r-o-b-o-t-s-r-e-p-r-i-s-e) is free to use but is pretty ugly and geared towards selling music. Could I have something free and looks great?
 
