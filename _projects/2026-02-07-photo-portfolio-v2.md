@@ -160,7 +160,6 @@ I don't like the limited nature and amateur presentation of Google Sites, and Go
 But the reality is it is very easy to manage photos, create shared albums and include photos on a Google Site with its native capabilities. As with most things in life, a compromise is sometimes the best you get. So I went for the compromise.
 
 ## Setting up the Google-based option
-
 ### Google Photos repository
 I was already using Google Photos as a lower-cost back-up for my photos automatically from my iPhone/Macbook. Many moons ago I used an external hard drive that failed and I nearly lost everything.
 
