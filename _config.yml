@@ -8,9 +8,6 @@ description: "My personal site and blog"
 image: "/img/site_image.jpg"
 
 collections:
- projects:
-    output: true  # Whether to output files in this collection
-    permalink: /projects/:year/:title  # Permalink structure for project pages
  france:
     output: true
     permalink: /france/:year/:month/:day/:title
