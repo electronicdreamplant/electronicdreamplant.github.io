@@ -2,15 +2,12 @@
 layout: none
 ---
 [
-  {% assign search_content = site.posts | concat: site.projects %}
-  {% for item in search_content %}
+  {% for post in site.posts %}
   {
-    "title"    : "{{ item.title | escape }}",
-    "category" : "{% if item.collection == 'projects' %}projects{% else %}{{ item.category }}{% endif %}",
-    "tags"     : "{% if item.collection == 'projects' %}projects{% else %}{{ item.tags | join: ', ' }}{% endif %}",
-    "url"      : "{{ site.baseurl }}{{ item.url }}",
-    "date"     : "{{ item.date | date: '%-d %B %Y' }}",
-    "content"  : {{ item.content | strip_html | strip_newlines | jsonify }}
+    "title"    : {{ post.title | jsonify }},
+    "url"      : {{ post.url | absolute_url | jsonify }},
+    "date"     : {{ post.date | date: '%-d %B %Y' | jsonify }},
+    "content"  : {{ post.content | strip_html | strip_newlines | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
