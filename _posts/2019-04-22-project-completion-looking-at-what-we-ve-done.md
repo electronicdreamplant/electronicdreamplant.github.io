@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Project completion - looking at what we've done"
+title: "Chatbots project completion - looking at what we've done"
 date: 2019-04-22
-tags: chatbots
+tags: chatbots projects
 ---
 
 We’ve now reached the end of our project, so it’s time to look back on the work we did and the things we learned along the way. This includes the project deliverables produced as part of the project funding requirements.

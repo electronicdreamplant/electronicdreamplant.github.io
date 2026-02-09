@@ -2,8 +2,7 @@
 layout: post
 title: Creating a new intranet
 date: 2019-10-17
-tags: oxford
-redirect_from: /projects/creating-a-new-intranet
+tags: oxford projects
 ---
 
 ## Background
@@ -20,7 +19,7 @@ The site gained the team a Staff Award for Team of the Year in recognition of th
 - **Features were developed but never used** - People aren’t aware of many of the things the intranet can do. A staff suggestions scheme was built in full but never deployed
 - **The technology base is now shaky** - it runs on an old version of php that can’t update as this would mean rewriting many of the custom modules. Already this means doesn’t allow people to edit content using IE11. Embedding videos has never been possible for ordinary editors.
 - **The design is dated** - more effort was spent on the intranet’s functionality than how it looks. It’s fairly unloved
-  
+
 But the biggest issues are with the content.
 
 - We spent all our time on development and none on content. It was migrated across in full from the previous intranet, warts and all. Items identified for possible deletion were never looked at by their owners
@@ -28,7 +27,7 @@ But the biggest issues are with the content.
 - As everyone had to ‘own’ their content, we had issues when people left in trying to reassign it. Inevitably, people ended up being given someone else’s content to manage
 - We used Drupal for document management in the absence of any other system to use. This isn’t its strong point and it shows
 - We didn’t have a good information architecture to underpin the content and help make sense of what it was or how to navigate it
-  
+
 ## New Ways of Working
 With the advent of a drive to modernise the way we work in the council it was clear that the existing intranet was not the right vehicle to promote this, nor to represent a new way of working. However, with a full workplan on our hands we couldn’t see how to develop a new intranet from scratch with next to no budget or time to do it.
 

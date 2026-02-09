@@ -2,7 +2,7 @@
 layout: post
 title: "What we learned from Get Online Week"
 date: 2017-10-06
-tags: oxford
+tags: oxford projects
 ---
 
 This year saw Oxford City Council taking its first steps to helping with Digital Inclusion by running drop-in sessions as part of [Get Online Week](https://www.getonlineweek.com/get-online-week). Inclusion is a key theme in our [Digital Strategy](http://digital.oxford.gov.uk/strategy/inclusion.html) and we have an action plan commitment to set up an [Online Centre](https://www.onlinecentresnetwork.org/ournetwork/) in Oxford as part of this.
