@@ -5,10 +5,13 @@ permalink: /tags/projects/
 ---
 <h1>Projects</h1>
 <ul>
-{% for post in site.tags.projects %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-{% if post.description %}<br/>{{ post.description }}{% else %}<br/><em>No description found</em>{% endif %}
-</li>
+{% assign project_posts = site.posts | where_exp: "item", "item.tags contains 'projects'" %}
+{% for post in project_posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%-d %B %Y" }}
+    {% if post.description %}
+      <br/>{{ post.description }}
+    {% endif %}
+  </li>
 {% endfor %}
 </ul>
