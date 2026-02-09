@@ -6,7 +6,6 @@ permalink: /blog/
 <div class="page-header">
 <h1>Blog</h1>
 </div>
-Pick a topic or [view all posts by year](/all-posts/)
 
 Pick a topic or [view all posts by year](/all-posts/)
 * [Weeknotes](/tags/weeknotes/) – posts about my working week, written for me but shared in the open
