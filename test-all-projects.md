@@ -1,32 +1,24 @@
 ---
 layout: main
-title: Test Projects List
+title: Test Specific Project Tag
 permalink: /test-projects/
 ---
 <div class="page-header">
-  <h1>Test Projects List</h1>
+  <h1>Projects (Tag Test)</h1>
 </div>
 
 <div>
-  {% assign project_posts = site.posts | where_exp: "item", "item.tags contains 'projects'" | sort: "date" | reverse %}
-  {% assign years = "" %}
+  {% comment %} This specifically filters your BLOG posts for the 'projects' tag {% endcomment %}
+  {% assign tagged_posts = site.posts | where_exp: "item", "item.tags contains 'projects'" | sort: "date" | reverse %}
 
-  {% for project in project_posts %}
-    {% capture year %}{{ project.date | date: "%Y" }}{% endcapture %}
-
-    {% if year != years %}
-      {% unless forloop.first %}</ul>{% endunless %}
-      <h2>{{ year }}</h2>
-      <ul>
-      {% assign years = year %}
-    {% endif %}
-
+  <ul>
+  {% for post in tagged_posts %}
     <li>
       <p>
-        <a href="{{ project.url }}">{{ project.title }}</a>
+        <a href="{{ post.url }}">{{ post.title }}</a>
         <br/>
-        {% if project.description %}
-          {{ project.description }}
+        {% if post.description %}
+          {{ post.description }}
         {% endif %}
       </p>
     </li>
