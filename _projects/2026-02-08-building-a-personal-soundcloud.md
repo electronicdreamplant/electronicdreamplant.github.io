@@ -2,7 +2,8 @@
 layout: projects
 title: Building a personal Soundcloud
 date: 2026-02-08
-description: Self hosting my own music
+tags: projects
+description: Self-hosting my music
 ---
 
 Flushed with the success of [building a Flickr alternative](./2026-02-07-photo-portfolio-v2.md) my thoughts turned to what I could do self-host my own music (easy) and sharing it (less easy).
@@ -83,4 +84,4 @@ For half a day's work I was delighted with how it turned out.
 
 I no longer have to rely on mainstream platforms and can adjust it as I like. The only limitations I have are the maximum size of the repo, and (currently) too little music of my own to actually upload!
 
-Go and check it out: [Electronic Dream Plant music player](https://www.ox1digital.co.uk/music/) 
+Go and check it out: [Electronic Dream Plant music player](https://www.ox1digital.co.uk/music/)
