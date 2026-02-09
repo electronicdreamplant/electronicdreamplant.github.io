@@ -15,3 +15,4 @@ permalink: /tags/projects/
   </li>
 {% endfor %}
 </ul>
+.
