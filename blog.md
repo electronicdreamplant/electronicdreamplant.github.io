@@ -15,14 +15,6 @@ Pick a topic or [view all posts by year](/all-posts/)
 - [Personal](/tags/personal/) - anything else I've written
 
 
-<div>
-    <div>
-         <label for="search-input">Search for posts by keyword</label>
-         <input type="search" id="search-input" placeholder=" ">
-
-<br/><br/>
-         <h3 id="search-results-title" style="display:none;">Search Results</h3>
-         <ul id="results-container"></ul>
 
     {% include latest_post.html %}
 
