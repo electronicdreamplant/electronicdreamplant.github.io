@@ -1,0 +1,35 @@
+</div>
+
+                <script>
+                    window.simpleJekyllSearch = new SimpleJekyllSearch({
+
+                      // ... inside _includes/test_search_results.html ...
+                      window.simpleJekyllSearch = new SimpleJekyllSearch({
+                          searchInput: document.getElementById('search-input'),
+                          resultsContainer: document.getElementById('results-container'),
+                          json: '{{ site.baseurl }}/test-search.json', // Pointing to the new test JSON
+                          searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title} [{tags}]</a> - {date}</li>',
+                          // ... rest of the code remains the same ...
+
+                        noResultsText: 'No results found',
+                        limit: 15,
+                        fuzzy: false,
+                        exclude: ['Welcome'],
+                        searchFields: ['title', 'content']
+                    })
+    // Monitor changes in the results container
+    const resultsContainer = document.getElementById('results-container');
+    const resultsTitle = document.getElementById('search-results-title');
+
+    const observer = new MutationObserver(() => {
+        if (resultsContainer.children.length > 0) {
+            resultsTitle.style.display = 'block';
+        } else {
+            resultsTitle.style.display = 'none';
+        }
+    });
+
+    observer.observe(resultsContainer, { childList: true });
+
+                </script>
+    </div>
