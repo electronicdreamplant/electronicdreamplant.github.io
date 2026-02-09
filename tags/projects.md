@@ -1,11 +1,17 @@
 ---
-layout: none
+layout: tag_page
+title: Projects
 permalink: /tags/projects/
 ---
-<!DOCTYPE html>
-<meta charset="utf-8">
-<title>Redirecting...</title>
-<link rel="canonical" href="/projects/">
-<script>location="/projects/"</script>
-<meta http-equiv="refresh" content="0; url=/projects/">
-<p>Redirecting to <a href="/projects/">Projects</a>...</p>
+<div class="page-header">
+  <h1>Projects</h1>
+</div>
+
+<ul>
+{% assign project_posts = site.posts | where_exp: "item", "item.tags contains 'projects'" %}
+{% for post in project_posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%-d %B %Y" }}
+  </li>
+{% endfor %}
+</ul>
