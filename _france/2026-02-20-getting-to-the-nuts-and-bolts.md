@@ -16,7 +16,7 @@ It was always a bit of a gamble going early with the voluntary redundancy, and w
 
 While we could agonise about this, it is what it is, so it makes more sense to grasp the opportunity of really firming up plans and ironing out the details.
 
-And this has really bourn fruit....
+And this has really borne fruit....
 
 ## Bye bye BMW
 As much as we love our car (purchased Sept 2024) and had been planning to take it with us as we moved, the realities are that this isn't feasible.
