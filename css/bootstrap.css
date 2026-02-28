@@ -6822,8 +6822,7 @@ button.close {
   padding: 15px 20px;
   background-color: #f9f9f9;
   border: 1px solid #dddddd;
-  border-left: 6px solid #663399;
-  border-radius: 5px;
+  border-left: 6px solid #800080;
 }
 
 .featured-timeline h3 {
