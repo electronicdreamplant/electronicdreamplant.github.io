@@ -19,3 +19,25 @@ body {
 footer {
     margin: 50px 0;
 }
+
+/* Featured Timeline Box */
+.featured-timeline {
+  margin-bottom: 1.2rem;
+  padding: 0.8rem 1rem;
+  background-color: #f9f9f9 !important; /* Forces the light grey */
+  border: 1px solid #dddddd;
+  border-left: 5px solid #663399 !important; /* Your signature purple */
+  border-radius: 5px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  display: block;
+}
+
+.featured-timeline h3 {
+  margin: 0 0 0.3rem 0 !important;
+  font-size: 1.2rem !important;
+}
+
+.featured-timeline p {
+  margin-bottom: 0 !important;
+}
