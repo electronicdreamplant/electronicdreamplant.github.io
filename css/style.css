@@ -127,9 +127,9 @@
 .featured-timeline {
   margin-bottom: 1.2rem;
   padding: 0.8rem 1rem;
-  background-color: var(--color-background); /* Follows your theme colors */
+  background-color: #f9f9f9; /* Restores the light grey background */
   border: 1px solid var(--color-border);
-  border-left: 4px solid #663399; /* Your signature purple */
+  border-left: 4px solid #663399;
   border-radius: 5px;
   font-size: 0.95rem;
   line-height: 1.4;
@@ -142,6 +142,11 @@
 
 .featured-timeline p {
   margin-bottom: 0 !important;
+}
+
+/* Batman Mode Adjustment */
+[data-theme="batman"] .featured-timeline {
+  background-color: #1a1a1a; /* Darker background for Batman theme */
   color: var(--color-primary);
 }
 
