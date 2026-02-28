@@ -45,9 +45,9 @@ Looking back now we wish we'd taken this opportunity to make a shift to Europe t
 
 ## Portugal (almost)
 
-Something happened in 2024 that had a huge impact on my life and finally set us on our course to live in Portugal.
+Something happened in 2024 that had a huge impact on my life and finally set us on a course to live in Portugal.
 
-I reunited with a long lost friend. The story behind this is a long one that merits its own post, but the shorter version is that in September 2024 we headed on a driving holiday through Spain to Portugal to visit.
+I reunited with a long lost friend. The story behind this is a long one that merits its own post, but the shorter version is that in September 2024 we headed on a driving holiday through Spain to Portugal to visit him.
 
 We'd never been to Portugal before, but quickly found we loved it. We'd been enticed by stories of the low cost of living, the fabulous weather, the friendly people. Going on a holiday by yourself and staying in a hotel doesn't real give you the feel of living somewhere, but we've always used the option of self catering and staying put for at least a week in one location to force you to shop locally, buy local foods and be part of a location.
 
@@ -59,13 +59,13 @@ Extremely detailed plans were set in motion. The visa situation worked in our fa
 
 ### The scouting visit
 
-Admittedly, Portugal was never sold to us on its winter weather - we had been warned. But our 2 week holiday in March 2025 was a difficult one; there were unseasonable storms with wild winds that were unexpected. Our holiday cottage we so looked forward to staying and having friends over was stone cold, and the landlord didn't want us to use the heating, so we needed to have the fire on all evening along with using the bedding from other rooms to supplement ours to stay warm. Our Lisbon hotel had water coming in through the walls, and we had to run the air conditioning to clear the windows. 
+Admittedly, Portugal was never sold to us on its winter weather - we had been warned. But our 2 week holiday in March 2025 was a difficult one; there were unseasonable storms with wild winds that were unexpected. Our holiday cottage we so looked forward to staying and having friends over was stone cold, and the landlord didn't want us to use the heating, so we needed to have the fire on all evening along with using the bedding from other rooms to supplement ours to stay warm. Our Lisbon hotel had water coming in through the walls, and we had to run the air conditioning to clear the windows.
 
 We started in Lisbon and enjoyed our time there, but really as tourists. We knew that this was a hugely popular destination for people moving to Portugal, but that rents were high. But more importantly, it would be far harder for us to end up in a similar house to what we own in Lisbon - apartment living was the norm.
 
 Nearly every day involved exploring a new town or city from our list of potential options. Some we liked, in a conditional way. Others were a disappointment, and some we didn't even get out of the car for. Lots of places showed years of underinvestment and decay. By the end of the holiday we had explored 20 places and had maybe one potential place.
 
-A key turning point during those 2 weeks was when Rachel turned to me in the car and asked "can you see yourself living here", and my response was an instantaneous "no". That was the catalyst for honest conversations about what we were seeing and feeling; it just wasn't for us. 
+A key turning point during those 2 weeks was when Rachel turned to me in the car and asked "can you see yourself living here", and my response was an instantaneous "no". That was the catalyst for honest conversations about what we were seeing and feeling; it just wasn't for us.
 
 We came home disillusioned, with our planned new life in tatters.
 
@@ -77,5 +77,4 @@ Laying in bed one morning, some days after, Rachel returned with breakfast with 
 
 I'd always been dead against moving to France, but remembered the thoughts that went through my head as I'd looked at one disappointing Portuguese town after another: "In France all the towns and villages look so attractive as they invest in making sure they do". We'd spent countless fabulous holidays in France (in all weathers) and I realised that France isn't one place, it's more like a collection of countries with one border. But how to choose where in such a large country?
 
-Rachel had the answer. The Alsace region was right on the border of our beloved Germany (which had been ruled out on visa grounds some time ago). So the best of bother worlds! Suddenly everything clicked, and our Portugal plans were pulled apart and reconstructed with a new destination in mind 
-
+Rachel had the answer. The Alsace region was right on the border of our beloved Germany (which had been ruled out on visa grounds some time ago). So the best of both worlds! Suddenly everything clicked, and our Portugal plans were pulled apart and reconstructed with a new destination in mind
