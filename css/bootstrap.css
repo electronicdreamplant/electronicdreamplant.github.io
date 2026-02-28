@@ -6830,12 +6830,9 @@ button.close {
   margin: 0 0 8px 0;
   font-size: 1.3em;
   line-height: 1.2;
-  color: #663399;
 }
 
 .featured-timeline p {
   margin: 0;
   font-size: 1em; /* Perfectly matches your blog list <p> size */
-  line-height: 1.5;
-  color: #333333;
 }
