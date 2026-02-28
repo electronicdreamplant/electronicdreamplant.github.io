@@ -59,7 +59,7 @@
 }
 
 #post-date{
- /* font-family: 'Roboto', sans-serif; 
+ /* font-family: 'Roboto', sans-serif;
   font-size: 14px; */
   color: grey;
 }
@@ -78,11 +78,11 @@
 }
 
 #post-content{
- /* font-family: 'Roboto',sans-serif; 
+ /* font-family: 'Roboto',sans-serif;
   font-size: 16px; */
 }
 
-/* 
+/*
 #post-link a:link, a:visited{
   font-weight: 300;
   text-decoration: none;
@@ -121,6 +121,28 @@
   display: flex;
   text-decoration:none;
   color:var(--color-primary);
+}
+
+/* Featured Timeline Box */
+.featured-timeline {
+  margin-bottom: 1.2rem;
+  padding: 0.8rem 1rem;
+  background-color: var(--color-background); /* Follows your theme colors */
+  border: 1px solid var(--color-border);
+  border-left: 4px solid #663399; /* Your signature purple */
+  border-radius: 5px;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.featured-timeline h3 {
+  margin: 0 0 0.3rem 0 !important;
+  font-size: 1.2rem !important;
+}
+
+.featured-timeline p {
+  margin-bottom: 0 !important;
+  color: var(--color-primary);
 }
 
 /* MEDIA QUERIES */

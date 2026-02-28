@@ -8,10 +8,12 @@ permalink: /france/
   <h1>France Posts</h1>
 </div>
 
-<div class="featured-timeline" style="margin-bottom: 20px; padding: 15px; background: #f9f9f9; border-left: 5px solid #663399;">
+<div class="featured-timeline">
   <h3><a href="/france/timeline/">France: Our Journey Timeline</a></h3>
-  <p><strong>Last updated: 28 February 2026</strong><br/>
-  A current timeline of our progress and key milestones.</p>
+  <p>
+    <strong>Last updated: 28 February 2026</strong><br/>
+    A current timeline of our progress and key milestones.
+  </p>
 </div>
 
 <div>
