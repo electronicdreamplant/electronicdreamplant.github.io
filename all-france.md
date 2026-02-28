@@ -5,7 +5,7 @@ permalink: /france/
 ---
 
 <div class="page-header">
-  <h1>France Posts</h1>
+  <h1>Moving to France</h1>
 </div>
 
 <div class="featured-timeline">
@@ -15,6 +15,8 @@ permalink: /france/
     A current timeline of our progress and key milestones.
   </p>
 </div>
+
+<h2>Blog Posts</h2>
 
 <div>
   {% assign sorted_france = site.france | sort: "date" | reverse %}
