@@ -1,6 +1,6 @@
 ---
 layout: france
-title: France timeline
+title: Our Journey Timeline
 permalink: /france/timeline/
 date: 2026-02-28
 description: Latest version
