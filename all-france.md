@@ -10,8 +10,8 @@ permalink: /france/
 
 <div class="featured-timeline" style="margin-bottom: 30px; padding: 15px; background: #f9f9f9; border-left: 5px solid #663399;">
   <h3><a href="/france/timeline/">France: Our Journey Timeline</a></h3>
-  <p><strong>Updated: 28 February 2026</strong><br/>
-  A live timeline of our progress and key milestones.</p>
+  <p>Last updated: 28 February 2026<br/>
+  A current timeline of our progress and key milestones.</p>
 </div>
 
 <div>
