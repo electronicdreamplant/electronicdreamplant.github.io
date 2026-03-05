@@ -11,7 +11,6 @@ permalink: /france/
 <div class="featured-timeline">
   <h3><a href="/france/timeline/">France: Our Journey Timeline</a></h3>
   <p>
-    <strong>Last updated: 28 February 2026</strong><br/>
     A current timeline of our progress and key milestones.
   </p>
 </div>
