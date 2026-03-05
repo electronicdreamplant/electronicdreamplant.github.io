@@ -19,11 +19,10 @@ description: Latest version
 * Electrical work/certification on house
 
 ### April
-* Have house photos/videos taken for sale
 * New EPC for house
 
 ### May
-* House goes on the market
+* House goes on the market (as a back-up)
 
 ### June
 * Lawrence puts in resignation/finishes work
