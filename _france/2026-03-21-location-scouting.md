@@ -124,7 +124,7 @@ I'm sure my AI-loving work colleagues would tell me it's all down to my poor pro
 
 Feeling a bit deflated but also pretty tired out, we headed back to our apartment as we had a scheduled Teams call with  Niamh from Forth Capital about pensions.
 
-This had felt lie a long time coming, but we understood why a bit more when we spoke to her. It wasn't the value of our two private pension pots that were the key info, as that arrived ages ago; it was the nature of the schemes any any clauses they might have.
+This had felt like a long time coming, but we understood why a bit more when we spoke to her. It wasn't the value of our two private pension pots that were the key info, as that arrived ages ago; it was the nature of the schemes any any clauses they might have.
 
 The Assurance Vie was still looking strong for holding our savings, but the benefits of this was really to accumulate and take advantage of the tax benefits after 8 years. It also comes in a portable tax wrapper in case we headed back to the UK after a couple of years
 
