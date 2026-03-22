@@ -181,6 +181,9 @@ It was a small town (around 20,000) but just lovely in how it was presented. It 
 Definitely on the list as a good fallback given proximity to Colmar and Strasbourg, but hard to say how well it will do for housing as we didn't really find that much around.
 
 ## Reflections on the week
+We covered a lot of ground in 7 days
+<iframe src="https://www.google.com/maps/d/embed?mid=1o7jUplvXeh8YRg7jwMFUpc2R8bJFn_g&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
+
 It was easy to get a little downhearted at times through the week, as Strasbourg housing didn't always match but taken as a whole:
 * nothing beats seeing an area on the ground to get a real feel for what it is like
 * we'd found one really nice area in Strasbourg that would work perfectly for us
