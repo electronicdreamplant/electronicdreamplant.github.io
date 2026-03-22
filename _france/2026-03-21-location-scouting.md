@@ -139,6 +139,7 @@ Pretty slick thinking - I don't think I'd have thought of that!
 We agreed the proceeds from the house sale get put somewhere safe and on an easy access basis so it could be ready for when we do decide to purchase a house.
 
 ## Thursday
+### Freiburg
 Although we'd done lots of travelling and seen lots of places, it never quite felt like we'd had a holiday. So it was great to take Thursday off from the location scouting and just gave the day over to sightseeing.
 
 We'd been invited for lunch by our friend Alison, who'd we'd met by absolute chance while we were in Cheltenham as she was helping sell Cremant d'Alsace! As well as buying a couple of bottles from her we got to talking about our plans and stayed in touch.
@@ -182,6 +183,7 @@ Definitely on the list as a good fallback given proximity to Colmar and Strasbou
 
 ## Reflections on the week
 We covered a lot of ground in 7 days
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1o7jUplvXeh8YRg7jwMFUpc2R8bJFn_g&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
 It was easy to get a little downhearted at times through the week, as Strasbourg housing didn't always match what we'd hoped, but taken as a whole:
