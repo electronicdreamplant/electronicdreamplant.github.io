@@ -184,7 +184,7 @@ Definitely on the list as a good fallback given proximity to Colmar and Strasbou
 We covered a lot of ground in 7 days
 <iframe src="https://www.google.com/maps/d/embed?mid=1o7jUplvXeh8YRg7jwMFUpc2R8bJFn_g&hl=en&ehbc=2E312F" width="640" height="480"></iframe>
 
-It was easy to get a little downhearted at times through the week, as Strasbourg housing didn't always match but taken as a whole:
+It was easy to get a little downhearted at times through the week, as Strasbourg housing didn't always match what we'd hoped, but taken as a whole:
 * nothing beats seeing an area on the ground to get a real feel for what it is like
 * we'd found one really nice area in Strasbourg that would work perfectly for us
 * we'd reignited our love of Colmar and how certain we are it would work for us
