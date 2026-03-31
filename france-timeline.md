@@ -2,7 +2,7 @@
 layout: france
 title: Our Journey Timeline
 permalink: /france/timeline/
-date: 2026-03-22
+date: 2026-03-31
 description: Latest version
 ---
 
@@ -20,37 +20,37 @@ description: Latest version
 
 ### April
 * New EPC for house
+* Lawrence puts in resignation
+* Lawrence applies for Dorset pension
 
 ### May
 * Lawrence puts in resignation
 * Lawrence applies for Dorset pension
+* Put together dossier for house rental
+* Open French bank accounts/transfer funds
+* Lawrence finishes work
 
 ### June
-* Lawrence finishes work
 * Lawrence starts Dorset pension
 * Rachel starts Oxfordshire pension
 * Put together dossier for house rental
-
-### July
 * French holiday/house rental scouting
 * Find property & sign rental agreement
-* Open French bank accounts/transfer funds
-* Rachel draws down 25% of SIPP and moves rest to another pension
 
-### August
+### July
+* Rachel draws down 25% of SIPP and moves rest to another pension
 * Apply for visas
 * Book/attend visa interviews in London
 
-### September
+### August
 * House sale completion
 * Receive visas
-* Sell car
 * **Move to France**
-* Rent car
-* Validate visas
 * Lawrence draws down 100% of SIPP
 
-### October
+### September
+* Validate visas
 
-### November
+
+### October
 * Apply for French healthcare
