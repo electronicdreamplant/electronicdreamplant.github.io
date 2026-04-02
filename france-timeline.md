@@ -20,6 +20,9 @@ description: Latest version
 
 ### April
 * New EPC for house
+* Replace garage door
+* Apply for Smart Garant scheme
+* Sign up to Ibanista property consultancy
 * Lawrence puts in resignation
 * Lawrence applies for Dorset pension
 
