@@ -50,6 +50,18 @@ footer {
     list-style-type: disc !important;
 }
 
+/* Custom Purple Bullets */
+.container ul li::marker,
+.container ol li::marker {
+    color: #663399 !important;
+    font-weight: bold; /* Optional: makes them pop a bit more */
+}
+
+/* Fallback for older browsers (Safari < 14) */
+.container li {
+    color: #333; /* Keeps your text dark */
+}
+
 @media (max-width: 768px) {
   /* 1. CONTENT INDENTATION FIX */
   /* Targets the bulleted lists to align with the left text margin */
