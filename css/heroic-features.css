@@ -25,6 +25,25 @@ footer {
 .container li { margin-bottom: 0px; line-height: 1.6; }
 .container li ul, .container li ol { margin-top: 0px; margin-bottom: 0px; }
 
+/* Mirroring the mobile menu 'pale purple' active state for the Brand link */
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-brand:active {
+    background-color: rgba(255, 255, 255, 0.15) !important; /* Semi-transparent white */
+    color: #ffffff !important;                             /* Keeps text crisp white */
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+}
+
+/* Adjusting the container of the Brand link for better centering */
+.navbar-brand {
+    height: auto;
+    padding: 10px 15px !important;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px !important;
+}
+
 @media (max-width: 768px) {
   /* 1. CONTENT INDENTATION FIX */
   /* Targets the bulleted lists to align with the left text margin */
