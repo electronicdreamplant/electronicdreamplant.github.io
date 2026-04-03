@@ -196,22 +196,22 @@ div.img img {
   color: #333333 !important; /* Darker text for readability on grey */
 }
 
-/* Add this to your css/main.css */
-
 @media (max-width: 600px) {
-  /* This targets the lists shown in your screenshots */
+  /* This targets the lists shown in your screenshots with high specificity */
+  .post-content ul,
+  .wrapper ul,
   ul {
-    padding-left: 1.2rem; /* Reduces the deep indentation */
-    margin-left: 0;
+    padding-left: 1rem !important; /* Forces the bullet points to the left */
+    margin-left: 0 !important;
+  }
+
+  /* Moves the '2026' headers to align with the new list position */
+  h2 {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
   }
 
   li {
-    margin-bottom: 0.75rem; /* Keeps the spacing clean between entries */
-  }
-
-  /* If you want to align the '2026' header closer to the list */
-  h2 {
-    margin-left: 0;
-    padding-left: 0;
+    margin-bottom: 0.8rem;
   }
 }
