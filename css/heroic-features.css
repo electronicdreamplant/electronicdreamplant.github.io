@@ -20,13 +20,17 @@ footer {
     margin: 50px 0;
 }
 
+/* Tighten list spacing globally */
+.container ul, .container ol { margin-bottom: 8px; }
+.container li { margin-bottom: 0px; line-height: 1.6; }
+.container li ul, .container li ol { margin-top: 0px; margin-bottom: 0px; }
 
 @media (max-width: 768px) {
   /* 1. CONTENT INDENTATION FIX */
   /* Targets the bulleted lists to align with the left text margin */
   .container ul,
   .container ul li ul {
-    padding-left: 1.2rem !important; /* Adjust this value if bullets feel too tight or loose */
+    padding-left: 1.5rem !important; /* Adjust this value if bullets feel too tight or loose */
     margin-left: 0 !important;
   }
 
