@@ -31,7 +31,7 @@ footer {
   .container ul,
   .container ul li ul {
     padding-left: 1.5rem !important; /* Adjust this value if bullets feel too tight or loose */
-    margin-left: 0 !important;
+    margin-left: 5px !important;
   }
 
   .container li {
