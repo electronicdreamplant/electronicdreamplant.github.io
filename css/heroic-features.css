@@ -19,3 +19,17 @@ body {
 footer {
     margin: 50px 0;
 }
+
+
+@media (max-width: 768px) {
+  /* This targets the nested lists specifically within the Bootstrap container */
+  .container ul,
+  .container ul li ul {
+    padding-left: 1.1rem !important;
+    margin-left: 0 !important;
+  }
+
+  .container li {
+    margin-left: 0 !important;
+  }
+}
