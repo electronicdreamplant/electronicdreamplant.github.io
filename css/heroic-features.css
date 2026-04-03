@@ -22,10 +22,11 @@ footer {
 
 
 @media (max-width: 768px) {
-  /* This targets the nested lists specifically within the Bootstrap container */
+  /* 1. CONTENT INDENTATION FIX */
+  /* Targets the bulleted lists to align with the left text margin */
   .container ul,
   .container ul li ul {
-    padding-left: 1.1rem !important;
+    padding-left: 1.2rem !important; /* Adjust this value if bullets feel too tight or loose */
     margin-left: 0 !important;
   }
 
@@ -33,42 +34,40 @@ footer {
     margin-left: 0 !important;
   }
 
-/* Fix mobile menu hover state padding */
+  /* 2. MOBILE MENU REFINEMENTS */
   .navbar-nav {
     margin-left: 0 !important;
     margin-right: 0 !important;
   }
 
+  /* Adds the 'gutter' so the white background doesn't hit the screen edge */
   .navbar-nav > li > a {
     border-radius: 4px;
     margin-bottom: 2px;
-    /* This adds the 'gutter' on the right so the white bar doesn't touch the edge */
     margin-right: 15px !important;
     margin-left: 15px !important;
   }
-  /* 1. Sync Hover state with Active state in mobile menu */
-    .navbar-inverse .navbar-nav > li > a:hover {
-      color: #663399 !important; /* Matches your purple theme */
-      background-color: #fff !important;
-      border-radius: 4px;
-      margin-right: 15px;
-      margin-left: 15px;
-    }
 
-    /* 2. Reverse out the Hamburger Menu button */
-    .navbar-inverse .navbar-toggle {
-      border-color: transparent !important; /* Removes the button border */
-      background-color: transparent !important; /* Removes the dark grey box */
-    }
-
-    /* Ensures the three bars are bright white when not selected */
-    .navbar-inverse .navbar-toggle .icon-bar {
-      background-color: #fff !important;
-    }
-
-    /* Optional: Change bar color on hover/click to indicate interaction */
-    .navbar-inverse .navbar-toggle:hover,
-    .navbar-inverse .navbar-toggle:focus {
-      background-color: rgba(255, 255, 255, 0.1) !important;
-    }
+  /* Syncs Hover state with the white 'Selected' state */
+  .navbar-inverse .navbar-nav > li > a:hover {
+    color: #663399 !important; /* Purple text on white */
+    background-color: #fff !important;
   }
+
+  /* 3. REVERSE HAMBURGER MENU */
+  .navbar-inverse .navbar-toggle {
+    border-color: transparent !important;
+    background-color: transparent !important;
+  }
+
+  /* Ensures the three lines are crisp white */
+  .navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #fff !important;
+  }
+
+  /* Subtle highlight on press */
+  .navbar-inverse .navbar-toggle:hover,
+  .navbar-inverse .navbar-toggle:focus {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+  }
+}
