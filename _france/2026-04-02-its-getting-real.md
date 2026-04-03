@@ -24,6 +24,8 @@ Initially we were overwhelmed by the form we needed to complete and the informat
 
 Next up was a form from Ibanista to get us to be really specific about ourselves, our must-haves and red lines. Really, it was a chance to set out how and where we wanted to live, and have someone else do the work to get us there.
 
+We have twice-weekly listing updates for us to consider and feed back on, and a dedicated assistant (Natalie) helping us with remote viewings if we choose to look at any in more detail. Question is, what do we do if we want to see one in person? Tricky....
+
 ## Selling off the surplus
 
 I'd managed to make a good start in selling off some of the larger items we wouldn't be taking with us.
