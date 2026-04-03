@@ -33,3 +33,19 @@ footer {
     margin-left: 0 !important;
   }
 }
+
+/* Fix mobile menu hover state padding */
+@media (max-width: 768px) {
+  .navbar-nav {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .navbar-nav > li > a {
+    border-radius: 4px;
+    margin-bottom: 2px;
+    /* This adds the 'gutter' on the right so the white bar doesn't touch the edge */
+    margin-right: 15px !important;
+    margin-left: 15px !important;
+  }
+}
