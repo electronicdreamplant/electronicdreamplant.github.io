@@ -44,6 +44,12 @@ footer {
     margin-left: 5px !important;
 }
 
+/* Force all bullets to be solid circles, regardless of nesting */
+.container ul,
+.container ul li ul {
+    list-style-type: disc !important;
+}
+
 @media (max-width: 768px) {
   /* 1. CONTENT INDENTATION FIX */
   /* Targets the bulleted lists to align with the left text margin */
