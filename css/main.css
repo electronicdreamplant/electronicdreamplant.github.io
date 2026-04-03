@@ -195,19 +195,3 @@ div.img img {
   margin-bottom: 0 !important;
   color: #333333 !important; /* Darker text for readability on grey */
 }
-
-/* Mobile Fix: Targeting the actual Bootstrap container structure */
-@media (max-width: 768px) {
-  /* This targets the nested lists within your container */
-  .container div > ul,
-  .container div > ul > li > ul {
-    padding-left: 1rem !important;
-    margin-left: 0 !important;
-  }
-
-  /* This ensures the 2026 header isn't pushed by the outer UL */
-  .container h2 {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
-  }
-}
