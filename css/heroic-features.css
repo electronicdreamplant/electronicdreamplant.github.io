@@ -53,7 +53,7 @@ footer {
 /* Custom Purple Bullets */
 .container ul li::marker,
 .container ol li::marker {
-    color: #663399 !important;
+    color: #800080 !important;
     font-weight: bold; /* Optional: makes them pop a bit more */
 }
 
