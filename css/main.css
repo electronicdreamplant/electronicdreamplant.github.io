@@ -195,3 +195,23 @@ div.img img {
   margin-bottom: 0 !important;
   color: #333333 !important; /* Darker text for readability on grey */
 }
+
+/* Add this to your css/main.css */
+
+@media (max-width: 600px) {
+  /* This targets the lists shown in your screenshots */
+  ul {
+    padding-left: 1.2rem; /* Reduces the deep indentation */
+    margin-left: 0;
+  }
+
+  li {
+    margin-bottom: 0.75rem; /* Keeps the spacing clean between entries */
+  }
+
+  /* If you want to align the '2026' header closer to the list */
+  h2 {
+    margin-left: 0;
+    padding-left: 0;
+  }
+}
