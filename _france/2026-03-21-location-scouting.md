@@ -22,6 +22,8 @@ This was to be our first day of scouting, not to mention my birthday as well.
 
 We'd signed up for the 3-day CTS transport pass which gave us unlimited travel in and around Strasbourg for €10.20, so it was tram all the way, baby!
 
+> Strasbourg trams have [personalised announcements](https://www.youtube.com/@zepelink) which turns out to have been an art project called [Vox Populi by Rodolphe Burger](https://haguenau.maxi-flash.com/ma-voix-dans-le-tram-de-strasbourg/), commissioned by the city and designed to turn the commute into a unique sensory experience rather than just a functional announcement.
+
 But first, it was off to the nearby Patisserie to get in the essentials for breakfast. This place was so popular that even with 3 staff people were queued back out into the street.
 
 ![interior view of two staff in a patisserie with bread an pastries all around](/img/neudorf_patisserie.jpg)
