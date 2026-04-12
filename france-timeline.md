@@ -22,21 +22,23 @@ description: Latest version
 * New EPC for house
 * Replace garage door
 * Apply for Smart Garant scheme
-* Sign up to Ibanista property consultancy
+* Sign up to Ibanista, get Smart Garant certificate and create dossier
+* Start looking for properties
+* Open French bank account
 * Lawrence puts in resignation
 * Lawrence applies for Dorset pension
 
 ### May
+* Rachel visits France solo to see properties
 * Lawrence puts in resignation
 * Lawrence applies for Dorset pension
 * Put together dossier for house rental
-* Open French bank accounts/transfer funds
+* Transfer funds to French bank account
 * Lawrence finishes work
 
 ### June
 * Lawrence starts Dorset pension
 * Rachel starts Oxfordshire pension
-* Put together dossier for house rental
 * French holiday/house rental scouting
 * Find property & sign rental agreement
 
