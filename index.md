@@ -16,7 +16,6 @@ I'm a Product Manager for [Unilink](https://www.unilink.com/), helping to develo
 Prior to that I was a Product Owner for Placecube, and held a variety of digital, improvement and project roles in local government.
 
 * [Read my LinkedIn profile](https://www.linkedin.com/in/neil-lawrence-digital/)
-* [View my CV](https://standardresume.co/r/neil-lawrence)
 
 
 ## Work projects
