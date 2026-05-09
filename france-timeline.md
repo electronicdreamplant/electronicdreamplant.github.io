@@ -27,20 +27,19 @@ description: Latest version
 * Open French bank account
 * Lawrence puts in resignation
 * Lawrence applies for Dorset pension
-
-### May
 * Rachel visits France solo to see properties
 * Lawrence puts in resignation
+
+### May
 * Lawrence applies for Dorset pension
-* Put together dossier for house rental
+* Sign lease for French property
 * Transfer funds to French bank account
 * Lawrence finishes work
 
 ### June
 * Lawrence starts Dorset pension
 * Rachel starts Oxfordshire pension
-* French holiday/house rental scouting
-* Find property & sign rental agreement
+* French holiday to ready the new property
 
 ### July
 * Rachel draws down 25% of SIPP and moves rest to another pension
@@ -51,7 +50,6 @@ description: Latest version
 * House sale completion
 * Receive visas
 * **Move to France**
-* Lawrence draws down 100% of SIPP
 
 ### September
 * Validate visas
