@@ -39,16 +39,16 @@ description: Latest version
 ### June
 * Lawrence starts Dorset pension
 * Rachel starts Oxfordshire pension
+* Apply for visas
 * French holiday to ready the new property
 
 ### July
 * Rachel draws down 25% of SIPP and moves rest to another pension
-* Apply for visas
 * Book/attend visa interviews in London
+* Receive visas
 
 ### August
 * House sale completion
-* Receive visas
 * **Move to France**
 
 ### September
