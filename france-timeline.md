@@ -28,10 +28,8 @@ description: Latest version
 * Lawrence puts in resignation
 * Lawrence applies for Dorset pension
 * Rachel visits France solo to see properties
-* Lawrence puts in resignation
 
 ### May
-* Lawrence applies for Dorset pension
 * Sign lease for French property
 * Transfer funds to French bank account
 * Lawrence finishes work
