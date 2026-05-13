@@ -11,7 +11,7 @@ Pick a topic or [view all posts by year](/all-posts/)
 
 ## Topics
 * [France](/france) - capturing our journey to living in France after stopping work
-* [Weeknotes](/tags/weeknotes/) – posts about my working week, written for me but shared in the open
+* [Weeknotes](/tags/weeknotes/) – posts about my working week, written for me but shared in the open (2020-2025)
 * [Oxford City Council](/tags/oxford/) - posts as the Oxford City Digital Development Team (2016-2019)
 * [Placecube](/tags/placecube/) - posts written on behalf of the company (2022-2023)
 * [Chatbots](/tags/chatbots/) - posts on the Local Digital Chatbots project (2018-2019)
