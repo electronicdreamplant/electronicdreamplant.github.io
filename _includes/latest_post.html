@@ -1,14 +1,30 @@
 <div class="recent-posts">
     <h2>Recent Posts</h2>
-    {% for post in site.posts limit:3 %}
+    {% assign main_posts = site.posts %}
+    {% assign france_posts = site.france %}
+    {% assign all_combined = main_posts | concat: france_posts %}
+    {% assign latest_posts = all_combined | sort: "date" | reverse | limit: 3 %}
+
+    {% for post in latest_posts %}
         <div class="post">
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
             <p>{{ post.date | date: "%-d %B %Y" }} in
-                {% for tag in post.tags %}
-                    <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
-                {% endfor %}
+                {% if post.collection == "france" %}
+                    <a href="/france/">france</a>
+                {% else %}
+                    {% for tag in post.tags %}
+                        <a href="/tags/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                {% endif %}
             </p>
-            <p>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
+
+            <p>
+                {% if post.description %}
+                    {{ post.description }}
+                {% else %}
+                    {{ post.content | markdownify | strip_html | truncatewords: 50 }}
+                {% endif %}
+            </p>
             <a href="{{ post.url }}" class="read-more-btn">Read more</a>
         </div>
     {% endfor %}
