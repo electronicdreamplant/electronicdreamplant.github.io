@@ -27,7 +27,7 @@ description: Latest version
 * Open French bank account
 * Lawrence puts in resignation
 * Lawrence applies for Dorset pension
-* Rachel visits France solo to see properties
+* Rachel visits France solo to see properties 
 
 ### May
 * Sign lease for French property
