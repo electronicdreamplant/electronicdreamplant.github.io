@@ -40,7 +40,7 @@ Having Rachel ready to spring into action and view properties felt like it shoul
 Still, it did have a real impact on choices:
 * **Quartier Sud apartment** - this was identified as a possibility before Rachel got to Colmar, and was one of our favoured areas. A stroll around the local streets before confirmed this. But the in-person experience was quite different; the property was older and hadn't been well looked after. Not this one.
 * **Rue de Ladhof apartment** - this was a real possibility with a 'penthouse' place that had a large terrasse. On the ground the area didn't feel like 'us', and measuring the bedrooms confirmed that it wasn't a fit as well.
-* **Turkheim house** - we'd felt this one was worth checking out even though we had our doubts, and these were compounded by the viewing. It looked like a maintenance headache going forward and was pretty odd all round. No thanks. But the landlord was lovely and gave Rachel a lift back to Colmar in his car!
+* **Turckheim house** - we'd felt this one was worth checking out even though we had our doubts, and these were compounded by the viewing. It looked like a maintenance headache going forward and was pretty odd all round. No thanks. But the landlord was lovely and gave Rachel a lift back to Colmar in his car!
 * **Turckheim penthouse** - this was the one we were really excited about, and it ticked every box. It was brand new (never lived in) and we'd formed a real bond with Turkheim with visits and research. A huge double garage, a massive terrasse, very modern kitchen - this was the one!
 
 So while we continued to line up others to explore, we'd made our choice and were really excited.
