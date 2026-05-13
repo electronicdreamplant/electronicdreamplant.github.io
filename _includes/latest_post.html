@@ -3,6 +3,8 @@
     {% assign main_posts = site.posts %}
     {% assign france_posts = site.france %}
     {% assign all_combined = main_posts | concat: france_posts %}
+
+    {% comment %} This sorts everything together and caps it at 3 total posts {% endcomment %}
     {% assign latest_posts = all_combined | sort: "date" | reverse | limit: 3 %}
 
     {% for post in latest_posts %}
@@ -18,13 +20,9 @@
                 {% endif %}
             </p>
 
-            <p>
-                {% if post.description %}
-                    {{ post.description }}
-                {% else %}
-                    {{ post.content | markdownify | strip_html | truncatewords: 50 }}
-                {% endif %}
-            </p>
+            {% comment %} Reverting to your specific content truncation logic {% endcomment %}
+            <p>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
+
             <a href="{{ post.url }}" class="read-more-btn">Read more</a>
         </div>
     {% endfor %}
