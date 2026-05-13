@@ -2,12 +2,15 @@
     <h2>Recent Posts</h2>
     {% assign main_posts = site.posts %}
     {% assign france_posts = site.france %}
-    {% assign all_combined = main_posts | concat: france_posts %}
+    {% assign all_combined = main_posts | concat: france_posts | sort: "date" | reverse %}
 
-    {% comment %} This sorts everything together and caps it at 3 total posts {% endcomment %}
-    {% assign latest_posts = all_combined | sort: "date" | reverse | limit: 3 %}
+    {% comment %}
+       We loop through all_combined but use the 'limit' attribute
+       directly on the for-loop tag to ensure Jekyll's engine
+       stops exactly at 3.
+    {% endcomment %}
 
-    {% for post in latest_posts %}
+    {% for post in all_combined limit:3 %}
         <div class="post">
             <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
             <p>{{ post.date | date: "%-d %B %Y" }} in
@@ -20,7 +23,6 @@
                 {% endif %}
             </p>
 
-            {% comment %} Reverting to your specific content truncation logic {% endcomment %}
             <p>{{ post.content | markdownify | strip_html | truncatewords: 50 }}</p>
 
             <a href="{{ post.url }}" class="read-more-btn">Read more</a>
