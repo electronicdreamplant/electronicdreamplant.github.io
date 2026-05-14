@@ -2,7 +2,7 @@
 layout: france
 title: Our Journey Timeline
 permalink: /france/timeline/
-date: 2026-04-12
+date: 2026-05-14
 description: Latest version
 ---
 
@@ -27,11 +27,11 @@ description: Latest version
 * Open French bank account
 * Lawrence puts in resignation
 * Lawrence applies for Dorset pension
-* Rachel visits France solo to see properties 
+* Rachel visits France solo to see properties
 
 ### May
 * Sign lease for French property
-* Transfer funds to French bank account
+* Pay deposit and 1st month's rent
 * Lawrence finishes work
 
 ### June
@@ -39,19 +39,23 @@ description: Latest version
 * Rachel starts Oxfordshire pension
 * Apply for visas
 * French holiday to ready the new property
+* Get packing!
 
 ### July
-* Rachel draws down 25% of SIPP and moves rest to another pension
+* Both draw down 25% of private pensions
+* Transfer funds to French bank account
 * Book/attend visa interviews in London
 * Receive visas
+* **Move to France**
 
 ### August
 * House sale completion
-* **Move to France**
+* Open Assurance Vie account for savings and house sale proceeds
+* Convert visa into residency permit
+* Process import of car to France
 
 ### September
 * Validate visas
-
 
 ### October
 * Apply for French healthcare

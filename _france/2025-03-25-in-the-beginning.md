@@ -53,7 +53,7 @@ We'd never been to Portugal before, but quickly found we loved it. We'd been ent
 
 Also seeing a country through friends' eyes gives you better vision. The year-long impact of the local climate and how they adapt to it was important. Where you are in the country is important. How close you are to the sea is important. How close you are to main travel routes is important. There was so much we picked up in a short time.
 
-More than that, just seeing how my friend was living day-to-day made me hugely jealous. On our journey home, and in the days that followed, all we could talk about was finally making our long-held ambitions into reality. It is no exaggeration to say that every day since returning that September involved us either discussing or planning the move. This one was't another well-intentioned plan that would fade away in time; this time it would happen.
+More than that, just seeing how my friend was living day-to-day made me hugely jealous. On our journey home, and in the days that followed, all we could talk about was finally making our long-held ambitions into reality. It is no exaggeration to say that every day since returning that September involved us either discussing or planning the move. This one wasn't another well-intentioned plan that would fade away in time; this time it would happen.
 
 Extremely detailed plans were set in motion. The visa situation worked in our favour, and this felt like a certain route back into Europe and possibly (eventually) EU citizenship. The timetable was set and we started joining forums and having explotatory talks with experts that could help us get there. Next step was a scouting visit to find exactly where we wanted to live.
 
@@ -73,7 +73,7 @@ We came home disillusioned, with our planned new life in tatters.
 
 Reflecting on the trip and what we'd learned it did help us understand other things we'd come across; the webinar series on Moving to Portugal had a whole episode on dealing with the cold and damp. Internet forums discussed using dehumidifiers all through the winter, the nightmare of Portuguese bureaucracy (with some people suing the government just to get a visa appointment). And we could never quite line up how we'd have had an address for our visa application if the process took up to 6 months to process.
 
-Laying in bed one morning, some days after, Rachel returned with breakfast with news; she'd been doing some research the night before but didn't tell me the results straight away as she knew I wouldn't sleep after learning it. She'd found another option - France.
+Laying in bed one morning, some days after, Rachel returned with breakfast and with news; she'd been doing some research the night before but didn't tell me the results straight away as she knew I wouldn't sleep after learning it. She'd found another option - France.
 
 I'd always been dead against moving to France, but remembered the thoughts that went through my head as I'd looked at one disappointing Portuguese town after another: "In France all the towns and villages look so attractive as they invest in making sure they do". We'd spent countless fabulous holidays in France (in all weathers) and I realised that France isn't one place, it's more like a collection of countries with one border. But how to choose where in such a large country?
 
