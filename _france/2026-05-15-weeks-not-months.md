@@ -5,7 +5,7 @@ date: 2026-05-15
 description: The numbers are all getting smaller
 ---
 
-I'm now down to single figures for the number of working days left. It feels pretty unreal. Plans that were about things that will happen in the future are now about what will happen in a few weeks.
+I'm now down to single figures for the number of working days I have left. It feels pretty unreal. Plans that were about things that will happen in the future are now about what will happen in a few weeks.
 
 Yikes!
 
