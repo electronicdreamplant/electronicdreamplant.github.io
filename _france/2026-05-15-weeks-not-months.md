@@ -35,6 +35,8 @@ So suddenly we're in the position of being legally responsible for a property fr
 
 Luckily the lovely folk at Ibanista put us on to [Fab French Insurance](https://www.fabfrenchinsurance.com) who have English-speaking advisers who know how to get through the hurdles we're facing.
 
+Frankly, they win for the tagline 'making insurance as simple as Frenchly possible'.
+
 In contrast it was weirdly difficult to speak to a real person at Direct Line (they seem to have hidden the phone numbers on their site now) and was told I would actually have to renew our car insurance for a year next month, AND pay a penalty on cancelling it. Nice.
 
 ## Public holidays
