@@ -58,3 +58,11 @@ Getting the lease for the house was a key win (and maybe the hardest to get), th
 ...but I can't help thinking 'what if?' If we don't get the visa then the plans are all off, the house sale will stall and we'll be back at square one.
 
 I'll be a lot happier when this part is over.
+
+## Thoughts on leaving the UK
+
+Ongoing, and recent, turns in UK politics haven't exactly made us feel a longing to stay. To see the country shift further towards populism (in all its forms) is pretty depressing, and our aim to be in France before the somewhat inevitable outcome of a general election.
+
+I'm not under the illusion that French politics is a bastion of sanity either, of course. There are real risks that a further shift right could herald a crack down on immigration there. We already know our chances of EU citizenship in the longer term are very slim because of changes already made.
+
+But honestly, if I have to sit through another media-generated scandal or leadership challenge I think I might lose it!
