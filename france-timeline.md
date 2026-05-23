@@ -2,7 +2,7 @@
 layout: france
 title: Our Journey Timeline
 permalink: /france/timeline/
-date: 2026-05-14
+date: 2026-05-23
 description: Latest version
 ---
 
@@ -21,7 +21,6 @@ description: Latest version
 ### April
 * New EPC for house
 * Replace garage door
-* Apply for Smart Garant scheme
 * Sign up to Ibanista, get Smart Garant certificate and create dossier
 * Start looking for properties
 * Open French bank account
@@ -32,6 +31,7 @@ description: Latest version
 ### May
 * Sign lease for French property
 * Pay deposit and 1st month's rent
+* Get insurance for health, house and car
 * Lawrence finishes work
 
 ### June
@@ -43,7 +43,7 @@ description: Latest version
 
 ### July
 * Both draw down 25% of private pensions
-* Transfer funds to French bank account
+* Transfer funds to French bank accounts
 * Book/attend visa interviews in London
 * Receive visas
 * **Move to France**
