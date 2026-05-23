@@ -51,11 +51,11 @@ We also found out that there *is* an ISA equivalent in France called [Livret A](
 
 We'd learned a while back that an [Assurance Vie](https://harrisonbrook.fr/assurance-vie/) might be a good place for our life savings and house sale money to be stored in longer-term as it also offers some tax advantages. We can also get a Luxembourg-based account with additional protections and the ability to have the sum stored in Sterling, making it more portable. Drawing down money will still be taxed, but only the growth element
 
-The only Assurance Vie we could set up ourselves directly would be one with our bank, but as there are better options available via financial firms we do need to dip our toes back in those muddy waters again. So I've lined up three firms to discuss with in the coming weeks to see which ones I trust the most (or which ones I don't trust the least, perhaps).
+The only Assurance Vie we could set up ourselves directly would be one with our French bank, but as there are better options available via financial brokers we do need to dip our toes back in those muddy waters again. So I've lined up three firms to discuss with in the coming weeks to see which ones I trust the most (or which ones I don't trust the least, perhaps).
 
 The final contenders are:
 * **The Masked Broker** - a well-known Expat adviser that may have concerning ties to a restricted range of in-house products that could result in extra fees
-* **The Grand Expat Establishment** - old-school traditional giants in the sector that really only like to play with people that talk about 'wealth management'
+* **The Grand Expat Establishment** - old-school, traditional giants of the sector that really prefer to play with people that talk about 'wealth management'
 * **The Tech-Bro Planners** - plucky upstarts that are app-driven, independent disrupters
 
 Let's see what the next week or so brings.
