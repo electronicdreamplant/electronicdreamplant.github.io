@@ -79,7 +79,7 @@ And here's the thing; it isn't meant to be a 'forever home' - it's our way into 
 
  On the flip side, Eguisheim has a lot going for it. It's within cycling distance to Colmar, has a decent bus service, really good restaurants in the old town, somewhere really pretty to live amongst the vines and shopping just minutes away. A pattisserie within walking distance too, [as well as a microbrewery](https://www.brasserie-timothys.com/home-1). It's gonna be fun getting to know it better.
 
-## Forth Capital report
+## Financial adviser report
 
 I'm not going to write much about this, but our (very) long awaited advice on finances came through minutes before a feedback meeting with them and it was very disappointing. We didn't get a sense of an overall strategy towards our goals, some of the information was wrong (or contradicted what we'd previously been advised) and there was nothing about post-move to France.
 
