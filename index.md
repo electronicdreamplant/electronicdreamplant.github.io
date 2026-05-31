@@ -9,9 +9,13 @@ title: OX1Digital | About
 
 ![](/img/about.jpg)
 
-## Current role
+## Current status
 
-I'm a Product Manager for [Unilink](https://www.unilink.com/), helping to develop communications products for offenders that allow them to stay in touch with family and friends.
+I'm retired (early) with my wife and are planning a move to France. You can read about our progress [on our 'France' blog](/france/)
+
+## Previous work
+
+I was a Product Manager for [Unilink](https://www.unilink.com/), helping to develop communications products for offenders that allow them to stay in touch with family and friends.
 
 Prior to that I was a Product Owner for Placecube, and held a variety of digital, improvement and project roles in local government.
 
