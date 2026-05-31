@@ -49,8 +49,9 @@ description: Latest version
 
 ### July
 * Both draw down 25% of private pensions
+* Liquidate UK savings and close accounts
+* Open Assurance Vie account with savings
 * Transfer funds to French bank accounts
-* Open Assurance Vie account with savings and house sale proceeds
 * Receive visas
 * **Move to France**
 
