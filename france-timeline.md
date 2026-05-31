@@ -36,15 +36,17 @@ description: Latest version
 * Get French phone numbers
 * Lawrence finishes work
 * Apply for visas and interview appointments
-
+* Get rabies shot for the cat
 
 ### June
+* Get (more) financial advice
 * Lawrence starts Dorset pension
 * Rachel starts Oxfordshire pension
 * French holiday to see the new property
 * Attend visa interviews in London
-* Change wills for French Law
+* Change our wills to deal with French Law
 * Get Apostille stamps for birth/marriage certificates
+* Get French licence plate for the car
 * Get packing!
 
 ### July
@@ -54,6 +56,7 @@ description: Latest version
 * Transfer funds to French bank accounts
 * Receive visas
 * **Move to France**
+* Complete French car import process
 
 ### August
 * House sale completion
