@@ -2,7 +2,7 @@
 layout: france
 title: Our Journey Timeline
 permalink: /france/timeline/
-date: 2026-05-23
+date: 2026-05-31
 description: Latest version
 ---
 
@@ -32,25 +32,31 @@ description: Latest version
 * Sign lease for French property
 * Pay deposit and 1st month's rent
 * Get insurance for health, house and car
+* Start electricity contract
+* Get French phone numbers
 * Lawrence finishes work
+* Apply for visas and interview appointments
+
 
 ### June
 * Lawrence starts Dorset pension
 * Rachel starts Oxfordshire pension
-* Apply for visas
-* French holiday to ready the new property
+* French holiday to see the new property
+* Attend visa interviews in London
+* Change wills for French Law
+* Get Apostille stamps for birth/marriage certificates
 * Get packing!
 
 ### July
 * Both draw down 25% of private pensions
 * Transfer funds to French bank accounts
-* Book/attend visa interviews in London
+* Open Assurance Vie account with savings and house sale proceeds
 * Receive visas
 * **Move to France**
 
 ### August
 * House sale completion
-* Open Assurance Vie account for savings and house sale proceeds
+* Update Assurance Vie with house sale proceeds
 * Convert visa into residency permit
 * Process import of car to France
 
