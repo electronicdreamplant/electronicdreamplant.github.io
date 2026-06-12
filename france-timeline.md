@@ -42,7 +42,7 @@ description: Latest version
 * Get (more) financial advice
 * Lawrence starts Dorset pension
 * Rachel starts Oxfordshire pension
-* French holiday to see the new property
+* French holiday to see the new property/get keys
 * Attend visa interviews in London
 * Change our wills to deal with French Law
 * Get Apostille stamps for birth/marriage certificates

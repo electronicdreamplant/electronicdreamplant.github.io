@@ -80,7 +80,7 @@ That is if I can interpret this when we're back home in the UK!
 
 I managed to set the alarm incorrectly so it went off when the landlords went back in to complete the garage door installation. A bit of miscommunication there that Rachel nipped out to resolve in person. I hate alarm systems.
 
-## Badenwilleir
+## Badenweiller
 
 One of the advantages to being in Alsace is proximity to Germany (and Switzerland). On our last trip we'd met with our friend Alison at her apartment in Freiburg, and popped into the spa there too.
 
