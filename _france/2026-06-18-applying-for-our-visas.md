@@ -2,7 +2,7 @@
 layout: france
 title: Applying for our visas
 date: 2026-06-18
-description: Completing the last milestone to make our move, and financial advice decisions
+description: Completing the last milestone needed to make our move
 ---
 
 ![Receipt of visa application confirmation](/img/visa_1.jpg)
@@ -79,7 +79,7 @@ The 'plush carpeted office' was actually a built-for purpose visa application ce
 
 Once we were in I was struck by the volume of people, the signage, the photo booths, various waiting areas, a separate area with someone taking photos and the first queuing section.
 
-#### Stage 1: Initial filtering
+#### **Stage 1: Initial filtering**
 
 Going back to my airport check-in comparison, we joined a snaking queue (backpacks heaving with our document bundles) until we reached the desk.
 
@@ -89,7 +89,7 @@ This stage really was to check we had our applications, our passports and proof 
 
 Once the person behind the desk finished we were given a ticket with a number (like buying a McDonalds) and told to wait in the next area to be seen.
 
-#### Stage 2: Document verification
+#### **Stage 2: Document verification**
 
 This stage took the longest. We'd been told to expect interviews of around 30 mins, but as there were two of us this took about an hour.
 
@@ -107,7 +107,7 @@ We then paid lots of money and waved goodbye to our passports for now.
 
 Rachel asked about processing time and we were told between 4 and 15 days! To be honest this was a complete surprise - I'd been expecting 6 weeks. All our confirmation paperwork now has 15 July 2026 stamped across it. Game on!
 
-#### Stage 3: Biometrics
+#### **Stage 3: Biometrics**
 
 Actually this bit *was* in a carpeted office with a bright light shining at me, but only for the purposes of facial scans, followed by fingerprint scans.
 
