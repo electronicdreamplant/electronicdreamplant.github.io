@@ -30,7 +30,7 @@ Simple, eh?
 
 The more we talked about in-house camping, the more realistic it felt. In recent years we'd significantly upgraded our camping gear so that our beds are extremely comfortable. Add to that we had a ready-packed set of stuff for cooking. Given we'll have (albeit empty) properties at both ends with power, refrigeration, hot water etc we don't actually need a tent. We would needs beds, some chairs, a table and stuff to cook with
 
-"But", I insisted, "it all needs to fit in the car". So we tested it out!
+"But", I insisted, "it all needs to fit in the car". So we did a test run to make sure.
 
 ![car boot almost fully packed with camping gear](/img/camping-car.jpg)
 
@@ -57,4 +57,15 @@ No one needs a long blog post about what packing is like, so I will spare you th
 
 We achieved a new milestone yesterday in clearing our loft, and things are gradually being added to my old (now unused) office to minimise the chaos. Still a long way to go yet.
 
+Mind you, suddenly becoming physically very active after many months of being so sedentary with working at home means I in real pain most of the time at the moment. I'll be pleased when this is all over.
+
 ## Customs frustrations
+Brexit continues to deliver problems for everyone ten years after it came into force, and for us this is amplified by our wanting to bring our car across with us.
+
+As a 'third country' this means we have to import the car and re-register it as a French vehicle. Sounds straightforward doesn't it? Well, there are a few complications:
+
+* the car needs a Certificate of Conformity (CoC) to prove it meets the requirements of the country. Since it's a German car I thought that would be easy, and had actually applied for a CoC some time back (even getting a version in French) from BMW UK. It turns out this has to come from BMW France, so we've had to repeat this step (and pay €100)
+* if we don't clear the car through French customs and get a specific certificate we could be liable for 30% of the car's value and not be able to register it
+* as our belongings are travelling separately to us, and arriving in France at a different time, we have to work out how we have a single inventory that includes the car BUT doesn't make customs officials think the car is in the removals van.
+
+Sorting this out has taken most of the week, and we're still not entirely certain we have it cracked. Seems crazy when we can't be the first people to do this - advice is really hard to come by (even our removals firm isn't sure). I can see why many UK companies decided to give up on exporting to the EU.
