@@ -1,7 +1,7 @@
 ---
 layout: france
 title: Moving logistics and customs headaches
-date: 2026-06-18
+date: 2026-06-27
 description: Trying to get everything organised without our visas agreed yet
 ---
 
