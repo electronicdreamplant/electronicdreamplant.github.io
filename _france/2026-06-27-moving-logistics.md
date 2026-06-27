@@ -15,8 +15,6 @@ Firstly, that gives us even less time to pack, but it also introduces issues wit
 
 The obvious answer is to stay in hotels, but having our cat in tow makes this impractical.
 
-Rachel's go-to answer is always to camp, which I always reject immediately, but this time we talked it through and it feels like a feasible option.
-
 ## The moving plan
 
 We need to:
@@ -36,7 +34,7 @@ The more we talked about in-house camping, the more realistic it felt. In recent
 
 The cat dilemma is a real one. After driving to Colmar recently it felt like a long drag and had us really fatigued. Imagine throwing a cat into that mix with its own dietary and toiletry needs.
 
-So we devised a strategy where we would drive over via Le Shuttle in one day, spend a night, then put Rachel + cat on the TGV to Strasbourg which gets her across France in less than 4 hours. Meanwhile I take a solo road trip with an overnight stay on the way. We reunite in Eguisheim
+So we devised a strategy where we would drive over via Le Shuttle in one day, spend a night, then put Rachel + cat on the TGV to Strasbourg which gets them all the way across France in less than 4 hours. Meanwhile, I take a solo road trip with an overnight stay on the way. We then reunite in Eguisheim
 
 ## Likely timetable
 Here's how it's looking:
@@ -57,7 +55,7 @@ No one needs a long blog post about what packing is like, so I will spare you th
 
 We achieved a new milestone yesterday in clearing our loft, and things are gradually being added to my old (now unused) office to minimise the chaos. Still a long way to go yet.
 
-Mind you, suddenly becoming physically very active after many months of being so sedentary with working at home means I in real pain most of the time at the moment. I'll be pleased when this is all over.
+Mind you, suddenly becoming physically very active after many months of being so sedentary with working at home means I'm in real pain most of the time at the moment. I'll be pleased when this is all over.
 
 ## Customs frustrations
 Brexit continues to deliver problems for everyone ten years after it came into force, and for us this is amplified by our wanting to bring our car across with us.
