@@ -47,10 +47,10 @@ description: Latest version
 * Change our wills to deal with French Law
 * Get Apostille stamps for birth/marriage certificates
 * Get French licence plate for the car
+* Both draw down 25% of private pensions
 * Get packing!
 
 ### July
-* Both draw down 25% of private pensions
 * Liquidate UK savings and close accounts
 * Open Assurance Vie account with savings
 * Transfer funds to French bank accounts
