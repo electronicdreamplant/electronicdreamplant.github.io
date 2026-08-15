@@ -11,7 +11,7 @@ title: OX1Digital | About
 
 ## Current status
 
-I've retired (early) with my wife and we are planning a relocation to France. You can read about our progress [on our 'France' blog](/france/)
+I've retired (early) with my wife and we have relocated to Alsace, France. You can read about how we got there and what life is like [on our 'France' blog](/france/)
 
 ## Previous work
 
