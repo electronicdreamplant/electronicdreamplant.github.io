@@ -31,7 +31,7 @@ And I can't mention the house without mentioning our landlord and landlady who h
 ## Our neighbourhood
 Our house is located in a deliciously quiet area, on the north-east side of Eguisheim. It's probably a 20 minute walk (at my current speeds) to the village centre, so we don't have any sense of tourists. Just lots of cyclists.
 
-We completely landed on our feet with our neighbours - they are the warmest, kindest people. Betty and Michele are directly opposite to us and we see/speak frequently. Michele has taken a real shine to Rachel and looks after her like a daughter. Betty has already included Rachel in her regular hairdressing arrangements!
+We completely landed on our feet with our neighbours - they are the warmest, kindest people. Betty and Michel are directly opposite to us and we see/speak frequently. Michele has taken a real shine to Rachel and looks after her like a daughter. Betty has already included Rachel in her regular hairdressing arrangements!
 
 Right next door to them is the lovely Alice, who is Betty's mum. She is an absolute delight and so pleased we have moved in. Just yesterday she presented us with a whole basket of plums from her tree.
 
