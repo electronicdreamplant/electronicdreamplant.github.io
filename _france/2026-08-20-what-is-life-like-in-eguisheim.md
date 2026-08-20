@@ -33,7 +33,7 @@ Our house is located in a deliciously quiet area, on the north-east side of Egui
 
 We completely landed on our feet with our neighbours - they are the warmest, kindest people. Betty and Michele are directly opposite to us and we see/speak frequently. Michele has taken a real shine to Rachel and looks after her like a daughter. Betty has already included Rachel in her regular hairdressing arrangements!
 
-Right next door to them is the lovely Alice, who is Betty's mum. She is an absolute delight and so pleased we have moved in.
+Right next door to them is the lovely Alice, who is Betty's mum. She is an absolute delight and so pleased we have moved in. Just yesterday she presented us with a whole basket of plums from her tree.
 
 ## Eguisheim village
 The village itself is insanely gorgeous, and although it is a popular destination for tourists it never feels overrun (unlike parts of Oxford in the summer). There's a lovely laziness about strolling through its streets
@@ -65,7 +65,7 @@ On a Friday night they run 'Englisheim' to get locals and us english speakers to
 ![Englisheim](https://static.wixstatic.com/media/0d731c_582b70bca4f441c3b19b7692b24b0d6d~mv2.png/v1/fill/w_1110,h_1570,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Affiche%20Englisheim%20-%20FINAL%20(3)_edited_pn.png)
 
 ### Local facilities
-In honestly, there are limited places for day-to-day shopping in Eguisheim, although the local Boulangerie is pretty good for baked goods and the odd treat.There is a weekly market on a Tuesday which we've not made it to yet, which is held in the park close by to us.
+In all honesty, there are limited places for day-to-day shopping in Eguisheim, although the local Boulangerie is pretty good for baked goods and the odd treat.There is a weekly market on a Tuesday which we've not made it to yet, which is held in the park close by to us.
 
 The thing is, we are so close to major supermarkets like HyperU and Grand Fräis that tends to be where we go.
 
@@ -76,7 +76,7 @@ The joy of France is that governing is pushed down to the lowest level possible,
 
 Our limited interaction with Le Marie has been entirely positive. We had to register as locals just after we arrived, which was wonderfully informal. But while there Rachel mentioned my mobility issues and asked if there was anything they could do. So the very next day we had a monthly permit to park in the main car park for free to make getting around that bit easier.
 
-There's also a service to check in on your house while you are away on holiday if you give them prior notice. And of course, the pride in the appearance of the village itself means that flowe baskets, litter picking and weedkilling keep the place looking wonderful.
+There's also a service to check in on your house while you are away on holiday if you give them prior notice. And of course, the pride in the appearance of the village itself means that flower displays, litter picking and weedkilling keep the place looking wonderful.
 
 When was UK local government last like this?
 
@@ -95,10 +95,12 @@ For day-to-day life it hasn't been that much of a hindrance. Even in the hospita
 Rachel, of course, is our main communicator when it comes to anything official. Thank god for her! Her german also comes in really handy as this tends to be the second language for a lot of locals.
 
 ## Life online
-I probably spent too much time obsessing about this before we got here.
+I probably spent too much time obsessing about this before we got here than was strictly necessary.
 
-Having a VPN solves any streaming subscription issues easily. Amazon was a little trickier - I started a new account on amazon.fr, but I can have the site present and search in English.
+Having a VPN solves any streaming subscription issues easily. Amazon was a little trickier - I started a new account on amazon.fr, but I can have the site present and search in English. For other sites I've been using the Google Translate extension to enable whole pages to be translated.
 
-Banking has been surprisingly good too. We went with Credit Agricole which does have an English-speaking consierge service if needed. But the banking app is great and easy to use.
+Banking has been surprisingly good. We went with Credit Agricole which does have an English-speaking consierge service if needed. But the standard banking app is great and easy to use.
 
-For me, the medical side of online has been a real breakthough using [Doctolib](www.doctolib.fr) as this puts me in charge of my services. I can search for any professional medical service and book appointments directly with them, filtering by language to make sure I can be understood.
+We've both held on to a UK bank account for receiving pension payments and making regular subscription payments. For me that's the Wise account, and Rachel has kept her HSBC account since they allow overseas customers.
+
+For me, the medical side of online has been a real breakthough using [Doctolib](www.doctolib.fr) as this puts me in charge of my services. I can search for any professional medical service and book appointments directly with them, filtering by language to make sure I can be understood. My prescriptions are added here so I can keep track of what I've been given, and I can also upload any relevant UK medical data I think might be helpful.
