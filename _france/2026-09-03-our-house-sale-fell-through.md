@@ -39,7 +39,8 @@ So, just a week to go before my outpatients appointment with the additional bloo
 The sheer volume of paperwork from all this is really building up. Fingers crossed that by the next blog I'm on the new injections.
 
 ## Eguisheim Wine Festival
-![Main square](https://lh3.googleusercontent.com/sitesv/AG8ngQWAXlPg4uywALZeZmZ1QDT5Uz2Wpfn1tyZts5zPyTW_WfunSViMokqO-lxebE4HnxWMq8C6y7UcqrYf_0e6UcnUX1F1EkW1mmkqoSQ586iuiw9wiAsJmzhLa_MDpUrHSABKk5mQWcWs7-L7nmHeXNpYXuTBj1EHm71fZIbcphCw9xAgkEgBt034D0vsCOMcQQ-nKXIC8oSF-Kgovp-XqjeLAnjVON5vjZHBywSx2cc=w800)
+![Main square](/img/Eguisheim-wine-festival.jpg)
+
 I mentioned in my last post that the grape harvest is in full swing here in Eguisheim, and as part of that (and all across France I suspect) comes an annual wine festival.
 
 Our tiny village homes about 1,400 people normally, but during the festival we'd been warned that the number of people swells to 10,000!
