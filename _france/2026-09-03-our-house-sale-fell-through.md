@@ -21,7 +21,7 @@ All this while we are out of the country, the garden is getting horribly overgro
 
 Watch this space for developments...
 
-EDIT: we just heard from our buyer that she's had second thoughts too, so it's a good thing we've moved on this already.
+EDIT: we just heard from our buyer that she's had second thoughts too, so it's a good thing we've moved on this already. She's going to go ahead with any viewings amd may sell if things go well, but if not then that would be OK too.
 
 ## Health update
 Today I had my long-awaited MRI to help finalise my spondyloarthritis diagnosis. I've had these scans in the past (for my epilepsy) so it was interesting to see how things had changed since my last one.
