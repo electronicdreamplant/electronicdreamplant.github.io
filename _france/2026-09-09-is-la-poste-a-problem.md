@@ -63,6 +63,6 @@ We then juggled the prospect of discussing with the car registration service (AN
 
 When we got back from a trip out with Tim in the car WE HAD MAIL! However, not those tracked items we were really waiting for.
 
-However, the next morning Rachel had a call from La Poste in which they acknowledged there had been a problem (taking note, Royal Mail?) and said they'd send an email to clarify. This essentially promised that the missing items would be delivered that afternoon. And they were delivered!
+The next morning Rachel had a call from La Poste in which they acknowledged there had been a problem (taking note, Royal Mail?) and said they'd send an email to clarify. This essentially promised that the missing items would be delivered that afternoon. And they were delivered!
 
 So the new label is on the postbox and now we are eagerly awaiting our French car number plates.
