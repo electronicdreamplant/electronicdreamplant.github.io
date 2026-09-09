@@ -1,7 +1,7 @@
 ---
 layout: france
 title: Is La Poste a problem?
-date: 2026-09-03
+date: 2026-09-09
 description: What happened to all our mail?
 ---
 
