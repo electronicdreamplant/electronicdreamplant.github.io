@@ -68,6 +68,7 @@ We were particularly keen on [l'AVF Colmar](https://www.avfcolmar.fr/page/292453
 
 ### Munster - Fête de la Transhumance
 ![giant bells being swung above heads](/img/munster-transhumance.jpg)
+
 Munster is home to one of the tastiest (and stinkiest) cheeses in Alsace, so I wasn't sure what we'd encounter at this event.
 
 Being a small town I hadn't expected it to be so packed with people (and cows) for something celebrating the Vosgienne cow and its journey down from summer pastures ready for winter. The streets were lined with people waiting the parade, which was great fun with locals in costumes, not to mention the cows themselves who had been given headdresses and huge bells around their necks (they didn't seem happy about this)
