@@ -88,7 +88,7 @@ Still, the event looks like a cracker, so I must try and go next year!
 
 ## House sale
 
-Well, the house is back on the market, and our fingers tightly crossed.
+Well, the [house is back on the market](https://domvs.co.uk/properties/sale/dorchester/dorchester/tolpuddle-dorchester-dorset-4/), and our fingers tightly crossed.
 
 I have to say that Domus did a fabulous job playing with the photos of our empty house by using a bit of AI magic.
 
