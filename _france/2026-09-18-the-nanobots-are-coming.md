@@ -25,7 +25,7 @@ Of course, the above tale is a lead-in to the news that my super-duper drugs hav
 
 It was a bit of a circuitous route getting to this point. The initial outpatient appointment I had on 11 September was very focused on playing it safe; my MRI tests hadn't confirmed the initial diagnosis (which I found very depressing) so they couldn't be 100% certain that the preferred treatment was the right one.
 
-As explained (really nicely) at the time, rheumatology is a science, but one where it is helpful to put conditions in 'boxes' for ease of diagnosis and treatment. However, life is rarely as convenient as this, with people spanning 2 or 3 of these 'boxes'. Such is the case for me. So the solution was to go in with a safer, broader and less effective drug - the 'Volkswagen' option which is cheaper, does the job but isn't that great really and takes a while to work^*^.
+As explained (really nicely) at the time, rheumatology is a science, but one where it is helpful to put conditions in 'boxes' for ease of diagnosis and treatment. However, life is rarely as convenient as this, with people spanning 2 or 3 of these 'boxes'. Such is the case for me. So the solution was to go in with a safer, broader and less effective drug - the 'Volkswagen' option which is cheaper, does the job but isn't that great really and takes a while to work.
 
 ### A useful intervention
 
