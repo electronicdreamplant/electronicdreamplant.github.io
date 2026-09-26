@@ -81,7 +81,7 @@ What I also learned from the doctor was that Rachel had spoken to Dr Danny and h
 
 At long (too long) last Rachel was allowed into my room and we caught up on everything with streams of tears, declarations of the other being the most wonderful person ever and solemn promises never to be parted again.
 
-Before long the Rheumatology consultant, Dr Philippe, dropped by to say there was a bed available so I could be monitored overnight and they could get on with treatment.
+Before long the Rheumatology consultant, Dr Speilmann, dropped by to say there was a bed available so I could be monitored overnight and they could get on with treatment.
 
 And before you could say "The NHS could never achieve this level of coordination if they tried" I'd been collected by a porter and taken down into the subterranean tunnels below the hospital.
 
