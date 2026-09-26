@@ -89,7 +89,7 @@ And before you could say "The NHS could never achieve this level of coordination
 
 The trip to Bâtiment 43 (Rheumatology) was quite the thrill ride. My bed had been slotted into a protective plexiglass surround by the porter, which (as far as I could tell from my horizontal perspective) included a motorised section at the front, as we were no longer at walking speed. It was a blast! Made me wonder how far these tunnels extend.
 
-Emerging from the depths into Rheumatology I was greeted by five doctors! And that's one of the things that strikes you about being in hospitals here; you don't feel they are overstaffed.
+Emerging from the depths into Rheumatology I was greeted by five doctors! And that's one of the things that strikes you about being in hospitals here; you don't feel they are understaffed.
 
 They were keen to get their hands on my joints so Dr Sophie and her colleague took first pick. They gave me a thorough ultrasound on my hands, shoulders, knees and hips. It was weird watching the screen (which I didn't really understand) as it looked like my bones overlayed with images of the wildfires on them, each one flashing away at various points. I'm guessing it was my blood flow?
 
@@ -106,6 +106,6 @@ After another great night's sleep and being back on anti-inflammatories, much of
 
 I'm being discharged tomorrow but (are you listening NHS?) they will keep my bed open over the weekend in case I have a setback and need to be re-admitted.
 
-Dr Philippe will continue to see me as outpatient, and I need to find an MRI appointment ASAP so that they can confirm their diagnosis and get me on the good drugs (did I mention they have NO side effects?)
+Dr Speilmann will continue to see me as outpatient, and I need to find an MRI appointment ASAP so that they can confirm their diagnosis and get me on the good drugs (did I mention they have NO side effects?)
 
 It's been a rollercoaster, but not one I'd choose to go on again. What has got me to the end has been the unbelievable French health service and the fantastic staff at Hôpital Civils de Colmar. But of course (as my opening para shows) my amazing wife has been the absolute rock I needed and can't live without.
