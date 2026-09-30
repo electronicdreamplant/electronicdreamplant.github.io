@@ -8,7 +8,7 @@ permalink: /france/
   <h1>Moving to France</h1>
 </div>
 
-<div class="form-group" style="padding-top: 1.5rem;">
+<div class="form-group" style="padding-top: 1.5rem; padding-bottom: 1.8rem;">
   <h3>
     <label for="followit-email">Subscribe to France updates</label>
   </h3>
