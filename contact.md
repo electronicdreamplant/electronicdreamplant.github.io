@@ -52,7 +52,7 @@ title: OX1Digital | Contact
     <div class="checkboxes__item">
       <input class="checkboxes__input" id="subscribe_to_france" name="subscribe_to_france" type="checkbox" value="Yes" checked>
       <label class="checkboxes__label" for="subscribe_to_france">
-        Email me automatically whenever new France updates are published
+        Email me automatically whenever new France blog posts are published
       </label>
     </div>
   </div>
