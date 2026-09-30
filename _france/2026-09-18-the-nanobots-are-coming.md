@@ -33,7 +33,7 @@ So off I was sent with a (very cheap) prescription to start taking, with a view 
 
 Now back in the UK such an interaction would probably have been dismissed or ignored, but to their credit the hospital owned up to the mistake of not checking this aspect prior to prescription, and then started their own research to check it out. The outcome was I was called back in for another appointment and discussion.
 
-At this appointment Dr Lionel said that there was a risk of the Volkswagen drug impacting on the efficacy of my epilepsy medication, and so the team had collectively decided that they'd put me on the 'Lamborghini' drugs instead! As Dr Spielmann put it these are the best available, and because they have been on the market more than 10 years the costs have reduced from the €1,000+ we'd been told to expect to more around €330.
+At this appointment Dr Spielmann said that there was a risk of the 'Volkswagen' drug impacting on the efficacy of my epilepsy medication, and so the team had collectively decided that they'd put me on the 'Lamborghini' drugs instead! As Dr Spielmann put it these are the best available, and because they have been on the market more than 10 years the costs have reduced from the €1,000+ we'd been told to expect to more around €330.
 
 This drug searches through the (real) antibodies in my body looking for any with a certain marker, and then essentially gets them to stop attacking my joints and muscles. Hopefully you can now see the point of my intro story.
 
