@@ -115,91 +115,161 @@ footer {
 
 /* Contact Form */
 
+/* Accessible Off-Screen Utility */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  border: 0 !important;
+}
+
+/* Form Container & Spacing */
 .contact-form {
   max-width: 100%;
   margin: 1.5rem 0;
-  display: flex;
-  flex-direction: column;
-  gap: 1.25rem;
 }
 
-.contact-form .form-group {
-  display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
+.form-group {
+  margin-bottom: 1.5rem;
 }
 
-.contact-form label {
-  font-weight: 600;
-  font-size: 0.95rem;
+/* Labels & Hints (Sizes inherit from parent body/headings) */
+.form-label {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
   color: inherit;
 }
 
-.contact-form .optional {
+.form-hint {
+  display: block;
   font-weight: normal;
-  font-size: 0.85rem;
-  opacity: 0.7;
+  opacity: 0.75;
+  margin-bottom: 0.5rem;
 }
 
-.contact-form input[type="text"],
-.contact-form input[type="email"],
-.contact-form textarea {
+.form-hint-inline {
+  font-weight: normal;
+  opacity: 0.75;
+}
+
+/* Controls & Inputs (Square borders, high contrast, inheriting typography) */
+.form-control {
   width: 100%;
-  padding: 0.75rem;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  font-size: 1rem;
   font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  padding: 0.5rem;
+  border: 2px solid currentColor;
+  border-radius: 0; /* GDS square edges */
+  box-sizing: border-box;
   background-color: transparent;
   color: inherit;
+  appearance: none;
+}
+
+textarea.form-control {
+  resize: vertical;
+}
+
+/* GDS High-Contrast Focus Ring */
+.form-control:focus,
+.checkboxes__input:focus + .checkboxes__label::before {
+  outline: 3px solid #ffdd00 !important;
+  outline-offset: 0 !important;
+  box-shadow: inset 0 0 0 2px #000000 !important;
+}
+
+/* Accessible Checkbox Target (40px touch boundary) */
+.checkboxes__item {
+  display: block;
+  position: relative;
+  min-height: 40px;
+  padding-left: 40px;
+}
+
+.checkboxes__input {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.checkboxes__label {
+  display: inline-block;
+  margin-bottom: 0;
+  padding: 8px 0 5px 0;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.checkboxes__item label::before {
+  content: "";
   box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  border: 2px solid currentColor;
+  background: transparent;
 }
 
-.contact-form input[type="text"]:focus,
-.contact-form input[type="email"]:focus,
-.contact-form textarea:focus {
-  outline: none;
-  border-color: #6b21a8; /* Uses signature purple accent */
-  box-shadow: 0 0 0 2px rgba(107, 33, 168, 0.15);
+.checkboxes__item label::after {
+  content: "";
+  position: absolute;
+  top: 11px;
+  left: 9px;
+  width: 18px;
+  height: 9px;
+  border: solid currentColor;
+  border-width: 0 0 4px 4px;
+  border-top: transparent;
+  opacity: 0;
+  transform: rotate(-45deg);
 }
 
-.contact-form .checkbox-group {
-  margin-top: 0.25rem;
+.checkboxes__input:checked + .checkboxes__label::after {
+  opacity: 1;
 }
 
-.contact-form .checkbox-label {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.6rem;
-  font-weight: normal;
-  cursor: pointer;
-  font-size: 0.95rem;
-  line-height: 1.4;
-}
-
-.contact-form .checkbox-label input[type="checkbox"] {
-  margin-top: 0.2rem;
-  width: 1.1rem;
-  height: 1.1rem;
-  cursor: pointer;
-  accent-color: #6b21a8; /* Signature purple checkbox highlight */
-}
-
-.contact-form .submit-btn {
-  align-self: flex-start;
-  padding: 0.75rem 1.5rem;
-  border: 1px solid #6b21a8;
-  border-radius: 4px;
-  background-color: #6b21a8;
-  color: #ffffff;
-  font-size: 1rem;
-  font-weight: 600;
+/* Button Component */
+.submit-btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
   font-family: inherit;
+  font-size: inherit;
+  font-weight: 700;
+  line-height: inherit;
+  color: #ffffff;
+  background-color: #6b21a8; /* Signature purple accent */
+  border: 2px solid transparent;
+  border-radius: 0;
+  box-shadow: 0 2px 0 #3b0764; /* GDS 3D effect shadow */
   cursor: pointer;
-  transition: background-color 0.2s ease, border-color 0.2s ease;
+  appearance: none;
 }
 
-.contact-form .submit-btn:hover {
+.submit-btn:hover {
   background-color: #581c87;
-  border-color: #581c87;
+}
+
+.submit-btn:focus {
+  outline: 3px solid #ffdd00;
+  outline-offset: 0;
+  background-color: #581c87;
+  color: #ffffff;
+}
+
+.submit-btn:active {
+  transform: translateY(2px);
+  box-shadow: none;
 }
