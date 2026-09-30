@@ -3,6 +3,10 @@ layout: main
 title: OX1Digital | Contact
 ---
 
+<div class="page-header">
+  <h1>Contact</h1>
+ </div>
+
 <form action="https://api.web3forms.com/submit" method="POST" class="contact-form" novalidate>
   <!-- Web3Forms Config -->
   <input type="hidden" name="access_key" value="8899d64b-5cf4-4b0a-8a42-aa4d8af56f6d">
