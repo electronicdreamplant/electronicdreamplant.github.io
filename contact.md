@@ -1,3 +1,8 @@
+---
+layout: main
+title: OX1Digital | Contact
+---
+
 <form action="https://api.web3forms.com/submit" method="POST" class="contact-form">
   <!-- Web3Forms Access Key -->
   <input type="hidden" name="access_key" value="8899d64b-5cf4-4b0a-8a42-aa4d8af56f6d">
