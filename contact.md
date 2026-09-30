@@ -29,7 +29,7 @@ title: OX1Digital | Contact
       <label for="email">Email address</label>
     </h3>
     <span id="email-hint" class="form-hint">
-      We’ll only use this to respond to your message or send published updates.
+      We’ll only use this to respond to your message
     </span>
     <input class="form-control" id="email" name="email" type="email" spellcheck="false" aria-describedby="email-hint" autocomplete="email" required>
   </div>
@@ -38,23 +38,12 @@ title: OX1Digital | Contact
   <div class="form-group">
     <h3>
       <label for="message">
-        Message <span class="form-hint-inline">(optional)</span>
+        Message <span class="form-hint-inline"></span>
       </label>
     </h3>
     <span id="message-hint" class="form-hint">
-      Leave this blank if you are only signing up for email updates.
     </span>
     <textarea class="form-control" id="message" name="message" rows="5" aria-describedby="message-hint"></textarea>
-  </div>
-
-  <!-- Checkbox / Opt-in Component -->
-  <div class="form-group">
-    <div class="checkboxes__item">
-      <input class="checkboxes__input" id="subscribe_to_france" name="subscribe_to_france" type="checkbox" value="Yes" checked>
-      <label class="checkboxes__label" for="subscribe_to_france">
-        Email me automatically whenever new France blog posts are published
-      </label>
-    </div>
   </div>
 
   <!-- Button Component -->
