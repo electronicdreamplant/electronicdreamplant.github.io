@@ -14,7 +14,7 @@ title: OX1Digital | Contact
   <!-- Name Field -->
   <div class="form-group">
     <h3>
-      <label for="name">Full name</label>
+      <label for="name">Your name</label>
     </h3>
     <input class="form-control" id="name" name="name" type="text" autocomplete="name" required>
   </div>
