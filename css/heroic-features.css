@@ -112,3 +112,94 @@ footer {
     background-color: rgba(255, 255, 255, 0.1) !important;
   }
 }
+
+/* Contact Form */
+
+.contact-form {
+  max-width: 100%;
+  margin: 1.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.contact-form .form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.contact-form label {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: inherit;
+}
+
+.contact-form .optional {
+  font-weight: normal;
+  font-size: 0.85rem;
+  opacity: 0.7;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-family: inherit;
+  background-color: transparent;
+  color: inherit;
+  box-sizing: border-box;
+}
+
+.contact-form input[type="text"]:focus,
+.contact-form input[type="email"]:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #6b21a8; /* Uses signature purple accent */
+  box-shadow: 0 0 0 2px rgba(107, 33, 168, 0.15);
+}
+
+.contact-form .checkbox-group {
+  margin-top: 0.25rem;
+}
+
+.contact-form .checkbox-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  font-weight: normal;
+  cursor: pointer;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+.contact-form .checkbox-label input[type="checkbox"] {
+  margin-top: 0.2rem;
+  width: 1.1rem;
+  height: 1.1rem;
+  cursor: pointer;
+  accent-color: #6b21a8; /* Signature purple checkbox highlight */
+}
+
+.contact-form .submit-btn {
+  align-self: flex-start;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid #6b21a8;
+  border-radius: 4px;
+  background-color: #6b21a8;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: inherit;
+  cursor: pointer;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.contact-form .submit-btn:hover {
+  background-color: #581c87;
+  border-color: #581c87;
+}
