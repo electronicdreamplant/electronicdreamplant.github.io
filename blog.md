@@ -19,9 +19,9 @@ Pick a topic or [view all posts by year](/all-posts/)
 * [Personal](/tags/personal/) - anything else I've written
 
 <div class="form-group" style="margin-top: 2rem; border-top: 1px solid #ccc; padding-top: 1.5rem;">
-  <h3>
+  <h2>
     <label for="followit-email">Subscribe to France updates</label>
-  </h3>
+  </h2>
   <span id="followit-hint" class="form-hint">
     Get an automatic email whenever a new post about France is published.
   </span>
