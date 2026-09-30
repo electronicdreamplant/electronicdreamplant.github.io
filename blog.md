@@ -28,7 +28,7 @@ Pick a topic or [view all posts by year](/all-posts/)
 
   <form action="https://api.follow.it/subscription-form/dmlpaDNwMWVJbm56dGhxb0dDUDRwTWJEc3NIK0M3MStUdU9MYkpRcG16VEZkdG8yWnRaaHVIOHVBZm9udngxUEgyVWp3REZicWs5R1g2ZUtEc0F0RkVQdm5wUGh5OGl1V0NldUZGQUQ5MzVORS9sVkMxcTUvUW9MUkhBNDAyZkl8RE96djNTQWNiMGtmU1FKOGdzc3hGZEtYY3h6YkZ4Q05LWURha0dpa0xWRT0=/8" method="post" style="margin-top: 0.75rem;">
     <input class="form-control" type="email" id="followit-email" name="email" spellcheck="false" aria-describedby="followit-hint" placeholder="you@example.com" required style="margin-bottom: 0.75rem;">
-    <button type="submit" class="submit-btn">Subscribe via Follow.it</button>
+    <button type="submit" class="submit-btn">Subscribe</button>
   </form>
 </div>
 
