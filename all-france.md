@@ -8,14 +8,7 @@ permalink: /france/
   <h1>Moving to France</h1>
 </div>
 
-<div class="featured-timeline">
-  <h3><a href="/france/timeline/">France: Our Journey Timeline</a></h3>
-  <p>
-    A current timeline of our progress and key milestones.
-  </p>
-</div>
-
-<div class="form-group" style="margin-top: 2rem; border-top: 1px solid #ccc; padding-top: 1.5rem;">
+<div class="form-group" padding-top: 1.5rem; padding-bottom: 1.5rem;">
   <h3>
     <label for="followit-email">Subscribe to France updates</label>
   </h3>
@@ -29,6 +22,12 @@ permalink: /france/
   </form>
 </div>
 
+<div class="featured-timeline">
+  <h3><a href="/france/timeline/">France: Our Journey Timeline</a></h3>
+  <p>
+    A current timeline of our progress and key milestones.
+  </p>
+</div>
 
 <h2>Blog Posts</h2>
 
