@@ -6,14 +6,12 @@ title: OX1Digital | Contact
 <form action="https://api.web3forms.com/submit" method="POST" class="contact-form">
   <!-- Web3Forms Access Key -->
   <input type="hidden" name="access_key" value="8899d64b-5cf4-4b0a-8a42-aa4d8af56f6d">
-
-  <!-- Custom Subject for Incoming Emails -->
   <input type="hidden" name="subject" value="New Contact / France Subscription Request">
 
-  <!-- Honeypot Bot Trap (Hidden via inline CSS to fool spambots) -->
+  <!-- Honeypot Bot Trap -->
   <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
 
-  <!-- Form Inputs -->
+  <!-- Form Fields -->
   <div class="form-group">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" placeholder="Your name" required>
