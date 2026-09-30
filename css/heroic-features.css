@@ -137,16 +137,26 @@ footer {
   margin-bottom: 1.5rem;
 }
 
-/* Labels & Hints (Sizes inherit from parent body/headings) */
-.form-label {
-  display: block;
-  font-weight: 700;
+/* Headings & Labels */
+.form-group h3 {
+  margin-top: 0;
   margin-bottom: 0.25rem;
-  color: inherit;
 }
 
+.form-group h3 label {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+  display: block;
+  cursor: pointer;
+}
+
+/* Hints (Inherits normal site body text) */
 .form-hint {
   display: block;
+  font-family: inherit;
+  font-size: inherit;
   font-weight: normal;
   opacity: 0.75;
   margin-bottom: 0.5rem;
@@ -154,6 +164,7 @@ footer {
 
 .form-hint-inline {
   font-weight: normal;
+  font-size: 0.85em;
   opacity: 0.75;
 }
 
@@ -165,7 +176,7 @@ footer {
   line-height: inherit;
   padding: 0.5rem;
   border: 2px solid currentColor;
-  border-radius: 0; /* GDS square edges */
+  border-radius: 0;
   box-sizing: border-box;
   background-color: transparent;
   color: inherit;
@@ -205,6 +216,8 @@ textarea.form-control {
 
 .checkboxes__label {
   display: inline-block;
+  font-family: inherit;
+  font-size: inherit;
   margin-bottom: 0;
   padding: 8px 0 5px 0;
   cursor: pointer;
@@ -250,10 +263,10 @@ textarea.form-control {
   font-weight: 700;
   line-height: inherit;
   color: #ffffff;
-  background-color: #6b21a8; /* Signature purple accent */
+  background-color: #6b21a8;
   border: 2px solid transparent;
   border-radius: 0;
-  box-shadow: 0 2px 0 #3b0764; /* GDS 3D effect shadow */
+  box-shadow: 0 2px 0 #3b0764;
   cursor: pointer;
   appearance: none;
 }
