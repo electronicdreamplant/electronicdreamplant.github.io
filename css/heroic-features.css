@@ -286,3 +286,18 @@ textarea.form-control {
   transform: translateY(2px);
   box-shadow: none;
 }
+
+/* Reusable Subscription Component Section */
+.followit-subscribe-section {
+  padding-bottom: 2rem; /* Adds requested bottom clearance */
+}
+
+.followit-form {
+  margin-top: 0.75rem;
+}
+
+/* Ensure the character-constrained email field maintains sizing */
+.form-control--char-30 {
+  max-width: 30ch;
+  width: 100%;
+}
