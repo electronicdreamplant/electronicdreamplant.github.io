@@ -18,18 +18,6 @@ Pick a topic or [view all posts by year](/all-posts/)
 * [Projects](/tags/projects/) - tech projects I've worked on
 * [Personal](/tags/personal/) - anything else I've written
 
-<div class="form-group" style="margin-top: 2rem; border-top: 1px solid #ccc; padding-top: 1.5rem;">
-  <h2>
-    <label for="followit-email">Subscribe to France updates</label>
-  </h2>
-  <span id="followit-hint" class="form-hint">
-    Get an automatic email whenever a new post about France is published.
-  </span>
-
-  <form action="https://api.follow.it/subscription-form/dmlpaDNwMWVJbm56dGhxb0dDUDRwTWJEc3NIK0M3MStUdU9MYkpRcG16VEZkdG8yWnRaaHVIOHVBZm9udngxUEgyVWp3REZicWs5R1g2ZUtEc0F0RkVQdm5wUGh5OGl1V0NldUZGQUQ5MzVORS9sVkMxcTUvUW9MUkhBNDAyZkl8RE96djNTQWNiMGtmU1FKOGdzc3hGZEtYY3h6YkZ4Q05LWURha0dpa0xWRT0=/8" method="post" style="margin-top: 0.75rem;">
-    <input class="form-control" type="email" id="followit-email" name="email" spellcheck="false" aria-describedby="followit-hint" placeholder="you@example.com" required style="margin-bottom: 0.75rem;">
-    <button type="submit" class="submit-btn">Subscribe</button>
-  </form>
-</div>
+{% include subscribe_form.html %}
 
 {% include latest_post.html %}
