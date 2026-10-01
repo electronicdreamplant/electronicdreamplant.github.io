@@ -301,3 +301,65 @@ textarea.form-control {
   max-width: 30ch;
   width: 100%;
 }
+
+/* GDS Details Component Styling */
+.gds-details {
+  font-family: inherit;
+  font-size: inherit;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  color: inherit;
+}
+
+.gds-details__summary {
+  display: inline-block;
+  position: relative;
+  padding-left: 1.25rem;
+  color: #800080; /* Matches site purple link color */
+  cursor: pointer;
+}
+
+.gds-details__summary:hover {
+  color: #660066;
+}
+
+.gds-details__summary-text {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* Custom Disclosure Triangle Alignment */
+.gds-details__summary::-webkit-details-marker {
+  display: none; /* Hide default webkit arrow */
+}
+
+.gds-details__summary::before {
+  content: "";
+  position: absolute;
+  top: 0.4em;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0.35em 0 0.35em 0.5em;
+  border-color: transparent transparent transparent currentColor;
+}
+
+.gds-details[open] > .gds-details__summary::before {
+  border-width: 0.5em 0.35em 0 0.35em;
+  border-color: currentColor transparent transparent transparent;
+}
+
+.gds-details__text {
+  padding: 0.75rem 0 0.25rem 1.25rem;
+  border-left: 4px solid #800080; /* GDS left-accent bar */
+  margin-top: 0.5rem;
+  opacity: 0.85;
+}
+
+.gds-details__summary:focus {
+  outline: 3px solid #ffdd00;
+  outline-offset: 2px;
+  background-color: #ffdd00;
+  color: #000000;
+}
