@@ -8,6 +8,8 @@ permalink: /france/
   <h1>Moving to France</h1>
 </div>
 
+{% include subscribe_form.html %}
+
 <div class="featured-timeline">
   <h3><a href="/france/timeline/">France: Our Journey Timeline</a></h3>
   <p>

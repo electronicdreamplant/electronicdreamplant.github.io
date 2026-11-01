@@ -112,3 +112,254 @@ footer {
     background-color: rgba(255, 255, 255, 0.1) !important;
   }
 }
+
+/* Contact Form */
+
+/* Accessible Off-Screen Utility */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip: rect(0 0 0 0) !important;
+  border: 0 !important;
+}
+
+/* Form Container & Spacing */
+.contact-form {
+  max-width: 100%;
+  margin: 1.5rem 0;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+/* Headings & Labels */
+.form-group h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.form-group h3 label {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  color: inherit;
+  display: block;
+  cursor: pointer;
+}
+
+/* Hints (Inherits normal site body text) */
+.form-hint {
+  display: block;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: normal;
+  opacity: 0.75;
+  margin-bottom: 0.5rem;
+}
+
+.form-hint-inline {
+  font-weight: normal;
+  font-size: 0.85em;
+  opacity: 0.75;
+}
+
+/* Controls & Inputs (Square borders, high contrast, inheriting typography) */
+.form-control {
+  width: 100%;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  padding: 0.5rem;
+  border: 2px solid currentColor;
+  border-radius: 0;
+  box-sizing: border-box;
+  background-color: transparent;
+  color: inherit;
+  appearance: none;
+}
+
+textarea.form-control {
+  resize: vertical;
+}
+
+/* GDS High-Contrast Focus Ring */
+.form-control:focus,
+.checkboxes__input:focus + .checkboxes__label::before {
+  outline: 3px solid #ffdd00 !important;
+  outline-offset: 0 !important;
+  box-shadow: inset 0 0 0 2px #000000 !important;
+}
+
+/* Accessible Checkbox Target & Spacing */
+.checkboxes__item {
+  display: block;
+  position: relative;
+  min-height: 40px;
+  padding-left: 55px; /* Increased from 40px to give the label room */
+}
+
+.checkboxes__input {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.checkboxes__label {
+  display: inline-block;
+  font-family: inherit;
+  font-size: inherit;
+  margin-bottom: 0;
+  padding: 8px 0 5px 0;
+  cursor: pointer;
+  touch-action: manipulation;
+}
+
+.checkboxes__item label::before {
+  content: "";
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  border: 2px solid currentColor;
+  background: transparent;
+}
+
+.checkboxes__item label::after {
+  content: "";
+  position: absolute;
+  top: 11px;
+  left: 9px;
+  width: 18px;
+  height: 9px;
+  border: solid currentColor;
+  border-width: 0 0 4px 4px;
+  border-top: transparent;
+  opacity: 0;
+  transform: rotate(-45deg);
+}
+
+.checkboxes__input:checked + .checkboxes__label::after {
+  opacity: 1;
+}
+
+/* Button Component (Matching Header Purple) */
+.submit-btn {
+  display: inline-block;
+  padding: 0.65rem 1.4rem;
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 700;
+  line-height: inherit;
+  color: #ffffff;
+  background-color: #800080; /* Matches exact header purple */
+  border: 2px solid transparent;
+  border-radius: 0;
+  box-shadow: 0 3px 0 #4a004a; /* Slightly darker shade for the GDS depth effect */
+  cursor: pointer;
+  appearance: none;
+}
+
+.submit-btn:hover {
+  background-color: #660066;
+}
+
+.submit-btn:focus {
+  outline: 3px solid #ffdd00;
+  outline-offset: 0;
+  background-color: #660066;
+  color: #ffffff;
+}
+
+.submit-btn:active {
+  transform: translateY(2px);
+  box-shadow: none;
+}
+
+/* Reusable Subscription Component Section */
+.followit-subscribe-section {
+  padding-bottom: 2rem; /* Adds requested bottom clearance */
+}
+
+.followit-form {
+  margin-top: 0.75rem;
+}
+
+/* Ensure the character-constrained email field maintains sizing */
+.form-control--char-30 {
+  max-width: 30ch;
+  width: 100%;
+}
+
+/* GDS Details Component Styling */
+.gds-details {
+  font-family: inherit;
+  font-size: inherit;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  color: inherit;
+}
+
+.gds-details__summary {
+  display: inline-block;
+  position: relative;
+  padding-left: 1.25rem;
+  color: #800080; /* Matches site purple link color */
+  cursor: pointer;
+}
+
+.gds-details__summary:hover {
+  color: #660066;
+}
+
+.gds-details__summary-text {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+/* Custom Disclosure Triangle Alignment */
+.gds-details__summary::-webkit-details-marker {
+  display: none; /* Hide default webkit arrow */
+}
+
+.gds-details__summary::before {
+  content: "";
+  position: absolute;
+  top: 0.4em;
+  left: 0;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 0.35em 0 0.35em 0.5em;
+  border-color: transparent transparent transparent currentColor;
+}
+
+.gds-details[open] > .gds-details__summary::before {
+  border-width: 0.5em 0.35em 0 0.35em;
+  border-color: currentColor transparent transparent transparent;
+}
+
+.gds-details__text {
+  padding: 0.75rem 0 0.25rem 1.25rem;
+  border-left: 4px solid #800080; /* GDS left-accent bar */
+  margin-top: 0.5rem;
+  opacity: 0.85;
+}
+
+.gds-details__summary:focus {
+  outline: 3px solid #ffdd00;
+  outline-offset: 2px;
+  background-color: #ffdd00;
+  color: #000000;
+}

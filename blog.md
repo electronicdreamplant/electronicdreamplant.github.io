@@ -18,4 +18,6 @@ Pick a topic or [view all posts by year](/all-posts/)
 * [Projects](/tags/projects/) - tech projects I've worked on
 * [Personal](/tags/personal/) - anything else I've written
 
+{% include subscribe_form.html %}
+
 {% include latest_post.html %}

@@ -1,0 +1,53 @@
+---
+layout: main
+title: OX1Digital | Contact
+---
+
+<div class="page-header">
+  <h1>Contact</h1>
+ </div>
+
+<form action="https://api.web3forms.com/submit" method="POST" class="contact-form" novalidate>
+  <!-- Web3Forms Config -->
+  <input type="hidden" name="access_key" value="8899d64b-5cf4-4b0a-8a42-aa4d8af56f6d">
+  <input type="hidden" name="subject" value="New Contact / France Subscription Request">
+
+  <!-- Honeypot Bot Trap -->
+  <input type="checkbox" name="botcheck" class="visually-hidden" tabindex="-1" autocomplete="off">
+
+  <!-- Name Field -->
+  <div class="form-group">
+    <h3>
+      <label for="name">Your name</label>
+    </h3>
+    <input class="form-control" id="name" name="name" type="text" autocomplete="name" required>
+  </div>
+
+  <!-- Email Field -->
+  <div class="form-group">
+    <h3>
+      <label for="email">Email address</label>
+    </h3>
+    <span id="email-hint" class="form-hint">
+      We’ll only use this to respond to your message
+    </span>
+    <input class="form-control" id="email" name="email" type="email" spellcheck="false" aria-describedby="email-hint" autocomplete="email" required>
+  </div>
+
+  <!-- Message Field -->
+  <div class="form-group">
+    <h3>
+      <label for="message">
+        Message <span class="form-hint-inline"></span>
+      </label>
+    </h3>
+    <span id="message-hint" class="form-hint">
+    </span>
+    <textarea class="form-control" id="message" name="message" rows="5" aria-describedby="message-hint"></textarea>
+  </div>
+
+  <!-- Button Component -->
+  <button type="submit" class="submit-btn">
+    Send message
+  </button>
+</form>

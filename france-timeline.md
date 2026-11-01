@@ -6,6 +6,8 @@ date: 2026-05-31
 description: Latest version
 ---
 
+{% include subscribe_form.html %}
+
 ## 2026
 ### February
 * Get house valued

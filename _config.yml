@@ -23,3 +23,7 @@ feed:
   path: feed.xml
   title: "OX1Digital"
   description: "My personal blog and information about me"
+  collections:
+    france:
+      path: "/france.xml"
+      title: "OX1Digital - France blog posts"
