@@ -28,8 +28,6 @@ Unfortunately, getting hold of the much-desired [Carte Vitale](https://www.ameli
 
 But we may have had some positive news on the hospital costs front. For months I've been sweating over the potential costs of my 5-night stay with all its associated tests, and carving out some provision for it in our financial plans. Today we received a statement for the costs of the stay, requesting a (non-state funding) contribution of just over €1,000 which is amazing if we can keep it to this. But looking over the invoice it suggests that the maximum (complete) charge could be just under €5,000 in total.
 
-Our strategy is to still contest with our own insurance having to pay for ANYTHING as that's why we took out health insurance. My personal view is I doubt they'll do the decent thing and we'll end up sucking up the costs on the statement, but it's worth a try.
-
 ## Rachel's trip to the UK
 Such was Rachel's confidence in my recovery, and my ability to now cover off the basics such as actually feeding myself, that she promptly got on a train and escaped to the UK for a family visit.
 
